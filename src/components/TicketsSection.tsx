@@ -66,6 +66,29 @@ export default function TicketsSection() {
               <PriceRow label={t('children')} value={t('childrenPrice')} isFree />
             </div>
           </div>
+
+          {/* Monument Access */}
+          <div
+            className="rounded-2xl p-6 sm:p-8"
+            style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}
+          >
+            <div className="flex items-center gap-3 mb-4">
+              <div
+                className="w-12 h-12 rounded-full flex items-center justify-center"
+                style={{ background: 'var(--accent)' }}
+              >
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="2">
+                  <path d="M4 7h16M4 12h16M4 17h10" />
+                </svg>
+              </div>
+              <h3 className="font-display text-xl font-semibold" style={{ color: 'var(--text-primary)' }}>
+                {t('admission')}
+              </h3>
+            </div>
+            <div className="space-y-3">
+              <PriceRow label={t('admissionLabel')} value={t('admissionPrice')} />
+            </div>
+          </div>
         </div>
 
         {/* Travel Pass */}

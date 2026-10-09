@@ -63,6 +63,15 @@ export default {
   async fetch(request, env, ctx) {
     const url = new URL(request.url);
 
+    // 0) 规范域名与协议：生产环境下，非 www / http 一律 308 到 https://www.
+    const host = url.hostname.toLowerCase();
+    const isProdHost =
+      host === 'monumentoalpipila.com' || host === 'www.monumentoalpipila.com';
+    if (isProdHost && (host !== 'www.monumentoalpipila.com' || url.protocol !== 'https:')) {
+      const target = `https://www.monumentoalpipila.com${url.pathname}${url.search}`;
+      return Response.redirect(target, 308);
+    }
+
     // 1) 天气接口由 Worker 代取并缓存
     if (url.pathname === '/api/weather') {
       return serveWeather(ctx);

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Monumento al Pípila Guanajuato | Mejor mirador y guía del funicular",
-    "description": "Visita el mirador de El Pípila en Guanajuato: horarios y precio del funicular, vistas al atardecer y de noche, historia del monumento de 1939 y qué ver cerca."
+    "title": "Monumento al Pípila Guanajuato | Horarios, Precios y Cómo Llegar",
+    "description": "Visita el Monumento al Pípila en Guanajuato. Descubre cómo llegar, precios del funicular, horarios, historia y los mejores consejos para disfrutar del mirador."
   },
   "funicularGuide": {
     "title": "Funicular de Guanajuato a El Pípila: precio, horario y consejos",
@@ -61,6 +61,147 @@
     "ctaHomeLabel": "Volver a la guía principal de El Pípila",
     "backLabel": "Volver a las cosas que hacer en Guanajuato"
   },
+  "howToGetThere": {
+    "title": "Cómo llegar al Monumento al Pípila en Guanajuato",
+    "description": "Cómo llegar al Monumento al Pípila en Guanajuato: a pie desde el centro, en teleférico, en taxi o autobús, y desde el aeropuerto de León. Rutas, tiempos y consejos prácticos.",
+    "eyebrow": "Cómo llegar",
+    "lastUpdated": "Actualizado: octubre 2026",
+    "introTitle": "Llegar al mirador más famoso de Guanajuato",
+    "intro": [
+      "El Monumento al Pípila se encuentra en lo alto del Cerro de San Miguel, justo al este del centro histórico de Guanajuato. Hay tres formas principales de subir: caminando por las calles empedradas, tomando el teleférico (funicular) detrás del Teatro Juárez, o en taxi o vehículo hasta la zona panorámica.",
+      "La opción gratuita es la caminata; la más cómoda es el teleférico; y si viajas con niños, equipaje o movilidad reducida, el taxi o el acceso en coche hasta la parte alta son las mejores alternativas."
+    ],
+    "factsTitle": "Datos para planear el trayecto",
+    "facts": [
+      { "name": "Ubicación", "value": "Cerro de San Miguel, a un costado del centro de Guanajuato" },
+      { "name": "A pie desde el centro", "value": "20-30 minutos de subida por calles y escalinatas" },
+      { "name": "Teleférico (funicular)", "value": "Unos 1 minuto; adulto aprox. MX$35 ida / MX$70 redondo" },
+      { "name": "En coche o taxi", "value": "Acceso por la carretera panorámica; estacionamiento limitado arriba" },
+      { "name": "Desde el aeropuerto", "value": "Aeropuerto de León (BJX), a ~1.5 h en carretera" }
+    ],
+    "sections": [
+      {
+        "id": "a-pie",
+        "title": "A pie desde el centro histórico",
+        "paragraphs": [
+          "La ruta clásica sale de la zona de Jardín de la Unión o Teatro Juárez y sube por calles empedradas, escalinatas y rampas durante unos 20-30 minutos. Es empinada pero pintoresca, y pasa junto a pequeños comercios y miradores intermedios.",
+          "Un truco popular es subir en teleférico y bajar caminando (o al revés): así combinas la vista aérea con el paseo por las famosas callejones de Guanajuato. Durante el día la ruta suele estar concurrida y se siente segura."
+        ]
+      },
+      {
+        "id": "teleferico",
+        "title": "En teleférico (funicular)",
+        "paragraphs": [
+          "La estación inferior está detrás del Teatro Juárez, junto a Jardín de la Unión; busca la pequeña taquilla y la sala de espera acristalada. El teleférico sube en ambos sentidos, así que puedes comprar boleto en cualquier extremo.",
+          "Desde la estación superior sales directamente a la plaza del monumento, junto a la escultura de 28 metros, los miradores y los puestos de artesanías. Los boletos suelen comprarse de ida y vuelta; confirma el tarifario en la taquilla, ya que los precios pueden cambiar."
+        ]
+      },
+      {
+        "id": "taxi-coche",
+        "title": "En taxi, rideshare o coche",
+        "paragraphs": [
+          "Un taxi o vehículo de app desde el centro cuesta una fracción del precio del teleférico y deja más cerca de la parte alta. La carretera panorámica serpentea la montaña y tiene tráfico limitado, así que conviene acordar el precio antes de subir.",
+          "Arriba hay estacionamiento, aunque reducido los fines de semana y festivos. Si vas en coche propio, llega temprano para asegurar lugar, sobre todo al atardecer."
+        ]
+      },
+      {
+        "id": "desde-leon",
+        "title": "Desde el aeropuerto de León (BJX) y otras ciudades",
+        "paragraphs": [
+          "El aeropuerto internacional más cercano es el de León (BJX), a unos 90-100 km y 1.5 horas en carretera hacia Guanajuato. Desde allí puedes rentar auto, tomar un autobús ejecutivo o una transferencia compartida hasta el centro.",
+          "Si vienes en autobús desde Ciudad de México, Querétaro o San Miguel de Allende, la terminal de Guanajuato queda en la periferia; desde ahí un taxi te deja en el centro y ya eliges cómo subir al Pípila."
+        ]
+      },
+      {
+        "id": "consejos",
+        "title": "Consejos prácticos",
+        "paragraphs": [
+          "Lleva agua y calzado cómodo si vas a caminar: la subida puede dar calor y viento en la cima. Al atardecer, llega con antelación para encontrar sitio y disfrutar la vista antes de que cierre el teleférico.",
+          "El acceso peatonal y la plaza panorámica son gratuitos; el acceso al monumento tiene una entrada general de aproximadamente MX$13 (tarifa local 2026). El teleférico es un transporte de pago aparte."
+        ]
+      }
+    ],
+    "faqTitle": "Cómo llegar al Pípila: dudas frecuentes",
+    "faq": [
+      { "q": "¿Se puede llegar caminando al Monumento al Pípila?", "a": "Sí. Desde el centro histórico se sube en 20-30 minutos por calles empedradas y escalinatas. La ruta es empinada pero gratuita y pintoresca." },
+      { "q": "¿Dónde está la estación del teleférico?", "a": "Detrás del Teatro Juárez, junto a Jardín de la Unión, en el centro de Guanajuato. La estación superior queda justo en la plaza del monumento." },
+      { "q": "¿Cuánto cuesta el teleférico?", "a": "El tarifario publicado ha rondado MX$35 ida y MX$70 redondo para adulto, con tarifas menores para niños y personas mayores; confirma el precio en la taquilla." },
+      { "q": "¿Se puede llegar en coche o taxi?", "a": "Sí. Un taxi o app desde el centro es barato y deja cerca de la parte alta; en coche hay estacionamiento limitado arriba, sobre todo los fines de semana." },
+      { "q": "¿El monumento es gratuito?", "a": "La plaza y el mirador al aire libre son gratuitos. El acceso al monumento tiene una entrada general de aproximadamente MX$13 (tarifa local 2026), y el teleférico es un transporte aparte de pago." }
+    ],
+    "ctaCardTitle": "Sigue explorando Guanajuato",
+    "ctaCardText": "Ya sabes cómo llegar: completa tu visita con el horario, los precios del teleférico y los mejores momentos para fotografiar el mirador.",
+    "ctaCardLabel": "Cosas que hacer en Guanajuato",
+    "ctaHomeLabel": "Volver a la guía principal del Pípila",
+    "backLabel": "Volver a cosas que hacer en Guanajuato"
+  },
+  "pipilaHistory": {
+    "title": "Historia del Monumento al Pípila: quién fue y por qué existe",
+    "description": "Historia del Monumento al Pípila: quién fue El Pípila (Juan José de los Reyes Martínez Amaro), el Sitio de Guanajuato de 1810, la construcción del monumento (1939-1940) y su significado.",
+    "eyebrow": "Historia",
+    "lastUpdated": "Actualizado: octubre 2026",
+    "introTitle": "Del héroe de la independencia al mirador de la ciudad",
+    "intro": [
+      "El Monumento al Pípila conmemora a Juan José de los Reyes Martínez Amaro, apodado 'El Pípila', un minero que se volvió símbolo de la Guerra de Independencia de México. La escultura de piedra de 28 metros, en lo alto del Cerro de San Miguel, es hoy uno de los miradores más famosos de Guanajuato.",
+      "Su historia une un hecho bélico de 1810 con un monumento construido en el siglo XX para honrar esa gesta. A continuación, los datos verificados y el contexto que explican por qué esta figura domina la ciudad."
+    ],
+    "factsTitle": "Fechas y datos clave",
+    "facts": [
+      { "name": "Héroe", "value": "Juan José de los Reyes Martínez Amaro, 'El Pípila'" },
+      { "name": "Hecho histórico", "value": "Sitio de Guanajuato, 28 de septiembre de 1810" },
+      { "name": "Inicio de la obra", "value": "15 de enero de 1939" },
+      { "name": "Inauguración", "value": "5 de febrero de 1940" },
+      { "name": "Altura", "value": "28 metros" },
+      { "name": "Autores", "value": "Escultor Juan Fernando Olaguíbel y arquitecto Augusto Petriccioli" }
+    ],
+    "sections": [
+      {
+        "id": "quien-fue",
+        "title": "Quién fue El Pípila",
+        "paragraphs": [
+          "Juan José de los Reyes Martínez Amaro, conocido como El Pípila, era un minero nacido en Guanajuato. Su apodo, 'pipila', era una voz local para referirse a las personas con pies planos o callosos, propio de quienes caminaban descalzos por las minas.",
+          "Durante la Guerra de Independencia de México, El Pípila pasó a la historia por una acción individual de gran valor durante el Sitio de Guanajuato, el 28 de septiembre de 1810."
+        ]
+      },
+      {
+        "id": "sitio-1810",
+        "title": "El Sitio de Guanajuato (28 de septiembre de 1810)",
+        "paragraphs": [
+          "En los primeros días de la insurrección, las fuerzas insurgentes tomaron Guanajuato y se atrincheraron en la Alhóndiga de Granaditas, un gran granero público convertido en fortín español. Tomar ese recinto era clave para controlar la ciudad.",
+          "El Pípila se echó una pesada plancha de piedra a la espalda como escudo contra las balas, avanzó hasta la puerta de madera y le prendió fuego con su antorcha y brea. La puerta cedió, los insurgentes entraron y tomaron la Alhóndiga. La gesta lo convirtió en héroe popular de la independencia."
+        ]
+      },
+      {
+        "id": "monumento-1939",
+        "title": "La construcción del monumento (1939-1940)",
+        "paragraphs": [
+          "Siglos después, el ayuntamiento de Guanajuato encargó un monumento para honrar a El Pípila en lo alto del Cerro de San Miguel. La obra comenzó el 15 de enero de 1939 y el monumento se inauguró el 5 de febrero de 1940.",
+          "No se trata de un obelisco, sino de una escultura conmemorativa de piedra: una figura masculina que sostiene una antorcha, obra del escultor Juan Fernando Olaguíbel con el arquitecto Augusto Petriccioli. Su tamaño la hizo visible desde buena parte de la ciudad."
+        ]
+      },
+      {
+        "id": "significado",
+        "title": "Qué ver hoy y por qué importa",
+        "paragraphs": [
+          "Hoy el monumento es a la vez un sitio histórico y el mirador panorámico más icónico de Guanajuato: desde su plaza se abarca gran parte de la ciudad y el valle. Por eso miles de visitantes suben cada año.",
+          "La figura recuerda el coraje individual en la gesta de independencia y se ha convertido en símbolo de la identidad de Guanajuato. La explanada también es escenario de eventos cívicos y uno de los mejores puntos para fotografiar la ciudad al atardecer."
+        ]
+      }
+    ],
+    "faqTitle": "Historia del Pípila: preguntas frecuentes",
+    "faq": [
+      { "q": "¿Quién fue El Pípila?", "a": "Juan José de los Reyes Martínez Amaro, minero de Guanajuato apodado 'El Pípila', héroe de la Guerra de Independencia de México por su acción en el Sitio de Guanajuato de 1810." },
+      { "q": "¿Qué hizo en el Sitio de Guanajuato?", "a": "El 28 de septiembre de 1810 cargó una plancha de piedra como escudo, llegó a la puerta de la Alhóndiga de Granaditas y le prendió fuego, permitiendo que los insurgentes tomaran el recinto." },
+      { "q": "¿Cuándo se construyó el monumento?", "a": "La obra comenzó el 15 de enero de 1939 y el monumento se inauguró el 5 de febrero de 1940." },
+      { "q": "¿El monumento es un obelisco?", "a": "No. Es una escultura conmemorativa de piedra de 28 metros: una figura masculina con una antorcha, diseñada por el escultor Juan Fernando Olaguíbel y el arquitecto Augusto Petriccioli." },
+      { "q": "¿Por qué es importante el mirador?", "a": "Porque desde la plaza del monumento se ve gran parte de Guanajuato y su valle; es el punto panorámico más conocido de la ciudad y un símbolo de su identidad." }
+    ],
+    "ctaCardTitle": "Planifica tu visita al Pípila",
+    "ctaCardText": "Conoce la historia y completa tu plan con cómo llegar, los horarios y los mejores momentos para fotografiar el mirador.",
+    "ctaCardLabel": "Cosas que hacer en Guanajuato",
+    "ctaHomeLabel": "Volver a la guía principal del Pípila",
+    "backLabel": "Volver a cosas que hacer en Guanajuato"
+  },
   "pipilaSunsetGuide": {
     "title": "El Pípila al atardecer y de noche: el mejor momento, fotos y consejos",
     "description": "Guía completa para ver el atardecer y el anochecer desde el Monumento al Pípila, en Guanajuato: a qué hora llegar según la temporada, cómo cambia la vista, dónde tomar las mejores fotos y cómo bajar al oscurecer.",
@@ -112,6 +253,213 @@
     "ctaThingsLabel": "15 mejores cosas que hacer en Guanajuato",
     "ctaFunicularLabel": "Guía del funicular: precios, horarios y consejos",
     "backLabel": "Volver a la guía del funicular de El Pípila"
+  },
+  "pipilaViewpoint": {
+    "title": "Mirador del Pípila: el mejor punto y hora para fotos",
+    "description": "Dónde pararte en el mirador del Monumento al Pípila y a qué hora sacar las mejores fotos de Guanajuato: hora dorada, hora azul, ángulos y consejos de composición.",
+    "eyebrow": "Guía del mirador y fotografía",
+    "lastUpdated": "Actualizado: septiembre de 2026",
+    "introTitle": "Una terraza sobre todo Guanajuato",
+    "intro": [
+      "El Monumento al Pípila se asienta en la cima del Cerro de San Miguel, a unos 2.600 metros sobre el nivel del mar y unos 150 metros por encima del centro histórico. Desde su amplia terraza se abre una de las panorámicas más famosas de México: el casco colonial pintado de colores, el cañón de tejados y, al fondo, las lomas que rodean la ciudad.",
+      "Esta página no es otra guía del atardecer: es tu brújula del mirador. Te decimos exactamente dónde pararte, qué mirar, y a qué hora del día conviene venir según el tipo de foto que buscas, de la luz dorada a la hora azul, pasando por el pleno día."
+    ],
+    "factsTitle": "Datos rápidos del mirador",
+    "facts": [
+      { "name": "Altitud", "value": "≈ 2.600 m s. n. m. en la cima del Cerro de San Miguel" },
+      { "name": "Desnivel sobre el centro", "value": "Unos 150 m sobre la Plaza de la Paz" },
+      { "name": "Orientación", "value": "La terraza mira al norte y al noreste, hacia el centro histórico" },
+      { "name": "Mejor luz", "value": "Hora dorada (45-60 min antes del ocaso) y hora azul (20-40 min después)" },
+      { "name": "Acceso", "value": "Funicular, a pie o en taxi; la terraza es de acceso libre" }
+    ],
+    "sections": [
+      {
+        "id": "la-terraza",
+        "title": "La terraza y qué ver desde ella",
+        "paragraphs": [
+          "La plataforma frente al monumento es amplia y encierra una barandilla de casi 180°. La mayoría de la gente se queda justo debajo de la estatua, pero la mejor panorámica suele estar a unos pasos a la derecha, donde la línea de tejados y la cúpula de la basílica entran en el encuadre sin que el propio monumento tape el centro.",
+          "Desde aquí identificarás fácilmente los hitos: la Basílica de Nuestra Señora de Guanajuato y su cúpula amarilla sobre la Plaza de la Paz, el Teatro Juárez y el Jardín de la Unión, y el laberinto de callejones que baja hacia el Mercado Hidalgo. En días despejados, la vista alcanza las lomas al norte de la ciudad."
+        ]
+      },
+      {
+        "id": "mejor-hora",
+        "title": "La mejor hora según la foto que buscas",
+        "paragraphs": [
+          "No hay una sola 'mejor hora': depende de lo que quieras captar. De día, con sol alto, la ciudad aparece saturada de color y los callejones muestran todo su detalle; es ideal para fotos de viaje y para ubicar tus ángulos antes de que oscurezca.",
+          "La hora dorada, los 45-60 minutos antes del atardecer, baña los muros de color terracota y oro, suaviza las sombras y da esa luz cálida que define a Guanajuato en las postales. La hora azul, unos 20-40 minutos después de que se pone el sol, es cuando el cielo se vuelve índigo y las luces de la ciudad se encienden: el momento clásico para la foto nocturna.",
+          "Si puedes, ven dos veces: una de día para reconocer el lugar y otra al atardecer para la magia. Si solo vienes una vez, llega 60 minutos antes del ocaso y quédate hasta la hora azul."
+        ]
+      },
+      {
+        "id": "luz-temporada",
+        "title": "Cómo cambia la luz según la temporada",
+        "paragraphs": [
+          "Cerca del solsticio de invierno (diciembre-enero) el sol se oculta temprano, hacia las 18:15-18:30, así que la hora dorada cae a una hora cómoda y aún puedes cenar pronto. En el solsticio de verano (junio-julio) el ocaso puede acercarse a las 20:30-20:45, lo que empuja la mejor luz hacia la noche cerrada.",
+          "En la temporada de lluvias (junio-septiembre) las tardes suelen despejarse tras la tormenta y dejan nubes dramáticas justo en el atardecer. Otoño e invierno traen cielos más limpios y tardes más tempranas, perfectas para una sesión tranquila."
+        ]
+      },
+      {
+        "id": "angulos",
+        "title": "Ángulos y composición",
+        "paragraphs": [
+          "Para la panorámica clásica, busca un punto de la barandilla alineado con la cúpula de la basílica y la escalinata de la universidad; una posición a media altura enmarca mejor los tejados que estar pegado al monumento.",
+          "Usa el propio Monumento al Pípila como primer plano: su silueta recortada contra el cielo o las luces de la ciudad añade profundidad y deja claro dónde estás. Deja una línea de la barandilla o el borde de la terraza en el encuadre para dar escala.",
+          "Explora también el lateral izquierdo de la terraza, que mira hacia las lomas y el valle: allí la luz de la tarde entra de frente y los tejados quedan en sombra suave, un contraluz suave muy fotogénico."
+        ]
+      },
+      {
+        "id": "equipo",
+        "title": "Equipo y ajustes recomendados",
+        "paragraphs": [
+          "Lleva un trípode ligero para la hora azul y las exposiciones nocturnas largas; sin él, las fotos a pulso saldrán movidas cuando baje la luz. Un teléfono reciente también rinde bien si activas el modo noche.",
+          "Para la hora dorada, dispara en HDR o con exposición ligeramente subexpuesta para no quemar los muros claros. En la hora azul, baja el ISO y alarga el tiempo de exposición: las luces de la ciudad brillarán sin ruido.",
+          "Llega con la batería cargada y algo de espacio libre: entre el pleno día, el atardecer y la noche puedes disparar cientos de fotos en una sola visita."
+        ]
+      }
+    ],
+    "faqTitle": "Mirador del Pípila: respuestas rápidas",
+    "faq": [
+      { "q": "¿Cuál es el mejor horario para fotos en El Pípila?", "a": "La hora dorada (45-60 min antes del ocaso) para la luz cálida y la hora azul (20-40 min después) para la ciudad iluminada. De día es mejor para ubicar tus ángulos." },
+      { "q": "¿Dónde pararse para la mejor vista?", "a": "Unos pasos a la derecha de la estatua, junto a la barandilla alineada con la cúpula de la basílica; desde ahí entran el centro y los tejados sin que el monumento tape el encuadre." },
+      { "q": "¿Se paga por entrar al mirador?", "a": "La terraza y el mirador son de acceso libre. Solo se paga el funicular si decides subir en él; puedes subir a pie o en taxi sin costo de acceso." },
+      { "q": "¿Vale la pena venir de día y no solo al atardecer?", "a": "Sí. De día ves el detalle de los callejones y reconoces tus ángulos; al atardecer y en la hora azul consigues las fotos icónicas. Si solo vienes una vez, llega 60 min antes del ocaso y quédate hasta la hora azul." }
+    ],
+    "ctaCardTitle": "Planea el resto de tu visita",
+    "ctaCardText": "El mirador es solo una parada. Combínalo con la guía del funicular para subir sin filas y con las mejores cosas que hacer en Guanajuato.",
+    "ctaCardLabel": "15 mejores cosas que hacer en Guanajuato",
+    "ctaHomeLabel": "Volver al inicio",
+    "backLabel": "Volver a cosas que hacer en Guanajuato"
+  },
+  "pipilaHoursTickets": {
+    "title": "Horario y entrada del Pípila: precios y cuándo ir",
+    "description": "Horario de El Pípila y precios de entrada en Guanajuato: la plaza y el mirador son gratuitos, la entrada al monumento cuesta cerca de MX$13 y el funicular se paga aparte. Horarios y consejos.",
+    "eyebrow": "Horario y entrada",
+    "lastUpdated": "Actualizado: septiembre de 2026",
+    "introTitle": "Gratis, de pago y cuándo conviene ir",
+    "intro": [
+      "El Monumento al Pípila mezcla tres cosas que mucha gente confunde: la plaza y el mirador al aire libre son gratuitos; el acceso al monumento tiene una entrada general de aproximadamente MX$13 (tarifa local 2026); y el funicular que te sube es un transporte de pago aparte.",
+      "Esta página aclara cada uno, con los horarios publicados y consejos para no llevarte sorpresas al llegar. Los precios pueden cambiar, así que siempre conviene confirmar en la taquilla."
+    ],
+    "factsTitle": "Datos rápidos",
+    "facts": [
+      { "name": "Plaza y mirador", "value": "Gratuitos y de acceso libre" },
+      { "name": "Entrada al monumento", "value": "Aprox. MX$13 (tarifa local 2026)" },
+      { "name": "Funicular (ida)", "value": "Aprox. MX$35 adulto" },
+      { "name": "Funicular (ida y vuelta)", "value": "Aprox. MX$70 adulto (algunos letreros MX$80)" },
+      { "name": "Horario del funicular", "value": "Lun-vie 08:00-21:50, sáb 09:00-21:50, dom 10:00-20:50" }
+    ],
+    "sections": [
+      {
+        "id": "que-es-gratis",
+        "title": "Qué es gratis y qué se paga",
+        "paragraphs": [
+          "La terraza, la barandilla y los miradores sobre la ciudad son de acceso libre: puedes acercarte, tomar fotos y recorrer la plaza sin pagar nada. Lo mismo aplica si subes a pie por las escalinatas.",
+          "El acceso al interior o base del monumento tiene una entrada general de aproximadamente MX$13 según la tarifa local de 2026. El funicular, en cambio, es un servicio de transporte aparte: se paga su boleto sin importar si entras o no al monumento."
+        ]
+      },
+      {
+        "id": "precios-funicular",
+        "title": "Precios del funicular",
+        "paragraphs": [
+          "La tarifa de adulto publicada por la oficina de turismo ha rondado los MX$35 sencillo y MX$70 ida y vuelta (2024-2025). Las guías más recientes de 2025-2026 citan MX$80 por el boleto redondo de adulto, así que el precio puede haber subido: confirma en la pizarra al llegar.",
+          "Niños de 4-11 años y adultos mayores con credencial INAPAM suelen pagar aproximadamente la mitad. Los residentes de Guanajuato con identificación local viajan con descuento."
+        ]
+      },
+      {
+        "id": "horario",
+        "title": "Horario del funicular y de la plaza",
+        "paragraphs": [
+          "El servicio del funicular publicado es, en general, de lunes a viernes de 08:00 a 21:50, sábados de 09:00 a 21:50 y domingos de 10:00 a 20:50. En eventos grandes como el Festival Internacional Cervantino, en octubre, el horario a veces se amplía.",
+          "La plaza y el mirador al aire libre no cierran como un recinto, pero la mejor luz y la seguridad de estar acompañado son de día y al atardecer. Si tu plan es el atardecer, llega al menos 30 minutos antes del cierre publicado para que la bajada no se sienta apurada.",
+          "Los horarios pueden cambiar con poca antelación por mantenimiento, clima o días festivos. En temporada alta y fines de semana, la fila crece después del ocaso, así que comprar ida y vuelta de entrada ahorra tiempo."
+        ]
+      },
+      {
+        "id": "cuando-ir",
+        "title": "Cuándo conviene ir",
+        "paragraphs": [
+          "Para evitar filas, las mañanas entre semana son las más tranquilas. Para la vista icónica, llega 45-60 minutos antes del atardecer y quédate hasta la hora azul.",
+          "Si viajas con presupuesto ajustado, sube a pie (20-30 minutos) y paga solo la entrada al monumento si quieres entrar; la panorámica es gratuita de todos modos."
+        ]
+      }
+    ],
+    "faqTitle": "Horario y entrada del Pípila: respuestas rápidas",
+    "faq": [
+      { "q": "¿El Pípila es gratuito?", "a": "La plaza y el mirador al aire libre son gratuitos. El acceso al monumento tiene una entrada general de aproximadamente MX$13 (tarifa local 2026), y el funicular se paga aparte." },
+      { "q": "¿Cuánto cuesta el funicular?", "a": "La tarifa publicada ha rondado MX$35 ida y MX$70 redondo para adulto, con tarifas menores para niños y mayores; guías recientes citan MX$80 redondo, así que confirma en taquilla." },
+      { "q": "¿Cuál es el horario del funicular?", "a": "Generalmente lun-vie 08:00-21:50, sáb 09:00-21:50 y dom 10:00-20:50; puede ampliarse en eventos como el Cervantino y cambiar por mantenimiento o clima." },
+      { "q": "¿Puedo subir a pie y no pagar el funicular?", "a": "Sí. La subida a pie por escalinatas y calles toma 20-30 minutos y es gratuita; solo pagarías la entrada al monumento si decides entrar." }
+    ],
+    "ctaCardTitle": "Completa tu visita al Pípila",
+    "ctaCardText": "Ya tienes horarios y precios: combínalos con cómo llegar y los mejores momentos para fotografiar el mirador.",
+    "ctaCardLabel": "15 mejores cosas que hacer en Guanajuato",
+    "ctaHomeLabel": "Volver al inicio",
+    "backLabel": "Volver a cosas que hacer en Guanajuato"
+  },
+  "funicularVsWalk": {
+    "title": "Funicular vs caminar a El Pípila: cuál elegir",
+    "description": "Comparativa de subir a El Pípila en funicular o a pie en Guanajuato: tiempo, esfuerzo, costo, vistas y qué opción conviene a cada viajero.",
+    "eyebrow": "Cómo subir al Pípila",
+    "lastUpdated": "Actualizado: septiembre de 2026",
+    "introTitle": "Dos formas de llegar arriba",
+    "intro": [
+      "Para alcanzar el mirador más famoso de Guanajuato tienes básicamente dos caminos: el funicular de un minuto o la subida a pie de 20-30 minutos por escalinatas y calles empinadas. Ninguno es 'mejor' para todos.",
+      "Esta comparativa te ayuda a decidir según tu presupuesto, tu movilidad y el tipo de experiencia que buscas, y explica por qué muchos viajeros combinan ambos sentidos."
+    ],
+    "factsTitle": "Funicular vs caminar, en resumen",
+    "facts": [
+      { "name": "Tiempo", "value": "Funicular ≈ 1 min; a pie 20-30 min de subida" },
+      { "name": "Costo", "value": "Funicular ≈ MX$35 ida / MX$70 redondo; a pie gratis" },
+      { "name": "Esfuerzo físico", "value": "Funicular nulo; a pie empinado pero pavimentado" },
+      { "name": "Vistas al subir", "value": "Funicular panorámica rápida; a pie callejones y detalles" },
+      { "name": "Mejor para", "value": "Funicular: prisa/familia; a pie: presupuesto/fotografía calmada" }
+    ],
+    "sections": [
+      {
+        "id": "funicular",
+        "title": "Subir en funicular",
+        "paragraphs": [
+          "El funicular (también llamado teleférico en letreros locales) sale de una estación detrás del Teatro Juárez, junto al Jardín de la Unión, y te deja en un minuto justo en la plaza del Pípila. Es la opción menos esforzada y la más rápida, ideal si viajas con niños, con movilidad reducida o con poco tiempo.",
+          "El boleto se compra en taquilla y la mayoría elige ida y vuelta. El servicio publicado es lun-vie 08:00-21:50, sáb 09:00-21:50 y dom 10:00-20:50, con filas que crecen tras el atardecer."
+        ]
+      },
+      {
+        "id": "caminar",
+        "title": "Subir a pie",
+        "paragraphs": [
+          "La ruta clásica asciende desde el centro en 20-30 minutos por calles pavimentadas, escalinatas y rampas. Es empinada, pero concurrida de día, bien señalizada y pasa junto a pequeñas tiendas y cafés: una forma gratuita de conocer de cerca los callejones de Guanajuato.",
+          "Lleva agua y calzado cómodo; la cima puede estar ventosa. Si prefieres evitar el boleto del funicular, esta es tu opción, y la panorámica al llegar es la misma."
+        ]
+      },
+      {
+        "id": "combinar",
+        "title": "La opción más popular: combinar ambos",
+        "paragraphs": [
+          "Muchos viajeros suben en funicular y bajan caminando (o al revés). Así tienes la vista aérea casi sin esfuerzo y, al descender, vives los famosos callejones a ras de calle, con sus colores, escalinatas y plazuelas.",
+          "Si vas al atardecer, sube en funicular para no llegar agitado y baja a pie una vez que se encienden las luces: el paseo nocturno por los callejones es uno de los momentos más bonitos de la ciudad."
+        ]
+      },
+      {
+        "id": "cual-elegir",
+        "title": "Cómo decidir",
+        "paragraphs": [
+          "Elige el funicular si vas con prisa, con niños pequeños, con movilidad reducida o si el calor o la altura te intimidan. Elige a pie si viajas con presupuesto ajustado, quieres fotos de los callejones o disfrutas caminar.",
+          "En temporada alta y fines de semana, la fila del funicular tras el atardecer puede ser larga; en ese caso, subir a pie te ahorra tiempo y dinero, y bajar en funicular evita la oscuridad si prefieres no caminar de noche."
+        ]
+      }
+    ],
+    "faqTitle": "Funicular o caminar: respuestas rápidas",
+    "faq": [
+      { "q": "¿Cuánto se ahorra yendo a pie?", "a": "La subida a pie es gratuita; solo pagarías la entrada al monumento (aprox. MX$13) si decides entrar. El funicular cuesta aproximadamente MX$35 ida o MX$70 redondo para adulto." },
+      { "q": "¿La vista es la misma desde arriba?", "a": "Sí. Tanto si subes en funicular como a pie, el mirador y la plaza son los mismos; lo que cambia es el recorrido, no la panorámica final." },
+      { "q": "¿Se puede subir en funicular y bajar caminando?", "a": "Sí, y es lo que hacen muchos viajeros: compran ida y vuelta o solo subida, y descansando bajan por los callejones de la ciudad." },
+      { "q": "¿Es seguro caminar de noche?", "a": "La bajada a pie sigue calles principales y callejones muy transitados e iluminados, y la plaza del Pípila está concurrida por la noche. Si prefieres no caminar en la oscuridad, baja en funicular." }
+    ],
+    "ctaCardTitle": "Planea cómo llegar",
+    "ctaCardText": "Ya comparaste ambas opciones: revisa cómo llegar al Pípila y el horario y precios del funicular para cerrar tu plan.",
+    "ctaCardLabel": "15 mejores cosas que hacer en Guanajuato",
+    "ctaHomeLabel": "Volver al inicio",
+    "backLabel": "Volver a cosas que hacer en Guanajuato"
   },
   "churchesGuide": {
     "title": "Iglesias de Guanajuato, México: las 5 imprescindibles",
@@ -321,10 +669,10 @@
     ]
   },
   "hero": {
-    "title": "Monumento Al Pipila (Guanajuato)",
+    "title": "Monumento al Pípila: el mirador de Guanajuato",
     "subtitle": "Guanajuato · México",
     "rating": "4.7",
-    "reviewCount": "39,069",
+    "reviewCount": "39,159",
     "hours": "Abierto 24/7",
     "openMaps": "Ver ubicación",
     "imageAlt": "Monumento Al Pipila – vista principal en Guanajuato, México"
@@ -332,7 +680,7 @@
   "intro": {
     "title": "Acerca del Monumento Al Pipila",
     "welcome": "Bienvenido a **Monumento Al Pipila**, ampliamente reconocido como el icónico monumento **El Pípila** y el mirador más emblemático de Guanajuato. Ubicado en el corazón de **Guanajuato**, estado de **Guanajuato**, **México**, este destino es un punto de partida esencial para los viajeros que visitan la región.",
-    "description": "El Monumento al Pípila es uno de los lugares más icónicos de Guanajuato, ciudad Patrimonio de la Humanidad de la UNESCO en el estado de Guanajuato, México. El obelisco de 28 metros de altura fue construido en 1939 para honrar a Juan José de los Reyes Martínez Amaro, apodado 'El Pípila', héroe de la Guerra de Independencia de México. Desde la plaza del monumento, los visitantes pueden disfrutar de una vista panorámica de 360 grados de Guanajuato, lo que lo convierte en un mirador imperdible.",
+    "description": "El Monumento al Pípila es uno de los lugares más icónicos de Guanajuato, ciudad Patrimonio de la Humanidad de la UNESCO en el estado de Guanajuato, México. El monumento de piedra de 28 metros de altura se inició en 1939 y se inauguró el 5 de febrero de 1940 para honrar a Juan José de los Reyes Martínez Amaro, apodado 'El Pípila', héroe de la Guerra de Independencia de México. Desde la plaza del monumento, los visitantes pueden disfrutar de una vista panorámica de 360 grados de Guanajuato, lo que lo convierte en un mirador imperdible.",
     "visitGuide": {
       "title": "Consejos de visita",
       "items": [
@@ -345,7 +693,7 @@
     "alsoKnownAs": {
       "title": "Aspectos destacados",
       "items": [
-        "Monumento icónico: Obelisco de 28 metros construido en 1939, honrando al héroe de la Independencia El Pípila.",
+        "Monumento icónico: monumento de piedra de 28 metros iniciado en 1939 e inaugurado en 1940, honrando al héroe de la Independencia El Pípila.",
         "Mirador panorámico: Vista de 360 grados de la ciudad de Guanajuato, el mejor lugar para fotografía panorámica.",
         "Significado histórico: El Pípila prendió fuego valientemente a la puerta de madera del fuerte español en el Sitio de Guanajuato de 1810, un símbolo clave de la independencia mexicana.",
         "Fácil acceso: Camina desde el centro o toma el teleférico directamente hasta la cima."
@@ -375,7 +723,7 @@
       {
         "id": "history",
         "title": "Significado histórico",
-        "content": "El Monumento al Pípila fue construido en 1939 para honrar a Juan José de los Reyes Martínez Amaro, apodado El Pípila, héroe de la Guerra de Independencia de México. El 28 de septiembre de 1810, durante el Sitio de Guanajuato, El Pípila cargó una pesada losa de piedra sobre su espalda como escudo antibalas, desafió una lluvia de balas para cargar contra la puerta, y usó su antorcha y alquitrán para prender fuego a la puerta de madera de la Alhóndiga de Granaditas, un gran granero público ocupado como fuerte español, permitiendo que las fuerzas rebeldes capturaran la fortaleza. El monumento fue diseñado conjuntamente por el escultor Juan Fernando Olaguíbel y el arquitecto Augusto Petriccioli, y es uno de los símbolos históricos más importantes de Guanajuato."
+        "content": "El Monumento al Pípila se inició en 1939 y se inauguró el 5 de febrero de 1940 para honrar a Juan José de los Reyes Martínez Amaro, apodado El Pípila, héroe de la Guerra de Independencia de México. El 28 de septiembre de 1810, durante el Sitio de Guanajuato, El Pípila cargó una pesada losa de piedra sobre su espalda como escudo antibalas, desafió una lluvia de balas para cargar contra la puerta, y usó su antorcha y alquitrán para prender fuego a la puerta de madera de la Alhóndiga de Granaditas, un gran granero público ocupado como fuerte español, permitiendo que las fuerzas rebeldes capturaran la fortaleza. El monumento fue diseñado conjuntamente por el escultor Juan Fernando Olaguíbel y el arquitecto Augusto Petriccioli, y es uno de los símbolos históricos más importantes de Guanajuato."
       },
       {
         "id": "nature",
@@ -428,8 +776,8 @@
   },
   "tickets": {
     "title": "Entradas",
-    "outdoor": "Plaza del monumento",
-    "outdoorPrice": "Gratis (plaza pública)",
+    "outdoor": "Plaza y mirador",
+    "outdoorPrice": "Gratis (plaza y mirador al aire libre)",
     "lighthouse": "Teleférico",
     "adults": "Ida y vuelta (adulto)",
     "adultsPrice": "Unos MX$70 ida y vuelta (aprox. MX$35 sencillo); tarifas sujetas a cambios",
@@ -437,8 +785,11 @@
     "studentsPrice": "Niños 4-11 y adultos mayores con credencial: aprox. la mitad",
     "children": "Caminar hacia arriba",
     "childrenPrice": "Gratis (unos 20-30 minutos caminando desde el centro)",
+    "admission": "Acceso al monumento",
+    "admissionLabel": "Entrada general",
+    "admissionPrice": "Aprox. MX$13 (tarifa local 2026)",
     "card": "Consejos",
-    "cardPrice": "Visita al atardecer para buenas fotos, lleva una cámara, usa zapatos cómodos para caminar"
+    "cardPrice": "Los precios pueden cambiar; confirma la tarifa vigente en el sitio. Visita al atardecer para buenas fotos, lleva una cámara, usa zapatos cómodos para caminar."
   },
   "transport": {
     "title": "Cómo llegar",
@@ -466,7 +817,7 @@
       "Vista sobre la ciudad",
       "Vista del atardecer",
       "Luces nocturnas",
-      "Detalle del obelisco",
+      "Detalle del monumento",
       "Perspectiva del mirador",
       "Paisaje del cerro",
       "Panorama de casas coloridas"
@@ -478,56 +829,7 @@
     "title": "Reseñas de visitantes",
     "declaration": "La información de reseñas se puede ver a través de Google Maps (enlace externo).",
     "moreReviews": "Ver en Google Maps",
-    "items": [
-      {
-        "name": "Juan Carlos",
-        "date": "Hace 1 mes",
-        "rating": 5,
-        "text": "¡Un mirador imperdible en Guanajuato! Disfrutamos de una vista de 360 grados de toda la ciudad desde aquí, el paisaje es breathtaking. Especialmente hermoso al atardecer, definitivamente ven aquí."
-      },
-      {
-        "name": "María Fernanda",
-        "date": "Hace 2 semanas",
-        "rating": 5,
-        "text": "Un monumento impresionante que honra a El Pípila, héroe de la Guerra de Independencia de México. Las fotos panorámicas de Guanajuato tomadas desde aquí son simplemente perfectas, altamente recomendable visitar en la tarde."
-      },
-      {
-        "name": "Roberto López",
-        "date": "Hace 3 semanas",
-        "rating": 5,
-        "text": "Unos 20 minutos caminando desde el centro, el paisaje a lo largo del camino también es hermoso. La vista después de llegar vale completamente el esfuerzo. Este es uno de los lugares más importantes de Guanajuato."
-      },
-      {
-        "name": "Sofía Martínez",
-        "date": "Hace 1 mes",
-        "rating": 4,
-        "text": "Excelente mirador de la ciudad. El monumento mismo también es históricamente significativo, conocer la historia de El Pípila da una comprensión más profunda de la historia de la independencia mexicana. La vista nocturna también es muy hermosa."
-      },
-      {
-        "name": "Alejandro Torres",
-        "date": "Hace 2 meses",
-        "rating": 5,
-        "text": "Tomar el teleférico hacia arriba es una experiencia muy divertida, mirar hacia abajo a Guanajuato desde el aire ofrece una perspectiva única. La plaza del monumento es el mejor lugar para fotos panorámicas, no te lo pierdas."
-      },
-      {
-        "name": "Luisa Hernández",
-        "date": "Hace 3 semanas",
-        "rating": 5,
-        "text": "Este es mi lugar favorito en Guanajuato. La panorámica de 360 grados de la ciudad es inolvidable, especialmente cuando se encienden las luces de la ciudad al anochecer, toda la ciudad es como un cuento de hadas. La historia heroica de El Pípila también es conmovedora."
-      },
-      {
-        "name": "Miguel Ángel",
-        "date": "Hace 1 mes",
-        "rating": 4,
-        "text": "Monumento histórico en una gran ubicación. Puedes pasar una hora aquí disfrutando tranquilamente de la belleza de Guanajuato. Recomienda llevar una botella de agua, en el cerro puede hacer viento."
-      },
-      {
-        "name": "Carmen Rivera",
-        "date": "Hace 2 semanas",
-        "rating": 5,
-        "text": "¡Mirador perfecto! El monumento de 28 metros de altura es muy espectacular, este es el lugar más clásico para tomar fotos de Guanajuato. Definitivamente ven al atardecer, la vista es incomparable."
-      }
-    ]
+    "items": []
   },
   "mapSection": {
     "title": "Ubicación y cómo visitar El Pípila en Guanajuato",
@@ -538,6 +840,14 @@
   },
   "footer": {
     "thingsToDo": "Cosas que hacer en Guanajuato",
+    "guideFunicular": "Guía del teleférico de Guanajuato",
+    "guideSunset": "Atardecer y noche en el Pípila",
+    "guideChurches": "Iglesias de Guanajuato",
+    "guideHowToGetThere": "Cómo llegar al Pípila",
+    "guideHistory": "Historia del Pípila",
+    "guideViewpoint": "Mirador del Pípila y mejor hora",
+    "guideHours": "Horario y entrada del Pípila",
+    "guideFunicularWalk": "Funicular o caminar al Pípila",
     "rights": "© 2026 Monumento Al Pipila. Todos los derechos reservados.",
     "privacy": "Política de privacidad",
     "terms": "Términos de servicio",
@@ -664,7 +974,7 @@
   },
   "officialManagement": {
     "title": "Acerca del Monumento Al Pipila",
-    "text": "El Monumento al Pípila se encuentra en Guanajuato, Estado de Guanajuato, México. Construido en 1939, el obelisco de 28 metros de altura honra a Juan José de los Reyes Martínez Amaro (apodado El Pípila), héroe de la Guerra de Independencia de México. El 28 de septiembre de 1810, durante el Sitio de Guanajuato, El Pípila valientemente prendió fuego a la puerta del fuerte español, haciendo una contribución crucial a la independencia mexicana. Hoy en día, es el mejor mirador para vistas panorámicas de la ciudad de Guanajuato, Patrimonio de la Humanidad de la UNESCO."
+    "text": "El Monumento al Pípila se encuentra en Guanajuato, Estado de Guanajuato, México. Iniciado en 1939 e inaugurado el 5 de febrero de 1940, el monumento de piedra de 28 metros de altura honra a Juan José de los Reyes Martínez Amaro (apodado El Pípila), héroe de la Guerra de Independencia de México. El 28 de septiembre de 1810, durante el Sitio de Guanajuato, El Pípila valientemente prendió fuego a la puerta del fuerte español, haciendo una contribución crucial a la independencia mexicana. Hoy en día, es el mejor mirador para vistas panorámicas de la ciudad de Guanajuato, Patrimonio de la Humanidad de la UNESCO."
   },
   "historyTimeline": {
     "title": "Historia y significado del Monumento Al Pipila",
@@ -682,10 +992,10 @@
         "description": "Durante el Sitio de Guanajuato en la Guerra de Independencia de México, el minero Juan José de los Reyes Martínez Amaro (apodado El Pípila) cargó una pesada losa de piedra sobre su espalda como escudo antibalas, desafió una lluvia de balas para cargar contra la puerta, y usó su antorcha y alquitrán para prender fuego a la puerta de madera de la Alhóndiga de Granaditas, un gran granero público ocupado por el fuerte español, permitiendo que las fuerzas rebeldes capturaran esta fortificación clave."
       },
       {
-        "year": "1939",
-        "title": "1939: Inauguración del monumento",
+        "year": "1939–1940",
+        "title": "1939–1940: Construcción e inauguración",
         "plaque": "Monumento histórico completado",
-        "description": "Para honrar al héroe de la Guerra de Independencia El Pípila, la ciudad de Guanajuato erigió este obelisco de 28 metros de altura en el Cerro de San Miguel. El monumento fue diseñado conjuntamente por el escultor Juan Fernando Olaguíbel y el arquitecto Augusto Petriccioli, y abierto al público en 1939."
+        "description": "Para honrar al héroe de la Guerra de Independencia El Pípila, la ciudad de Guanajuato erigió este monumento de piedra de 28 metros de altura en el Cerro de San Miguel. La construcción comenzó el 15 de enero de 1939 y el monumento fue inaugurado el 5 de febrero de 1940. Fue diseñado conjuntamente por el escultor Juan Fernando Olaguíbel y el arquitecto Augusto Petriccioli."
       },
       {
         "year": "Hoy",
@@ -714,7 +1024,7 @@
       {
         "id": "legacy",
         "title": "Legado histórico y conmemoración",
-        "content": "Las hazañas heroicas de El Pípila dejaron una marca indeleble en la historia mexicana. Para conmemorar a este héroe de la Guerra de Independencia, el gobierno municipal de Guanajuato construyó este obelisco de 28 metros de altura en el Cerro de San Miguel en 1939. El monumento fue diseñado conjuntamente por el escultor Juan Fernando Olaguíbel y el arquitecto Augusto Petriccioli, y ahora se ha convertido en uno de los lugares más icónicos de Guanajuato y un símbolo importante del espíritu de independencia mexicana. Cada año, decenas de miles de visitantes vienen a visitar y rendir homenaje a este héroe que se dedicó a la independencia mexicana."
+        "content": "Las hazañas heroicas de El Pípila dejaron una marca indeleble en la historia mexicana. Para conmemorar a este héroe de la Guerra de Independencia, el gobierno municipal de Guanajuato construyó este monumento de piedra de 28 metros de altura en el Cerro de San Miguel, iniciado en 1939 e inaugurado el 5 de febrero de 1940. El monumento fue diseñado conjuntamente por el escultor Juan Fernando Olaguíbel y el arquitecto Augusto Petriccioli, y ahora se ha convertido en uno de los lugares más icónicos de Guanajuato y un símbolo importante del espíritu de independencia mexicana. Cada año, decenas de miles de visitantes vienen a visitar y rendir homenaje a este héroe que se dedicó a la independencia mexicana."
       }
     ]
   },
@@ -759,7 +1069,7 @@
       },
       {
         "q": "¿Es gratuito visitar el Monumento Al Pipila?",
-        "a": "Sí. El monumento y su plaza pública son de acceso gratuito todo el año. Solo se paga si prefieres subir en el funicular (teleférico) en lugar de caminar."
+        "a": "La plaza y el mirador al aire libre son de acceso gratuito todo el año. El acceso al monumento tiene una entrada general de aproximadamente MX$13 (tarifa local 2026), y subir en el funicular (teleférico) es un transporte de pago si prefieres no caminar."
       },
       {
         "q": "¿Cómo llego al Monumento Al Pipila?",

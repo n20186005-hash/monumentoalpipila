@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Monumento al Pípila Guanajuato | Best Viewpoint & Funicular Guide",
-    "description": "Visit El Pípila viewpoint in Guanajuato: funicular tickets & hours, sunset views, the 1939 monument's history, and the best things to do nearby."
+    "title": "El Pípila Monument Guanajuato | Hours, Funicular & Visitor Guide",
+    "description": "Plan your visit to El Pípila Monument in Guanajuato, Mexico. Find viewpoint tips, funicular fares, opening hours, directions and the best time for photos."
   },
   "funicularGuide": {
     "title": "Guanajuato Funicular to El Pípila: Price, Hours & Sunset Guide",
@@ -61,6 +61,147 @@
     "ctaHomeLabel": "Back to the main El Pípila guide",
     "backLabel": "Back to things to do in Guanajuato"
   },
+  "howToGetThere": {
+    "title": "How to Get to El Pípila Monument in Guanajuato",
+    "description": "How to reach the El Pípila Monument in Guanajuato: on foot from the center, by funicular (teleférico), by taxi or bus, and from León airport. Routes, times and practical tips.",
+    "eyebrow": "Getting there",
+    "lastUpdated": "Last updated: October 2026",
+    "introTitle": "Reaching Guanajuato's most famous viewpoint",
+    "intro": [
+      "The Monumento al Pípila stands on Cerro de San Miguel, just east of Guanajuato's historic center. There are three main ways up: walking the cobbled streets, riding the teleférico (funicular) behind Teatro Juárez, or taking a taxi or car to the upper lookout road.",
+      "Walking is free, the funicular is the easiest, and if you travel with kids, luggage or limited mobility, a taxi or driving up to the top is the most comfortable option."
+    ],
+    "factsTitle": "Quick facts for planning your trip",
+    "facts": [
+      { "name": "Location", "value": "Cerro de San Miguel, beside Guanajuato's historic center" },
+      { "name": "Walking from center", "value": "20-30 minutes uphill via streets and stairways" },
+      { "name": "Funicular (teleférico)", "value": "About 1 minute; adult around MX$35 one way / MX$70 round trip" },
+      { "name": "By car or taxi", "value": "Via the panoramic road; limited parking at the top" },
+      { "name": "From the airport", "value": "León airport (BJX), about 1.5 hours by road" }
+    ],
+    "sections": [
+      {
+        "id": "on-foot",
+        "title": "On foot from the historic center",
+        "paragraphs": [
+          "The classic route starts near Jardín de la Unión or Teatro Juárez and climbs cobbled streets, stairways and ramps for about 20-30 minutes. It is steep but scenic, passing small shops and intermediate viewpoints.",
+          "A popular trick is to ride up and walk down (or the reverse): you get the aerial view plus the street-level feel of Guanajuato's famous alleys. During the day the route is busy and feels safe."
+        ]
+      },
+      {
+        "id": "funicular",
+        "title": "By funicular (teleférico)",
+        "paragraphs": [
+          "The lower station is behind Teatro Juárez, next to Jardín de la Unión; look for the small ticket booth and the glass waiting area. The funicular runs both ways, so you can buy a ticket at either end.",
+          "From the upper station you step straight onto the monument plaza, next to the 28-meter sculpture, the viewpoints and craft stalls. Tickets are usually bought round trip; check the tariff board at the window, as prices can change."
+        ]
+      },
+      {
+        "id": "taxi-car",
+        "title": "By taxi, rideshare or car",
+        "paragraphs": [
+          "A taxi or rideshare from the center costs a fraction of the funicular and drops you closer to the top. The panoramic road winds up the mountain with limited traffic, so agree on the price before going up.",
+          "There is parking at the top, though reduced on weekends and holidays. If driving yourself, arrive early to secure a spot, especially at sunset."
+        ]
+      },
+      {
+        "id": "from-leon",
+        "title": "From León airport (BJX) and other cities",
+        "paragraphs": [
+          "The nearest international airport is León (BJX), about 90-100 km and 1.5 hours by road to Guanajuato. From there you can rent a car, take an executive bus or a shared transfer to the center.",
+          "If you arrive by bus from Mexico City, Querétaro or San Miguel de Allende, Guanajuato's terminal is on the outskirts; from there a taxi drops you in the center, and you choose how to climb to El Pípila."
+        ]
+      },
+      {
+        "id": "tips",
+        "title": "Practical tips",
+        "paragraphs": [
+          "Bring water and comfortable shoes if walking: the climb can be hot and the summit windy. At sunset, arrive early to find a spot and enjoy the view before the funicular closes.",
+          "The pedestrian access and the open-air plaza are free; monument access has a general admission of about MX$13 (2026 local tariff). The funicular is paid transport on top of that."
+        ]
+      }
+    ],
+    "faqTitle": "Getting to El Pípila: quick answers",
+    "faq": [
+      { "q": "Can I walk to the Monumento al Pípila?", "a": "Yes. From the historic center it is a 20-30 minute climb on cobbled streets and stairways. The route is steep but free and scenic." },
+      { "q": "Where is the funicular station?", "a": "Behind Teatro Juárez, next to Jardín de la Unión, in Guanajuato's center. The upper station opens right onto the monument plaza." },
+      { "q": "How much does the funicular cost?", "a": "The published tariff has been around MX$35 one way and MX$70 round trip for adults, with lower fares for children and seniors; confirm the price at the booth." },
+      { "q": "Can I drive or take a taxi?", "a": "Yes. A taxi or rideshare from the center is cheap and drops you near the top; by car there is limited parking up top, especially on weekends." },
+      { "q": "Is the monument free?", "a": "The plaza and open-air viewpoint are free. Monument access has a general admission of about MX$13 (2026 local tariff), and the funicular is separate paid transport." }
+    ],
+    "ctaCardTitle": "Keep exploring Guanajuato",
+    "ctaCardText": "You know how to get there: complete your visit with the funicular hours and prices and the best times to photograph the viewpoint.",
+    "ctaCardLabel": "Things to do in Guanajuato",
+    "ctaHomeLabel": "Back to the main El Pípila guide",
+    "backLabel": "Back to things to do in Guanajuato"
+  },
+  "pipilaHistory": {
+    "title": "History of the Pípila Monument: Who He Was and Why It Exists",
+    "description": "History of the Pípila Monument: who El Pípila (Juan José de los Reyes Martínez Amaro) was, the Siege of Guanajuato in 1810, the monument's construction (1939-1940) and its meaning.",
+    "eyebrow": "History",
+    "lastUpdated": "Last updated: October 2026",
+    "introTitle": "From independence hero to the city's viewpoint",
+    "intro": [
+      "The Monumento al Pípila commemorates Juan José de los Reyes Martínez Amaro, nicknamed 'El Pípila', a miner who became a symbol of Mexico's War of Independence. The 28-meter stone sculpture on Cerro de San Miguel is today one of Guanajuato's most famous viewpoints.",
+      "Its story links a 1810 battlefield event with a 20th-century monument built to honor it. Below are the verified facts and the context that explain why this figure dominates the city."
+    ],
+    "factsTitle": "Key dates and facts",
+    "facts": [
+      { "name": "Hero", "value": "Juan José de los Reyes Martínez Amaro, 'El Pípila'" },
+      { "name": "Historical event", "value": "Siege of Guanajuato, September 28, 1810" },
+      { "name": "Work began", "value": "January 15, 1939" },
+      { "name": "Inaugurated", "value": "February 5, 1940" },
+      { "name": "Height", "value": "28 meters" },
+      { "name": "Designers", "value": "Sculptor Juan Fernando Olaguíbel and architect Augusto Petriccioli" }
+    ],
+    "sections": [
+      {
+        "id": "who-he-was",
+        "title": "Who was El Pípila",
+        "paragraphs": [
+          "Juan José de los Reyes Martínez Amaro, known as El Pípila, was a miner born in Guanajuato. His nickname, 'pipila', was a local word for people with flat or calloused feet, typical of those who walked barefoot through the mines.",
+          "During Mexico's War of Independence, El Pípila entered history through a single act of great courage during the Siege of Guanajuato on September 28, 1810."
+        ]
+      },
+      {
+        "id": "siege-1810",
+        "title": "The Siege of Guanajuato (September 28, 1810)",
+        "paragraphs": [
+          "In the first days of the uprising, insurgent forces took Guanajuato and fortified themselves in the Alhóndiga de Granaditas, a large public granary turned Spanish stronghold. Taking that building was key to controlling the city.",
+          "El Pípila laid a heavy stone slab on his back as a shield against bullets, advanced to the wooden door and set it on fire with his torch and tar. The door gave way, the insurgents entered and took the Alhóndiga. The deed made him a popular independence hero."
+        ]
+      },
+      {
+        "id": "monument-1939",
+        "title": "Construction of the monument (1939-1940)",
+        "paragraphs": [
+          "Centuries later, Guanajuato's city council commissioned a monument to honor El Pípila on top of Cerro de San Miguel. Work began on January 15, 1939, and the monument was inaugurated on February 5, 1940.",
+          "It is not an obelisk but a stone commemorative sculpture: a male figure holding a torch, by sculptor Juan Fernando Olaguíbel with architect Augusto Petriccioli. Its size made it visible from much of the city."
+        ]
+      },
+      {
+        "id": "meaning",
+        "title": "What to see today and why it matters",
+        "paragraphs": [
+          "Today the monument is both a historic site and Guanajuato's most iconic panoramic viewpoint: from its plaza you take in much of the city and the valley, which is why thousands of visitors climb each year.",
+          "The figure recalls individual courage in the independence struggle and has become a symbol of Guanajuato's identity. The esplanade is also the scene of civic events and one of the best spots to photograph the city at sunset."
+        ]
+      }
+    ],
+    "faqTitle": "Pípila history: frequently asked questions",
+    "faq": [
+      { "q": "Who was El Pípila?", "a": "Juan José de los Reyes Martínez Amaro, a Guanajuato miner nicknamed 'El Pípila', hero of Mexico's War of Independence for his action at the Siege of Guanajuato in 1810." },
+      { "q": "What did he do at the Siege of Guanajuato?", "a": "On September 28, 1810 he carried a stone slab as a shield, reached the door of the Alhóndiga de Granaditas and set it on fire, letting the insurgents take the building." },
+      { "q": "When was the monument built?", "a": "Work began on January 15, 1939 and the monument was inaugurated on February 5, 1940." },
+      { "q": "Is the monument an obelisk?", "a": "No. It is a 28-meter stone commemorative sculpture: a male figure with a torch, designed by sculptor Juan Fernando Olaguíbel and architect Augusto Petriccioli." },
+      { "q": "Why is the viewpoint important?", "a": "Because from the monument plaza you see much of Guanajuato and its valley; it is the city's best-known panoramic point and a symbol of its identity." }
+    ],
+    "ctaCardTitle": "Plan your visit to El Pípila",
+    "ctaCardText": "Know the history and complete your plan with how to get there, opening hours and the best times to photograph the viewpoint.",
+    "ctaCardLabel": "Things to do in Guanajuato",
+    "ctaHomeLabel": "Back to the main El Pípila guide",
+    "backLabel": "Back to things to do in Guanajuato"
+  },
   "pipilaSunsetGuide": {
     "title": "El Pípila at Sunset & Night: Best Time, Photos & Practical Tips",
     "description": "The complete guide to watching sunset and nightfall from the Monumento al Pípila viewpoint in Guanajuato: when to arrive by season, how the view changes, photo spots and how to get back down after dark.",
@@ -112,6 +253,213 @@
     "ctaThingsLabel": "15 best things to do in Guanajuato",
     "ctaFunicularLabel": "Funicular guide: prices, hours & tips",
     "backLabel": "Back to the El Pípila funicular guide"
+  },
+  "pipilaViewpoint": {
+    "title": "El Pípila Viewpoint: best spot and time for photos",
+    "description": "Where to stand at the Monumento al Pípila viewpoint and what time to shoot the best photos of Guanajuato: golden hour, blue hour, angles and composition tips.",
+    "eyebrow": "Viewpoint & photography guide",
+    "lastUpdated": "Updated: September 2026",
+    "introTitle": "A terrace above all of Guanajuato",
+    "intro": [
+      "The Monumento al Pípila stands atop Cerro de San Miguel, about 2,600 meters above sea level and roughly 150 meters above the historic center. From its wide terrace opens one of Mexico's most photographed panoramas: the color-washed colonial core, the sea of rooftops, and the hills ringing the city beyond.",
+      "This page isn't another sunset guide — it's your viewpoint compass. It tells you exactly where to stand, what to look for, and what time of day to come depending on the kind of photo you want, from golden light to the blue hour and bright midday."
+    ],
+    "factsTitle": "Viewpoint quick facts",
+    "facts": [
+      { "name": "Altitude", "value": "≈ 2,600 m / 8,500 ft at the top of Cerro de San Miguel" },
+      { "name": "Height above center", "value": "About 150 m / 490 ft above Plaza de la Paz" },
+      { "name": "Orientation", "value": "The terrace faces north and northeast toward the historic center" },
+      { "name": "Best light", "value": "Golden hour (45-60 min before sunset) and blue hour (20-40 min after)" },
+      { "name": "Access", "value": "Funicular, on foot or by taxi; the terrace is free to enter" }
+    ],
+    "sections": [
+      {
+        "id": "the-terrace",
+        "title": "The terrace and what you see from it",
+        "paragraphs": [
+          "The platform in front of the monument is spacious, with a railing spanning nearly 180°. Most people stop right under the statue, but the best panorama is usually a few steps to the right, where the rooftops and the basilica dome enter the frame without the monument blocking the center.",
+          "From here you can pick out the landmarks: the Basílica de Nuestra Señora de Guanajuato and its yellow dome above Plaza de la Paz, the Teatro Juárez and Jardín de la Unión, and the maze of alleys descending toward the Mercado Hidalgo. On clear days the view reaches the hills north of the city."
+        ]
+      },
+      {
+        "id": "best-time",
+        "title": "The best time for the photo you want",
+        "paragraphs": [
+          "There isn't a single 'best hour' — it depends on what you want to capture. At midday, with the sun high, the city is saturated with color and the alleys show every detail; ideal for travel shots and for scouting your angles before dark.",
+          "The golden hour — the 45-60 minutes before sunset — washes the walls in terracotta and gold, softens shadows and gives Guanajuato its postcard warmth. The blue hour, about 20-40 minutes after the sun drops, is when the sky turns indigo and the city lights switch on: the classic moment for the night shot.",
+          "If you can, come twice: once by day to learn the place and once at sunset for the magic. If you come only once, arrive 60 minutes before sunset and stay through the blue hour."
+        ]
+      },
+      {
+        "id": "season-light",
+        "title": "How the light changes with the season",
+        "paragraphs": [
+          "Near the winter solstice (December-January) the sun sets early, around 18:15-18:30, so golden hour falls at a comfortable time and you can still have an early dinner. At the summer solstice (June-July) sunset can approach 20:30-20:45, pushing the best light into full night.",
+          "In the rainy season (June-September) afternoons often clear after the storm and leave dramatic clouds right at sunset. Autumn and winter bring cleaner skies and earlier afternoons, perfect for a relaxed session."
+        ]
+      },
+      {
+        "id": "angles",
+        "title": "Angles and composition",
+        "paragraphs": [
+          "For the classic panorama, find a spot on the railing aligned with the basilica dome and the university staircase; a mid-height position frames the rooftops better than standing right against the monument.",
+          "Use the Monumento al Pípila itself as a foreground: its silhouette cut against the sky or the city lights adds depth and makes clear where you are. Leave a line of the railing or the terrace edge in the frame to give a sense of scale.",
+          "Also explore the left side of the terrace, which looks toward the hills and the valley: there the afternoon light comes head-on and the rooftops fall into soft shadow, a gentle backlight that is very photogenic."
+        ]
+      },
+      {
+        "id": "gear",
+        "title": "Recommended gear and settings",
+        "paragraphs": [
+          "Bring a light tripod for the blue hour and long night exposures; without it, handheld shots get blurry as the light drops. A recent phone also does well if you turn on night mode.",
+          "For the golden hour, shoot in HDR or slightly underexposed so the pale walls don't blow out. In the blue hour, lower the ISO and lengthen the exposure: the city lights will glow without noise.",
+          "Arrive with a charged battery and free space: between full daylight, sunset and night you can fire hundreds of photos in a single visit."
+        ]
+      }
+    ],
+    "faqTitle": "El Pípila viewpoint: quick answers",
+    "faq": [
+      { "q": "What is the best time for photos at El Pípila?", "a": "The golden hour (45-60 min before sunset) for warm light and the blue hour (20-40 min after) for the lit city. Midday is best for scouting your angles." },
+      { "q": "Where should I stand for the best view?", "a": "A few steps to the right of the statue, at the railing aligned with the basilica dome; from there the center and rooftops enter the frame without the monument blocking it." },
+      { "q": "Do you pay to enter the viewpoint?", "a": "The terrace and viewpoint are free to enter. You only pay for the funicular if you ride it up; you can walk or take a taxi up at no entry cost." },
+      { "q": "Is it worth coming by day and not only at sunset?", "a": "Yes. By day you see the alley detail and learn your angles; at sunset and in the blue hour you get the iconic shots. If you come once, arrive 60 min before sunset and stay through the blue hour." }
+    ],
+    "ctaCardTitle": "Plan the rest of your visit",
+    "ctaCardText": "The viewpoint is just one stop. Pair it with the funicular guide to ride up without queues and the best things to do in Guanajuato.",
+    "ctaCardLabel": "15 best things to do in Guanajuato",
+    "ctaHomeLabel": "Back to home",
+    "backLabel": "Back to things to do in Guanajuato"
+  },
+  "pipilaHoursTickets": {
+    "title": "El Pípila Hours & Entry: prices and when to go",
+    "description": "El Pípila hours and entry prices in Guanajuato: the plaza and viewpoint are free, monument entry is about MX$13 and the funicular is paid separately. Hours and tips.",
+    "eyebrow": "Hours & entry",
+    "lastUpdated": "Updated: September 2026",
+    "introTitle": "Free, paid and when to go",
+    "intro": [
+      "The Monumento al Pípila mixes three things people often confuse: the plaza and open-air viewpoint are free; entry to the monument has a general admission of about MX$13 (local 2026 tariff); and the funicular that takes you up is a separate paid ride.",
+      "This page clarifies each one, with the published hours and tips so you aren't surprised on arrival. Prices can change, so it's always worth confirming at the ticket window."
+    ],
+    "factsTitle": "Quick facts",
+    "facts": [
+      { "name": "Plaza & viewpoint", "value": "Free and open to all" },
+      { "name": "Monument entry", "value": "About MX$13 (local 2026 tariff)" },
+      { "name": "Funicular (one way)", "value": "About MX$35 adult" },
+      { "name": "Funicular (round trip)", "value": "About MX$70 adult (some signs MX$80)" },
+      { "name": "Funicular hours", "value": "Mon-Fri 08:00-21:50, Sat 09:00-21:50, Sun 10:00-20:50" }
+    ],
+    "sections": [
+      {
+        "id": "what-is-free",
+        "title": "What is free and what you pay for",
+        "paragraphs": [
+          "The terrace, railing and viewpoints over the city are free to access: you can walk up, take photos and roam the plaza without paying anything. The same applies if you hike up the stairways on foot.",
+          "Entry to the monument's base or interior carries a general admission of about MX$13 under the local 2026 tariff. The funicular, by contrast, is a separate transport service: you pay its fare whether or not you enter the monument."
+        ]
+      },
+      {
+        "id": "funicular-prices",
+        "title": "Funicular prices",
+        "paragraphs": [
+          "The adult fare published by the tourism office has run around MX$35 one way and MX$70 round trip (2024-2025). The most recent 2025-2026 guides cite MX$80 for the adult round trip, so the price may have risen: check the board on arrival.",
+          "Children aged 4-11 and seniors with an INAPAM credential usually pay roughly half. Guanajuato residents showing local ID travel at a discount."
+        ]
+      },
+      {
+        "id": "hours",
+        "title": "Funicular and plaza hours",
+        "paragraphs": [
+          "The published funicular service is generally Monday to Friday 08:00-21:50, Saturday 09:00-21:50 and Sunday 10:00-20:50. During big events like the Festival Internacional Cervantino, in October, hours are sometimes extended.",
+          "The open-air plaza and viewpoint don't close like an enclosed site, but the best light and the safety of being among a crowd are by day and at sunset. If sunset is your plan, arrive at least 30 minutes before the published closing so the descent doesn't feel rushed.",
+          "Hours can change on short notice for maintenance, weather or holidays. In high season and on weekends the queue grows after sunset, so buying a round trip up front saves time."
+        ]
+      },
+      {
+        "id": "when-to-go",
+        "title": "When to go",
+        "paragraphs": [
+          "To avoid lines, weekday mornings are the calmest. For the iconic view, arrive 45-60 minutes before sunset and stay through the blue hour.",
+          "If you're on a tight budget, walk up (20-30 minutes) and pay only the monument entry if you want to go in; the panorama is free regardless."
+        ]
+      }
+    ],
+    "faqTitle": "El Pípila hours & entry: quick answers",
+    "faq": [
+      { "q": "Is El Pípila free?", "a": "The plaza and open-air viewpoint are free. Monument entry has a general admission of about MX$13 (local 2026 tariff), and the funicular is paid separately." },
+      { "q": "How much is the funicular?", "a": "The published fare has been around MX$35 one way and MX$70 round trip for adults, with lower fares for children and seniors; recent guides cite MX$80 round trip, so confirm at the window." },
+      { "q": "What are the funicular hours?", "a": "Generally Mon-Fri 08:00-21:50, Sat 09:00-21:50 and Sun 10:00-20:50; it may extend for events like the Cervantino and change for maintenance or weather." },
+      { "q": "Can I walk up and skip the funicular?", "a": "Yes. The walk up the stairways and streets takes 20-30 minutes and is free; you'd only pay monument entry if you choose to go in." }
+    ],
+    "ctaCardTitle": "Complete your Pípila visit",
+    "ctaCardText": "You've got the hours and prices: pair them with how to get there and the best times to photograph the viewpoint.",
+    "ctaCardLabel": "15 best things to do in Guanajuato",
+    "ctaHomeLabel": "Back to home",
+    "backLabel": "Back to things to do in Guanajuato"
+  },
+  "funicularVsWalk": {
+    "title": "Funicular vs walking to El Pípila: which to choose",
+    "description": "Compare going up to El Pípila by funicular or on foot in Guanajuato: time, effort, cost, views and which option suits each traveler.",
+    "eyebrow": "How to get up to El Pípila",
+    "lastUpdated": "Updated: September 2026",
+    "introTitle": "Two ways to reach the top",
+    "intro": [
+      "To reach Guanajuato's most famous viewpoint you essentially have two paths: the one-minute funicular or the 20-30 minute walk up steep stairways and streets. Neither is 'better' for everyone.",
+      "This comparison helps you decide based on your budget, your mobility and the kind of experience you want, and explains why many travelers combine both directions."
+    ],
+    "factsTitle": "Funicular vs walking, at a glance",
+    "facts": [
+      { "name": "Time", "value": "Funicular ≈ 1 min; walking 20-30 min uphill" },
+      { "name": "Cost", "value": "Funicular ≈ MX$35 one way / MX$70 round trip; walking free" },
+      { "name": "Physical effort", "value": "Funicular none; walking steep but paved" },
+      { "name": "Views on the way up", "value": "Funicular quick panorama; walking alleys and detail" },
+      { "name": "Best for", "value": "Funicular: speed/family; walking: budget/calm photography" }
+    ],
+    "sections": [
+      {
+        "id": "funicular",
+        "title": "Going up by funicular",
+        "paragraphs": [
+          "The funicular (also called teleférico on local signs) leaves from a station behind the Teatro Juárez, next to the Jardín de la Unión, and drops you in a minute right on the Pípila plaza. It's the least effortful and fastest option, ideal if you're with children, have reduced mobility or are short on time.",
+          "Tickets are bought at the window and most people choose round trip. The published service is Mon-Fri 08:00-21:50, Sat 09:00-21:50 and Sun 10:00-20:50, with queues that grow after sunset."
+        ]
+      },
+      {
+        "id": "walking",
+        "title": "Going up on foot",
+        "paragraphs": [
+          "The classic route climbs from the center in 20-30 minutes over paved streets, stairways and ramps. It's steep, but busy by day, well signposted and passes small shops and cafés: a free way to get close to Guanajuato's alleys.",
+          "Bring water and comfortable shoes; the top can be windy. If you'd rather skip the funicular fare, this is your option, and the panorama at the top is the same."
+        ]
+      },
+      {
+        "id": "combine",
+        "title": "The most popular option: combine both",
+        "paragraphs": [
+          "Many travelers ride the funicular up and walk down (or the reverse). That way you get the near-effortless aerial view and, descending, you live the famous alleys at street level, with their colors, stairways and little plazas.",
+          "If you go for sunset, ride up so you don't arrive out of breath and walk down once the lights come on: the evening stroll through the alleys is one of the city's most beautiful moments."
+        ]
+      },
+      {
+        "id": "how-to-choose",
+        "title": "How to decide",
+        "paragraphs": [
+          "Choose the funicular if you're in a hurry, with small children, with reduced mobility, or if the heat or altitude intimidate you. Choose walking if you're on a tight budget, want photos of the alleys, or enjoy walking.",
+          "In high season and on weekends the funicular queue after sunset can be long; in that case walking up saves you time and money, and riding down avoids the dark if you'd rather not walk at night."
+        ]
+      }
+    ],
+    "faqTitle": "Funicular or walking: quick answers",
+    "faq": [
+      { "q": "How much do you save walking?", "a": "The walk up is free; you'd only pay monument entry (about MX$13) if you choose to go in. The funicular costs about MX$35 one way or MX$70 round trip for adults." },
+      { "q": "Is the view the same from the top?", "a": "Yes. Whether you take the funicular or walk, the viewpoint and plaza are the same; what changes is the journey, not the final panorama." },
+      { "q": "Can I ride up and walk down?", "a": "Yes, and it's what many travelers do: they buy round trip or just the ascent, and stroll down through the city's alleys." },
+      { "q": "Is it safe to walk at night?", "a": "The walk down follows main streets and very busy, well-lit alleys, and the Pípila plaza is crowded at night. If you'd rather not walk in the dark, ride the funicular down." }
+    ],
+    "ctaCardTitle": "Plan how to get there",
+    "ctaCardText": "You've compared both options: check how to get to El Pípila and the funicular hours and prices to finalize your plan.",
+    "ctaCardLabel": "15 best things to do in Guanajuato",
+    "ctaHomeLabel": "Back to home",
+    "backLabel": "Back to things to do in Guanajuato"
   },
   "churchesGuide": {
     "title": "Churches in Guanajuato, Mexico: the 5 Must-See Temples",
@@ -321,10 +669,10 @@
     ]
   },
   "hero": {
-    "title": "Monumento Al Pipila (Guanajuato)",
+    "title": "Monumento al Pípila (Guanajuato)",
     "subtitle": "Guanajuato · Mexico",
     "rating": "4.7",
-    "reviewCount": "39,069",
+    "reviewCount": "39,159",
     "hours": "Open 24/7",
     "openMaps": "View Location",
     "imageAlt": "Monumento Al Pipila – Main view in Guanajuato, Mexico"
@@ -332,7 +680,7 @@
   "intro": {
     "title": "About Monumento Al Pipila",
     "welcome": "Welcome to **Monumento Al Pipila**, widely recognized as the iconic **El Pípila** monument and Guanajuato's most famous observation deck. Located in the heart of **Guanajuato**, **Guanajuato**, **Mexico**, this destination serves as a primary hub for travelers visiting the region.",
-    "description": "Monumento Al Pipila is one of the most iconic landmarks of Guanajuato, a UNESCO World Heritage city in Guanajuato State, Mexico. The 28-meter high obelisk was built in 1939 to honor Juan José de los Reyes Martínez Amaro, nicknamed 'El Pípila', a hero of Mexico's War of Independence. From the monument plaza, visitors can enjoy a 360-degree panoramic view of Guanajuato, making it a must-visit viewpoint.",
+    "description": "Monumento Al Pipila is one of the most iconic landmarks of Guanajuato, a UNESCO World Heritage city in Guanajuato State, Mexico. The 28-meter high stone monument was begun in 1939 and inaugurated on February 5, 1940, to honor Juan José de los Reyes Martínez Amaro, nicknamed 'El Pípila', a hero of Mexico's War of Independence. From the monument plaza, visitors can enjoy a 360-degree panoramic view of Guanajuato, making it a must-visit viewpoint.",
     "visitGuide": {
       "title": "Visiting Tips",
       "items": [
@@ -345,7 +693,7 @@
     "alsoKnownAs": {
       "title": "Highlights",
       "items": [
-        "Iconic Monument: 28-meter high obelisk built in 1939, honoring Independence War hero El Pípila.",
+        "Iconic Monument: 28-meter high stone monument begun in 1939 and inaugurated in 1940, honoring Independence War hero El Pípila.",
         "Panoramic Viewpoint: 360-degree view of Guanajuato's UNESCO World Heritage city, the best spot for panoramic photography.",
         "Historical Significance: El Pípila bravely set fire to the Spanish stronghold's wooden gate in the 1810 Siege of Guanajuato, a key symbol of Mexican independence.",
         "Easy Access: Walk up from downtown or take the cable car (teleférico) directly to the top."
@@ -375,7 +723,7 @@
       {
         "id": "history",
         "title": "Historical Significance",
-        "content": "Monumento Al Pipila was built in 1939 to honor Juan José de los Reyes Martínez Amaro, nicknamed El Pípila, a hero of Mexico's War of Independence. On September 28, 1810, during the Siege of Guanajuato, El Pípila carried a heavy stone slab on his back as a bulletproof shield, braved a hail of bullets to charge the gate, and used his torch and tar to set fire to the wooden gate of the Alhóndiga de Granaditas, a large public granary occupied by the Spanish stronghold, enabling the rebel forces to capture the fort. The monument was jointly designed by sculptor Juan Fernando Olaguíbel and architect Augusto Petriccioli, and is one of Guanajuato's most important historical symbols."
+        "content": "Monumento Al Pipila was begun in 1939 and inaugurated on February 5, 1940, to honor Juan José de los Reyes Martínez Amaro, nicknamed El Pípila, a hero of Mexico's War of Independence. On September 28, 1810, during the Siege of Guanajuato, El Pípila carried a heavy stone slab on his back as a bulletproof shield, braved a hail of bullets to charge the gate, and used his torch and tar to set fire to the wooden gate of the Alhóndiga de Granaditas, a large public granary occupied by the Spanish stronghold, enabling the rebel forces to capture the fort. The monument was jointly designed by sculptor Juan Fernando Olaguíbel and architect Augusto Petriccioli, and is one of Guanajuato's most important historical symbols."
       },
       {
         "id": "nature",
@@ -428,8 +776,8 @@
   },
   "tickets": {
     "title": "Ticket Information",
-    "outdoor": "Monument Plaza",
-    "outdoorPrice": "Free (public plaza)",
+    "outdoor": "Plaza & Viewpoint",
+    "outdoorPrice": "Free (open-air plaza & viewpoint)",
     "lighthouse": "Cable Car (Teleférico)",
     "adults": "Round-trip Adult",
     "adultsPrice": "About MX$70 round trip (approx. MX$35 one way); fares may change",
@@ -437,8 +785,11 @@
     "studentsPrice": "Kids 4-11 & seniors with ID: roughly half price",
     "children": "Walk Up",
     "childrenPrice": "Free (about 20-30 minutes walk from downtown)",
+    "admission": "Monument Access",
+    "admissionLabel": "General admission",
+    "admissionPrice": "About MX$13 (2026 local tariff)",
     "card": "Tips",
-    "cardPrice": "Visit at sunset for great photos, bring a camera, wear comfortable walking shoes"
+    "cardPrice": "Prices may change; confirm the current tariff on site. Visit at sunset for great photos, bring a camera, wear comfortable walking shoes."
   },
   "transport": {
     "title": "Transportation",
@@ -466,7 +817,7 @@
       "City overlook",
       "Sunset view",
       "Night lights",
-      "Obelisk detail",
+      "Monument detail",
       "Viewpoint perspective",
       "Hill scenery",
       "Colorful houses panorama"
@@ -478,56 +829,7 @@
     "title": "Visitor Reviews",
     "declaration": "Review information can be viewed via Google Maps (external link).",
     "moreReviews": "View on Google Maps",
-    "items": [
-      {
-        "name": "Juan Carlos",
-        "date": "1 month ago",
-        "rating": 5,
-        "text": "A must-visit viewpoint in Guanajuato! We enjoyed a 360-degree view of the entire city from here, the scenery is breathtaking. Especially beautiful at sunset, definitely come here."
-      },
-      {
-        "name": "María Fernanda",
-        "date": "2 weeks ago",
-        "rating": 5,
-        "text": "An impressive monument honoring El Pípila, a hero of Mexico's War of Independence. The panoramic photos of Guanajuato taken from here are simply perfect, highly recommend visiting in the evening."
-      },
-      {
-        "name": "Roberto López",
-        "date": "3 weeks ago",
-        "rating": 5,
-        "text": "About 20 minutes walk up from downtown, the scenery along the way is also beautiful. The view after arrival is absolutely worth the effort. This is one of Guanajuato's most important landmarks."
-      },
-      {
-        "name": "Sofía Martínez",
-        "date": "1 month ago",
-        "rating": 4,
-        "text": "Great city viewpoint. The monument itself is also historically significant, learning about El Pípila's story gives deeper understanding of Mexican independence history. Night view is also very beautiful."
-      },
-      {
-        "name": "Alejandro Torres",
-        "date": "2 months ago",
-        "rating": 5,
-        "text": "Taking the cable car up the hill is a very fun experience, overlooking Guanajuato from the air offers a unique perspective. The monument plaza is the best spot for panoramic photos, don't miss it."
-      },
-      {
-        "name": "Luisa Hernández",
-        "date": "3 weeks ago",
-        "rating": 5,
-        "text": "This is my favorite place in Guanajuato! The 360-degree city panorama is unforgettable, especially when the city lights come on at dusk, the entire city is like a fairy tale. El Pípila's heroic story is also moving."
-      },
-      {
-        "name": "Miguel Ángel",
-        "date": "1 month ago",
-        "rating": 4,
-        "text": "Historic monument in a great location. You can spend an hour here quietly enjoying the beauty of Guanajuato. Recommend bringing a bottle of water, it can be windy on the hill."
-      },
-      {
-        "name": "Carmen Rivera",
-        "date": "2 weeks ago",
-        "rating": 5,
-        "text": "Perfect viewpoint! The 28-meter high monument is very spectacular, this is the most classic spot for taking photos of Guanajuato. Definitely come at sunset, the view is incomparable."
-      }
-    ]
+    "items": []
   },
   "mapSection": {
     "title": "Location & How to Visit El Pípila in Guanajuato",
@@ -538,6 +840,14 @@
   },
   "footer": {
     "thingsToDo": "Things to Do in Guanajuato",
+    "guideFunicular": "Guanajuato Funicular Guide",
+    "guideSunset": "El Pípila Sunset & Night",
+    "guideChurches": "Guanajuato Churches",
+    "guideHowToGetThere": "How to Get to El Pípila",
+    "guideHistory": "History of El Pípila",
+    "guideViewpoint": "El Pípila viewpoint & photo time",
+    "guideHours": "El Pípila hours & entry",
+    "guideFunicularWalk": "Funicular or walking to El Pípila",
     "rights": "© 2026 Monumento Al Pipila. All rights reserved.",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
@@ -664,7 +974,7 @@
   },
   "officialManagement": {
     "title": "About Monumento Al Pipila",
-    "text": "Monumento Al Pipila is located in Guanajuato, Guanajuato State, Mexico. Built in 1939, the 28-meter high obelisk honors Juan José de los Reyes Martínez Amaro (nicknamed El Pípila), a hero of Mexico's War of Independence. On September 28, 1810, during the Siege of Guanajuato, El Pípila bravely set fire to the gate of the Spanish stronghold, making a crucial contribution to Mexican independence. Today, it is the best viewpoint for panoramic views of the UNESCO World Heritage city of Guanajuato."
+    "text": "Monumento Al Pipila is located in Guanajuato, Guanajuato State, Mexico. Begun in 1939 and inaugurated on February 5, 1940, the 28-meter high stone monument honors Juan José de los Reyes Martínez Amaro (nicknamed El Pípila), a hero of Mexico's War of Independence. On September 28, 1810, during the Siege of Guanajuato, El Pípila bravely set fire to the gate of the Spanish stronghold, making a crucial contribution to Mexican independence. Today, it is the best viewpoint for panoramic views of the UNESCO World Heritage city of Guanajuato."
   },
   "historyTimeline": {
     "title": "History & Significance of Monumento Al Pipila",
@@ -682,10 +992,10 @@
         "description": "During the Siege of Guanajuato in Mexico's War of Independence, miner Juan José de los Reyes Martínez Amaro (nicknamed El Pípila) carried a heavy stone slab on his back as a bulletproof shield, braved a hail of bullets to charge the gate, and used his torch and tar to set fire to the wooden gate of the Alhóndiga de Granaditas, a large public granary occupied by the Spanish stronghold, enabling the rebel forces to capture this key fortification."
       },
       {
-        "year": "1939",
-        "title": "1939: Monument Inaugurated",
+        "year": "1939–1940",
+        "title": "1939–1940: Built & Inaugurated",
         "plaque": "Historic Monument Completed",
-        "description": "To honor the Independence War hero El Pípila, the City of Guanajuato erected this 28-meter high obelisk monument on Cerro de San Miguel. The monument was jointly designed by sculptor Juan Fernando Olaguíbel and architect Augusto Petriccioli, and opened to the public in 1939."
+        "description": "To honor the Independence War hero El Pípila, the City of Guanajuato erected this 28-meter high stone monument on Cerro de San Miguel. Construction began on January 15, 1939, and the monument was inaugurated on February 5, 1940. It was jointly designed by sculptor Juan Fernando Olaguíbel and architect Augusto Petriccioli."
       },
       {
         "year": "Today",
@@ -714,7 +1024,7 @@
       {
         "id": "legacy",
         "title": "Historical Legacy and Commemoration",
-        "content": "El Pípila's heroic deeds left an indelible mark on Mexican history. To commemorate this Independence War hero, the Guanajuato municipal government built this 28-meter high obelisk monument on Cerro de San Miguel in 1939. The monument was jointly designed by sculptor Juan Fernando Olaguíbel and architect Augusto Petriccioli, and has now become one of Guanajuato's most iconic landmarks and an important symbol of the Mexican independence spirit. Every year, tens of thousands of visitors come to visit and pay tribute to this hero who dedicated himself to Mexican independence."
+        "content": "El Pípila's heroic deeds left an indelible mark on Mexican history. To commemorate this Independence War hero, the Guanajuato municipal government built this 28-meter high stone monument on Cerro de San Miguel, begun in 1939 and inaugurated on February 5, 1940. The monument was jointly designed by sculptor Juan Fernando Olaguíbel and architect Augusto Petriccioli, and has now become one of Guanajuato's most iconic landmarks and an important symbol of the Mexican independence spirit. Every year, tens of thousands of visitors come to visit and pay tribute to this hero who dedicated himself to Mexican independence."
       }
     ]
   },
@@ -759,7 +1069,7 @@
       },
       {
         "q": "Is Monumento Al Pipila free to visit?",
-        "a": "Yes. The monument and its public plaza are free to visit year-round. A fee only applies if you choose to ride the funicular (teleférico) up the hill instead of walking."
+        "a": "The open-air plaza and viewpoint are free to visit year-round. A separate general admission of about MX$13 (2026 local tariff) applies to access the monument itself, and riding the funicular (teleférico) up the hill is a paid transport option if you prefer not to walk."
       },
       {
         "q": "How do I get to Monumento Al Pipila?",

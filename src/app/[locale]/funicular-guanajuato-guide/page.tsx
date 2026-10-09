@@ -1,8 +1,9 @@
 import { setRequestLocale, getTranslations } from 'next-intl/server';
 import { useMessages, useLocale } from 'next-intl';
 import type { Metadata } from 'next';
+import Footer from '@/components/Footer';
 
-const baseUrl = 'https://monumentoalpipila.com';
+const baseUrl = 'https://www.monumentoalpipila.com';
 const path = 'funicular-guanajuato-guide';
 
 export async function generateMetadata({
@@ -222,5 +223,10 @@ export default async function FunicularGuidePage({
 }) {
   const { locale } = await params;
   setRequestLocale(locale);
-  return <FunicularGuideContent />;
+  return (
+    <>
+      <FunicularGuideContent />
+      <Footer />
+    </>
+  );
 }

@@ -16,10 +16,9 @@ const touristAttractionSchema = {
   '@id': `${SITE.baseUrl}/#attraction`,
   name: SITE.attractionFullName,
   alternateName: [SITE.attractionShortName, `${SITE.cityName} ${SITE.attractionFullName}`],
-  description: `Monument and observation deck on Cerro de San Miguel in ${SITE.cityName}, ${SITE.countryName}, honoring Independence War hero El Pípila. Open-air 360° viewpoint reached by funicular or footpath.`,
+  description: `Monument and observation deck on Cerro de San Miguel in ${SITE.cityName}, ${SITE.countryName}, honoring Independence War hero El Pípila. Open-air 360° viewpoint reached by funicular or footpath; monument access has a local admission fee.`,
   url: SITE.baseUrl,
   image: [SITE.heroImageUrl],
-  isAccessibleForFree: true,
   address: {
     '@type': 'PostalAddress',
     streetAddress: SITE.address,
@@ -59,7 +58,7 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const messages = (await import(`@/messages/${locale}.json`)).default;
-  const baseUrl = 'https://monumentoalpipila.com';
+  const baseUrl = SITE.baseUrl;
 
   const zhUrl = `${baseUrl}/zh`;
   const enUrl = `${baseUrl}/en`;

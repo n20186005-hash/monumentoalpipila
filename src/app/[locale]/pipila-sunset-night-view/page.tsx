@@ -1,8 +1,9 @@
 import { setRequestLocale, getTranslations } from 'next-intl/server';
 import { useMessages, useLocale } from 'next-intl';
 import type { Metadata } from 'next';
+import Footer from '@/components/Footer';
 
-const baseUrl = 'https://monumentoalpipila.com';
+const baseUrl = 'https://www.monumentoalpipila.com';
 const path = 'pipila-sunset-night-view';
 
 export async function generateMetadata({
@@ -178,5 +179,10 @@ export default async function PipilaSunsetPage({
 }) {
   const { locale } = await params;
   setRequestLocale(locale);
-  return <PipilaSunsetContent />;
+  return (
+    <>
+      <PipilaSunsetContent />
+      <Footer />
+    </>
+  );
 }

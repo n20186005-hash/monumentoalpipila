@@ -42,6 +42,30 @@ export default function Footer() {
             <a href={`${prefix}/things-to-do-in-guanajuato`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">
               {t('thingsToDo')}
             </a>
+            <a href={`${prefix}/funicular-guanajuato-guide`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">
+              {t('guideFunicular')}
+            </a>
+            <a href={`${prefix}/pipila-sunset-night-view`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">
+              {t('guideSunset')}
+            </a>
+            <a href={`${prefix}/churches-in-guanajuato-mexico`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">
+              {t('guideChurches')}
+            </a>
+            <a href={`${prefix}/como-llegar-al-pipila`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">
+              {t('guideHowToGetThere')}
+            </a>
+            <a href={`${prefix}/historia-del-pipila`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">
+              {t('guideHistory')}
+            </a>
+            <a href={`${prefix}/mirador-del-pipila-atardecer`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">
+              {t('guideViewpoint')}
+            </a>
+            <a href={`${prefix}/horario-y-entrada-pipila`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">
+              {t('guideHours')}
+            </a>
+            <a href={`${prefix}/funicular-vs-caminar`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">
+              {t('guideFunicularWalk')}
+            </a>
             <a href={`${prefix}/privacy-policy`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">
               {t('privacy')}
             </a>

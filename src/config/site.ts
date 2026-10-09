@@ -9,10 +9,10 @@
 export const SITE = {
   // ── 域名 / 实体名称 ────────────────────────────────
   domainName: 'monumentoalpipila.com',
-  baseUrl: 'https://monumentoalpipila.com',
+  baseUrl: 'https://www.monumentoalpipila.com',
 
   /** 景点官方全称（与 Google Maps 商家名称保持一致） */
-  attractionFullName: 'Monumento Al Pipila',
+  attractionFullName: 'Monumento al Pípila',
 
   /** 景点常用俗称（域名含义的对应名称 / 当地通用叫法） */
   attractionShortName: 'El Pípila',
@@ -32,7 +32,7 @@ export const SITE = {
 
   // ── Google 数据 ─────────────────────────────────────
   rating: '4.7',
-  reviewCount: '39,069',
+  reviewCount: '39,159',
   mapsShareUrl: 'https://maps.app.goo.gl/tijtga6Z8omokNxv9',
   mapsEmbedSrc:
     'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6372.3087180421535!2d-101.2544089!3d21.014496400000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x842b740fa5ab4dcd%3A0xc433e9189f29aa1!2sMonumento%20Al%20Pipila!5e1!3m2!1sen!2s!4v1788749767887!5m2!1sen!2s',
@@ -46,7 +46,7 @@ export const SITE = {
 
   // ── 站内规范图片资源（与 alt 语义绑定配合使用）────────
   heroImagePath: '/images/hero.jpg',
-  heroImageUrl: 'https://monumentoalpipila.com/images/hero.jpg',
+  heroImageUrl: 'https://www.monumentoalpipila.com/images/hero.jpg',
 
   galleryPrefix: '/gallery/',
 } as const;

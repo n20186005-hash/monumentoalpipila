@@ -1,8 +1,9 @@
 import { setRequestLocale, getTranslations } from 'next-intl/server';
 import { useMessages, useLocale } from 'next-intl';
 import type { Metadata } from 'next';
+import Footer from '@/components/Footer';
 
-const baseUrl = 'https://monumentoalpipila.com';
+const baseUrl = 'https://www.monumentoalpipila.com';
 const path = 'churches-in-guanajuato-mexico';
 
 export async function generateMetadata({
@@ -203,5 +204,10 @@ export default async function ChurchesPage({
 }) {
   const { locale } = await params;
   setRequestLocale(locale);
-  return <ChurchesContent />;
+  return (
+    <>
+      <ChurchesContent />
+      <Footer />
+    </>
+  );
 }
