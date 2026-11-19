@@ -2,6 +2,7 @@ import { setRequestLocale, getTranslations } from 'next-intl/server';
 import { useMessages, useLocale } from 'next-intl';
 import type { Metadata } from 'next';
 import Footer from '@/components/Footer';
+import GuideEssentials from '@/components/GuideEssentials';
 
 const baseUrl = 'https://www.monumentoalpipila.com';
 const path = 'pipila-sunset-night-view';
@@ -182,6 +183,7 @@ export default async function PipilaSunsetPage({
   return (
     <>
       <PipilaSunsetContent />
+      <GuideEssentials kind="monument" />
       <Footer />
     </>
   );

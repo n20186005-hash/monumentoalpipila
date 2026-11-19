@@ -2,6 +2,7 @@ import { setRequestLocale, getTranslations } from 'next-intl/server';
 import { useMessages, useLocale } from 'next-intl';
 import type { Metadata } from 'next';
 import Footer from '@/components/Footer';
+import GuideEssentials from '@/components/GuideEssentials';
 
 const baseUrl = 'https://www.monumentoalpipila.com';
 const path = 'churches-in-guanajuato-mexico';
@@ -207,6 +208,7 @@ export default async function ChurchesPage({
   return (
     <>
       <ChurchesContent />
+      <GuideEssentials kind="churches" />
       <Footer />
     </>
   );

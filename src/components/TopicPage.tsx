@@ -1,5 +1,6 @@
 import { useMessages, useLocale } from 'next-intl';
 import Footer from '@/components/Footer';
+import GuideEssentials from '@/components/GuideEssentials';
 
 function ChevronLeftIcon() {
   return (
@@ -167,6 +168,7 @@ export default function TopicPage({ namespace }: { namespace: string }) {
           </div>
         </div>
       </div>
+      <GuideEssentials kind={namespace === 'funicularVsWalk' ? 'funicular' : 'monument'} />
       <Footer />
     </div>
   );
