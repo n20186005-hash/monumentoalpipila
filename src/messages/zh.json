@@ -1,4 +1,5 @@
 {
+  "accessibility": { "switchLanguage": "切换语言", "toggleTheme": "切换页面主题" },
   "meta": {
     "title": "皮皮拉纪念碑瓜纳华托｜最佳观景台与缆车全攻略",
     "description": "瓜纳华托皮皮拉纪念碑观景台全攻略：缆车票价与开放时间、步行登山路线、日落夜景、纪念碑的历史与周边必玩推荐。"
@@ -807,6 +808,9 @@
     "tipsDesc": "Monumento Al Pipila 是瓜纳华托必访景点，建议傍晚前往，可以同时欣赏日落和夜景。从市中心步行上山是一条很有趣的路线。"
   },
   "gallery": {
+    "closeLightbox": "关闭照片浏览器",
+    "previousPhoto": "上一张照片",
+    "nextPhoto": "下一张照片",
     "title": "精彩照片",
     "subtitle": "Monumento Al Pipila 的魅力风光",
     "altPrefix": "Monumento Al Pipila（皮皮拉纪念碑）",
@@ -832,6 +836,7 @@
     "items": []
   },
   "mapSection": {
+    "iframeTitle": "皮皮拉纪念碑在瓜纳华托的 Google 地图位置",
     "title": "皮皮拉（El Pípila）在瓜纳华托的位置与游览方式",
     "subtitle": "Cerro de San Miguel S/N, Zona Centro, 36000 Guanajuato, Gto., Mexico",
     "openMaps": "在Google地图上查看位置",

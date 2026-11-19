@@ -31,6 +31,19 @@ const ui = {
   zh: ['基本信息', '所在地', '开放时间', '门票', '交通方式', '历史与建筑特色', '管理主体', '推荐步行路线', '拍照机位', '住宿建议', '游客评价', '常见问答', '查看机构资料', 'Google 地图导航', '查看实时评分及评价', '周边专题', '返回皮皮拉'],
 } as const;
 
+const imageDescriptions = {
+  'teatro-juarez': {
+    en: 'Historic Teatro Juárez façade and grand staircase in Guanajuato',
+    es: 'Fachada histórica y escalinata del Teatro Juárez en Guanajuato',
+    zh: '瓜纳华托华雷斯剧院的历史外立面与入口台阶',
+  },
+  'alhondiga-de-granaditas': {
+    en: 'Stone façade and entrance of Alhóndiga de Granaditas in Guanajuato',
+    es: 'Fachada de piedra y entrada de la Alhóndiga de Granaditas en Guanajuato',
+    zh: '瓜纳华托格拉纳迪塔斯粮仓的石砌外墙和入口',
+  },
+} as const;
+
 const aboutDetails = {
   'teatro-juarez': {
     en: 'The theatre opened in 1903 and is part of Guanajuato’s state cultural network. The Instituto Estatal de la Cultura del Estado de Guanajuato is identified by Mexico’s cultural venue directory. Its monumental entrance, stone colonnade and sculptural roofline reflect the ceremonial architecture of the Porfirian era. Today it remains an active performance venue, so the programme and access conditions vary by event.',
@@ -71,7 +84,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const place = attractions[slug as keyof typeof attractions];
   if (!place) return {};
   const c = place[lang];
-  return { title: c.title, description: c.intro, alternates: { canonical: `${base}/${lang}/attractions/${slug}`, languages: { en: `${base}/en/attractions/${slug}`, es: `${base}/es/attractions/${slug}`, zh: `${base}/zh/attractions/${slug}`, 'x-default': `${base}/en/attractions/${slug}` } }, openGraph: { title: c.title, description: c.intro, images: [place.image] } };
+  return { title: c.title, description: c.intro, alternates: { canonical: `${base}/${lang}/attractions/${slug}`, languages: { en: `${base}/en/attractions/${slug}`, es: `${base}/es/attractions/${slug}`, zh: `${base}/zh/attractions/${slug}`, 'x-default': `${base}/en/attractions/${slug}` } }, openGraph: { title: c.title, description: c.intro, images: [{ url: place.image, alt: imageDescriptions[slug as keyof typeof imageDescriptions][lang] }] } };
 }
 
 export default async function AttractionPage({ params }: { params: Promise<{ locale: string; slug: string }> }) {
@@ -90,11 +103,11 @@ export default async function AttractionPage({ params }: { params: Promise<{ loc
     <p className="uppercase tracking-widest text-xs mt-9 mb-3" style={{ color: 'var(--text-muted)' }}>{c.tag}</p>
     <h1 className="font-display text-3xl sm:text-4xl font-bold mb-5" style={heading}>{c.title}</h1>
     <div className="flex flex-wrap gap-3 mb-5 text-sm" style={{ color: 'var(--text-secondary)' }}>
-      <span>{place.name}</span><span>·</span><span>Guanajuato, México</span><span>·</span><span>{lang === 'es' ? 'Consultar horario y reseñas en Maps' : lang === 'zh' ? '开放与评分请见地图实时信息' : 'Check hours and ratings on Maps'}</span>
+      <span>{place.name}</span><span>·</span><span>{lang === 'es' ? 'Guanajuato, México' : lang === 'zh' ? '墨西哥·瓜纳华托' : 'Guanajuato, Mexico'}</span><span>·</span><span>{lang === 'es' ? 'Consultar horario y reseñas en Maps' : lang === 'zh' ? '开放与评分请见地图实时信息' : 'Check hours and ratings on Maps'}</span>
     </div>
     <p className="leading-relaxed mb-7" style={body}>{c.intro}</p>
     <div className="flex flex-wrap gap-3 mb-8"><a href={place.map} target="_blank" rel="noopener noreferrer" className="rounded-full px-5 py-2 text-sm font-semibold" style={{ background: 'var(--accent)', color: 'white' }}>{t[13]} ↗</a><a href={place.map} target="_blank" rel="noopener noreferrer" className="rounded-full px-5 py-2 text-sm font-semibold" style={{ border: '1px solid var(--border-color)', color: 'var(--accent)' }}>{t[14]} ↗</a></div>
-    <img src={place.image} alt={place.alt} className="w-full rounded-2xl object-cover max-h-[480px] mb-12" loading="eager" />
+    <img src={place.image} alt={imageDescriptions[slug as keyof typeof imageDescriptions][lang]} className="w-full rounded-2xl object-cover max-h-[480px] mb-12" loading="eager" />
     <section className="rounded-2xl p-6 sm:p-8 mb-12" style={{ background: 'var(--bg-secondary)', border: '1px solid var(--border-color)' }}>
       <p className="text-xs uppercase font-bold tracking-widest mb-2" style={{ color: 'var(--accent)' }}>{lang === 'es' ? 'Sobre el lugar' : lang === 'zh' ? '关于景点' : 'About this place'}</p>
       <h2 className="font-display text-2xl font-semibold mb-4" style={heading}>{lang === 'zh' ? `关于${place.name}` : lang === 'es' ? `Acerca de ${place.name}` : `About ${place.name}`}</h2>

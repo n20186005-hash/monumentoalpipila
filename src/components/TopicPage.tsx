@@ -49,7 +49,7 @@ export default function TopicPage({ namespace }: { namespace: string }) {
           style={{ color: 'var(--accent)' }}
         >
           <ChevronLeftIcon />
-          {content?.backLabel || 'Back'}
+          {content?.backLabel}
         </a>
 
         <p className="text-xs font-semibold uppercase tracking-widest mb-3" style={mutedStyle}>

@@ -1,4 +1,5 @@
 {
+  "accessibility": { "switchLanguage": "Switch language", "toggleTheme": "Toggle color theme" },
   "meta": {
     "title": "El Pípila Monument Guanajuato | Hours, Funicular & Visitor Guide",
     "description": "Plan your visit to El Pípila Monument in Guanajuato, Mexico. Find viewpoint tips, funicular fares, opening hours, directions and the best time for photos."
@@ -807,6 +808,9 @@
     "tipsDesc": "Monumento Al Pipila is a must-visit attraction in Guanajuato. Visit in the late afternoon to enjoy both sunset and night views. Walking up from downtown is a very interesting route."
   },
   "gallery": {
+    "closeLightbox": "Close photo viewer",
+    "previousPhoto": "Previous photo",
+    "nextPhoto": "Next photo",
     "title": "Stunning Photos",
     "subtitle": "The Charm of Monumento Al Pipila",
     "altPrefix": "Monumento Al Pipila",
@@ -832,6 +836,7 @@
     "items": []
   },
   "mapSection": {
+    "iframeTitle": "Google Maps showing El Pípila Monument in Guanajuato",
     "title": "Location & How to Visit El Pípila in Guanajuato",
     "subtitle": "Cerro de San Miguel S/N, Zona Centro, 36000 Guanajuato, Gto., Mexico",
     "openMaps": "View on Google Maps",
@@ -876,7 +881,7 @@
       }
     },
     "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions.",
-    "imageRights": "Image rights: all photographs displayed on this website remain the property and copyright of their respective photographers. 本网站所展示的所有图片产权及版权均归原摄影者所有。"
+    "imageRights": "Image rights: all photographs displayed on this website remain the property and copyright of their respective photographers."
   },
   "privacy": {
     "title": "Privacy Policy",

@@ -33,7 +33,7 @@ export default function MapEmbed() {
             allowFullScreen
             loading="lazy"
             referrerPolicy="strict-origin-when-cross-origin"
-            title="Google Maps - Monumento Al Pipila, Guanajuato"
+            title={t('iframeTitle')}
           />
         </div>
 

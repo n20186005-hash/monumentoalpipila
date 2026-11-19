@@ -1,4 +1,5 @@
 {
+  "accessibility": { "switchLanguage": "Cambiar idioma", "toggleTheme": "Cambiar tema de color" },
   "meta": {
     "title": "Monumento al Pípila Guanajuato | Horarios, Precios y Cómo Llegar",
     "description": "Visita el Monumento al Pípila en Guanajuato. Descubre cómo llegar, precios del funicular, horarios, historia y los mejores consejos para disfrutar del mirador."
@@ -807,6 +808,9 @@
     "tipsDesc": "El Monumento al Pípila es una atracción imperdible en Guanajuato. Visita en el atardecer para disfrutar tanto del ocaso como de las vistas nocturnas. Caminar desde el centro es una ruta muy interesante."
   },
   "gallery": {
+    "closeLightbox": "Cerrar visor de fotos",
+    "previousPhoto": "Foto anterior",
+    "nextPhoto": "Foto siguiente",
     "title": "Fotos impresionantes",
     "subtitle": "El encanto del Monumento Al Pipila",
     "altPrefix": "Monumento Al Pipila",
@@ -832,6 +836,7 @@
     "items": []
   },
   "mapSection": {
+    "iframeTitle": "Mapa de Google del Monumento al Pípila en Guanajuato",
     "title": "Ubicación y cómo visitar El Pípila en Guanajuato",
     "subtitle": "Cerro de San Miguel S/N, Zona Centro, 36000 Guanajuato, Gto., Mexico",
     "openMaps": "Ver en Google Maps",
@@ -876,7 +881,7 @@
       }
     },
     "disclaimer": "Este sitio web es un proyecto independiente de información turística de terceros. No tenemos afiliación con el gobierno local u otras instituciones oficiales.",
-    "imageRights": "Derechos de imagen: todas las fotografías mostradas en este sitio web son propiedad y derechos de autor de sus respectivos fotógrafos. 本网站所展示的所有图片产权及版权均归原摄影者所有。"
+    "imageRights": "Derechos de imagen: todas las fotografías mostradas en este sitio web son propiedad y derechos de autor de sus respectivos fotógrafos."
   },
   "privacy": {
     "title": "Política de privacidad",
