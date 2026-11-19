@@ -1,6 +1,8 @@
 import type { Metadata } from 'next';
 import { setRequestLocale } from 'next-intl/server';
 import Footer from '@/components/Footer';
+import OtherAttractionPage from './OtherAttractionPage';
+import { guidePhotoUrl, nearbyGuides, type GuideLanguage } from '@/data/nearbyGuides';
 
 type Lang = 'en' | 'es' | 'zh';
 const base = 'https://www.monumentoalpipila.com';
@@ -76,12 +78,17 @@ const expanded = {
   },
 } as const;
 
-export function generateStaticParams() { return Object.keys(attractions).map(slug => ({ slug })); }
+export function generateStaticParams() { return [...Object.keys(attractions), ...Object.keys(nearbyGuides)].map(slug => ({ slug })); }
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string; slug: string }> }): Promise<Metadata> {
   const { locale, slug } = await params;
   const lang: Lang = locale === 'es' || locale === 'zh' ? locale : 'en';
   const place = attractions[slug as keyof typeof attractions];
+  const newGuide = nearbyGuides[slug];
+  if (newGuide) {
+    const c = newGuide.copy[lang];
+    return { title: c.title, description: c.intro, alternates: { canonical: `${base}/${lang}/attractions/${slug}`, languages: { en: `${base}/en/attractions/${slug}`, es: `${base}/es/attractions/${slug}`, zh: `${base}/zh/attractions/${slug}`, 'x-default': `${base}/en/attractions/${slug}` } }, openGraph: { title: c.title, description: c.intro, images: [{ url: guidePhotoUrl(newGuide.photoFile), alt: c.photo }] } };
+  }
   if (!place) return {};
   const c = place[lang];
   return { title: c.title, description: c.intro, alternates: { canonical: `${base}/${lang}/attractions/${slug}`, languages: { en: `${base}/en/attractions/${slug}`, es: `${base}/es/attractions/${slug}`, zh: `${base}/zh/attractions/${slug}`, 'x-default': `${base}/en/attractions/${slug}` } }, openGraph: { title: c.title, description: c.intro, images: [{ url: place.image, alt: imageDescriptions[slug as keyof typeof imageDescriptions][lang] }] } };
@@ -91,6 +98,7 @@ export default async function AttractionPage({ params }: { params: Promise<{ loc
   const { locale, slug } = await params;
   setRequestLocale(locale);
   const lang: Lang = locale === 'es' || locale === 'zh' ? locale : 'en';
+  if (nearbyGuides[slug]) return <OtherAttractionPage slug={slug} lang={lang as GuideLanguage} />;
   const place = attractions[slug as keyof typeof attractions];
   if (!place) return null;
   const c = place[lang], t = ui[lang];

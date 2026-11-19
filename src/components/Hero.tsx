@@ -1,8 +1,10 @@
 import { useTranslations } from 'next-intl';
 import { SITE } from '@/config/site';
+import { useLocale } from 'next-intl';
 
 export default function Hero() {
   const t = useTranslations('hero');
+  const locale = useLocale();
 
   return (
     <section className="relative min-h-screen flex items-end pb-16 sm:pb-24 overflow-hidden">
@@ -55,6 +57,11 @@ export default function Hero() {
               </svg>
               <span className="text-white text-sm">{t('openMaps')}</span>
             </a>
+          </div>
+          <div className="flex flex-wrap items-center gap-3 animate-fade-in-up animation-delay-200">
+            <a href="#nearby" className="rounded-full bg-white text-sm font-semibold px-5 py-2.5 hover:bg-white/90 transition-colors" style={{ color: '#292524' }}>{t('exploreNearby')} ↓</a>
+            <a href={`/${locale}/attractions/teatro-juarez`} className="rounded-full bg-white/15 text-white border border-white/30 text-sm px-4 py-2.5 backdrop-blur-sm hover:bg-white/25 transition-colors">Teatro Juárez ↗</a>
+            <a href={`/${locale}/attractions/alhondiga-de-granaditas`} className="rounded-full bg-white/15 text-white border border-white/30 text-sm px-4 py-2.5 backdrop-blur-sm hover:bg-white/25 transition-colors">Alhóndiga de Granaditas ↗</a>
           </div>
         </div>
       </div>

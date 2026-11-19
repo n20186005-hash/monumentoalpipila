@@ -37,10 +37,10 @@ export default async function HomePage({
       <main>
         <Hero />
         <Intro />
+        <NearbyAttractions />
         <BasicInfo />
         <WeatherSection />
         <SeasonsSection />
-        <NearbyAttractions />
         <HistoryTimeline />
         <PipilaStory />
         <RouteSection />

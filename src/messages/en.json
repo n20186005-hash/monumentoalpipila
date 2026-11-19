@@ -651,6 +651,7 @@
     ]
   },
   "header": {
+    "nearby": "Nearby sights",
     "home": "Home",
     "weather": "Weather",
     "plan": "Visit Guide",
@@ -670,6 +671,7 @@
     ]
   },
   "hero": {
+    "exploreNearby": "Explore nearby attractions",
     "title": "Monumento al Pípila (Guanajuato)",
     "subtitle": "Guanajuato · Mexico",
     "rating": "4.7",

@@ -651,6 +651,7 @@
     ]
   },
   "header": {
+    "nearby": "Lugares cercanos",
     "home": "Inicio",
     "weather": "Clima",
     "plan": "Guía",
@@ -670,6 +671,7 @@
     ]
   },
   "hero": {
+    "exploreNearby": "Explorar lugares cercanos",
     "title": "Monumento al Pípila: el mirador de Guanajuato",
     "subtitle": "Guanajuato · México",
     "rating": "4.7",

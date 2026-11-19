@@ -1,11 +1,12 @@
 import { MetadataRoute } from 'next';
+import { nearbyGuides } from '@/data/nearbyGuides';
 
 export const dynamic = 'force-static';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://www.monumentoalpipila.com';
   const locales = ['zh', 'en', 'es'];
-  const routes = ['', '/attractions/teatro-juarez', '/attractions/alhondiga-de-granaditas', '/guanajuato-one-day-itinerary', '/things-to-do-in-guanajuato', '/funicular-guanajuato-guide', '/pipila-sunset-night-view', '/churches-in-guanajuato-mexico', '/como-llegar-al-pipila', '/historia-del-pipila', '/mirador-del-pipila-atardecer', '/horario-y-entrada-pipila', '/funicular-vs-caminar', '/privacy-policy', '/terms-of-service', '/cookie-settings'];
+  const routes = ['', '/attractions/teatro-juarez', '/attractions/alhondiga-de-granaditas', ...Object.keys(nearbyGuides).map(slug => `/attractions/${slug}`), '/guanajuato-one-day-itinerary', '/things-to-do-in-guanajuato', '/funicular-guanajuato-guide', '/pipila-sunset-night-view', '/churches-in-guanajuato-mexico', '/como-llegar-al-pipila', '/historia-del-pipila', '/mirador-del-pipila-atardecer', '/horario-y-entrada-pipila', '/funicular-vs-caminar', '/privacy-policy', '/terms-of-service', '/cookie-settings'];
 
   const sitemap: MetadataRoute.Sitemap = [];
 

@@ -1,4 +1,5 @@
 import { useTranslations, useMessages, useLocale } from 'next-intl';
+import { nearbyGuides, type GuideLanguage } from '@/data/nearbyGuides';
 
 type Place = { name: string; desc: string };
 
@@ -16,6 +17,22 @@ export default function NearbyAttractions() {
   const locale = useLocale();
   const messages = useMessages() as any;
   const places = (messages?.nearby?.places ?? []) as Place[];
+  const lang: GuideLanguage = locale === 'es' || locale === 'zh' ? locale : 'en';
+  const knownSlugs: Record<string, string> = {
+    'Teatro Juárez': 'teatro-juarez',
+    'Alhóndiga de Granaditas': 'alhondiga-de-granaditas',
+    'Jardín de la Unión': 'jardin-de-la-union',
+    'Basilica of Our Lady of Guanajuato': 'basilica-guanajuato',
+    'Basílica de Nuestra Señora de Guanajuato': 'basilica-guanajuato',
+    'University of Guanajuato': 'universidad-de-guanajuato',
+    'Universidad de Guanajuato': 'universidad-de-guanajuato',
+    'Callejón del Beso': 'callejon-del-beso',
+  };
+  const existingSlugs = new Set(places.map(place => knownSlugs[place.name]));
+  const cards = [
+    ...places.map(place => ({ ...place, slug: knownSlugs[place.name] })),
+    ...Object.entries(nearbyGuides).filter(([slug]) => !existingSlugs.has(slug)).map(([slug, guide]) => ({ name: guide.name, desc: guide.copy[lang].intro, slug })),
+  ];
 
   return (
     <section
@@ -47,7 +64,7 @@ export default function NearbyAttractions() {
         </p>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
-          {places.map((place) => (
+          {cards.map((place) => (
             <article
               key={place.name}
               className="rounded-xl p-6 flex flex-col gap-2 transition-transform hover:-translate-y-1"
@@ -68,9 +85,9 @@ export default function NearbyAttractions() {
               >
                 {place.desc}
               </p>
-              {(place.name === 'Teatro Juárez' || place.name === 'Alhóndiga de Granaditas') && (
+              {place.slug && (
                 <a
-                  href={`/${locale}/attractions/${place.name === 'Teatro Juárez' ? 'teatro-juarez' : 'alhondiga-de-granaditas'}`}
+                  href={`/${locale}/attractions/${place.slug}`}
                   className="mt-2 text-sm font-semibold hover:underline"
                   style={{ color: 'var(--accent)' }}
                 >

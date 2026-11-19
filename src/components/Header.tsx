@@ -34,7 +34,7 @@ export default function Header() {
         </a>
 
         <nav className="hidden md:flex items-center gap-4 lg:gap-6">
-          {(['weather', 'plan', 'practical', 'gallery', 'reviews', 'map'] as const).map((section) => (
+          {(['nearby', 'weather', 'plan', 'practical', 'gallery', 'reviews', 'map'] as const).map((section) => (
             <a
               key={section}
               href={`#${section}`}
@@ -47,6 +47,7 @@ export default function Header() {
         </nav>
 
         <div className="flex items-center gap-2">
+          <a href="#nearby" className="md:hidden text-xs font-semibold px-2 py-2 rounded-md" style={{ background: 'var(--tag-bg)', color: 'var(--tag-text)' }}>{t('nearby')}</a>
           <ThemeToggle />
           <LanguageToggle />
         </div>

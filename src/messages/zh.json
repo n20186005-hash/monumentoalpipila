@@ -651,6 +651,7 @@
     ]
   },
   "header": {
+    "nearby": "周边景点",
     "home": "首页",
     "weather": "天气",
     "plan": "攻略",
@@ -670,6 +671,7 @@
     ]
   },
   "hero": {
+    "exploreNearby": "探索周边景点",
     "title": "Monumento Al Pipila（瓜纳华托）",
     "subtitle": "瓜纳华托州 · 墨西哥",
     "rating": "4.7",
