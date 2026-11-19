@@ -3,6 +3,18 @@ import { nearbyGuides, type GuideLanguage } from '@/data/nearbyGuides';
 
 type Place = { name: string; desc: string };
 
+const zhNames: Record<string, string> = {
+  'jardin-de-la-union': '联合花园',
+  'basilica-guanajuato': '瓜纳华托圣母圣殿',
+  'universidad-de-guanajuato': '瓜纳华托大学',
+  'callejon-del-beso': '接吻巷',
+  'mercado-hidalgo': '伊达尔戈市场',
+  'museo-casa-diego-rivera': '迭戈·里维拉故居博物馆',
+  'plaza-de-la-paz': '和平广场',
+  'templo-de-san-diego': '圣迭戈教堂',
+  'templo-de-la-compania': '耶稣会教堂',
+};
+
 /** 将 **加粗** 语法渲染为语义化 <strong> */
 function renderRich(text: string): string {
   return text.replace(/\*\*(.*?)\*\*/g, '<strong style="color: var(--text-primary)">$1</strong>');
@@ -27,11 +39,17 @@ export default function NearbyAttractions() {
     'University of Guanajuato': 'universidad-de-guanajuato',
     'Universidad de Guanajuato': 'universidad-de-guanajuato',
     'Callejón del Beso': 'callejon-del-beso',
+    '格拉纳迪塔斯粮仓': 'alhondiga-de-granaditas',
+    '联合花园': 'jardin-de-la-union',
+    '华雷斯剧院': 'teatro-juarez',
+    '瓜纳华托圣母圣殿': 'basilica-guanajuato',
+    '瓜纳华托大学': 'universidad-de-guanajuato',
+    '接吻巷': 'callejon-del-beso',
   };
   const existingSlugs = new Set(places.map(place => knownSlugs[place.name]));
   const cards = [
     ...places.map(place => ({ ...place, slug: knownSlugs[place.name] })),
-    ...Object.entries(nearbyGuides).filter(([slug]) => !existingSlugs.has(slug)).map(([slug, guide]) => ({ name: guide.name, desc: guide.copy[lang].intro, slug })),
+    ...Object.entries(nearbyGuides).filter(([slug]) => !existingSlugs.has(slug)).map(([slug, guide]) => ({ name: lang === 'zh' ? (zhNames[slug] ?? guide.name) : guide.name, desc: guide.copy[lang].intro, slug })),
   ];
 
   return (

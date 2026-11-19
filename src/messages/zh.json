@@ -1038,33 +1038,33 @@
   },
   "nearby": {
     "viewGuide": "查看景点专页",
-    "title": "El Pípila（皮皮拉）周边地标与景点",
-    "intro": "参观 **Monumento Al Pipila（皮皮拉纪念碑）** 时，游客可轻松探索周边的历史地标与景点，包括 **Alhóndiga de Granaditas（格拉纳迪塔斯粮仓）** 与 **Jardín de la Unión（联合花园）**，从观景台下坡步行即可到达。",
+    "title": "皮皮拉纪念碑周边地标与景点",
+    "intro": "参观皮皮拉纪念碑时，可以顺路探索瓜纳华托老城的历史景点，例如格拉纳迪塔斯粮仓和联合花园。从山顶观景台下坡步行，即可串联这些充满城市故事的地点。",
     "hint": "从纪念碑广场出发，沿路下行进入瓜纳华托历史中心，即可探访以下地点：",
     "places": [
       {
-        "name": "Alhóndiga de Granaditas",
-        "desc": "1810 年 El Pípila 火烧粮仓大门传说发生地，如今是地区博物馆。"
+        "name": "格拉纳迪塔斯粮仓",
+        "desc": "与 1810 年皮皮拉参与攻打粮仓的地方传说有关，如今是地区博物馆。"
       },
       {
-        "name": "Jardín de la Unión",
+        "name": "联合花园",
         "desc": "瓜纳华托热闹的中心广场，四周餐厅环绕，皮皮拉缆车山下站也设于此。"
       },
       {
-        "name": "Teatro Juárez",
+        "name": "华雷斯剧院",
         "desc": "山丘脚下宏伟的新古典主义剧院，1903 年落成启用。"
       },
       {
-        "name": "Basílica de Nuestra Señora de Guanajuato",
+        "name": "瓜纳华托圣母圣殿",
         "desc": "城市主教堂，以珍藏墨西哥最古老的基督教圣像之一而闻名。"
       },
       {
-        "name": "Universidad de Guanajuato",
+        "name": "瓜纳华托大学",
         "desc": "标志性的石阶是这座城市文化生活的重要象征。"
       },
       {
-        "name": "Callejón del Beso",
-        "desc": "著名的“接吻巷”（Callejón del Beso），从纪念碑下坡步行几分钟即可抵达。"
+        "name": "接吻巷",
+        "desc": "因两侧相邻的阳台和爱情传说而闻名，可从老城街巷步行前往。"
       }
     ]
   },
