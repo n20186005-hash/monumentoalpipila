@@ -846,6 +846,7 @@
     "officialPortalLabel": "墨西哥旅游部（Gob.mx）官方网站"
   },
   "footer": {
+    "oneDayTrip": "瓜纳华托一日游",
     "thingsToDo": "瓜纳华托必做清单",
     "guideFunicular": "瓜纳华托缆车攻略",
     "guideSunset": "皮皮拉日落与夜景",
@@ -1036,6 +1037,7 @@
     ]
   },
   "nearby": {
+    "viewGuide": "查看景点专页",
     "title": "El Pípila（皮皮拉）周边地标与景点",
     "intro": "参观 **Monumento Al Pipila（皮皮拉纪念碑）** 时，游客可轻松探索周边的历史地标与景点，包括 **Alhóndiga de Granaditas（格拉纳迪塔斯粮仓）** 与 **Jardín de la Unión（联合花园）**，从观景台下坡步行即可到达。",
     "hint": "从纪念碑广场出发，沿路下行进入瓜纳华托历史中心，即可探访以下地点：",

@@ -91,7 +91,7 @@ export default function NearbyAttractions() {
                   className="mt-2 text-sm font-semibold hover:underline"
                   style={{ color: 'var(--accent)' }}
                 >
-                  {locale === 'zh' ? '查看景点专页' : locale === 'es' ? 'Ver guía del lugar' : 'Explore this attraction'} →
+                  {t('viewGuide')} →
                 </a>
               )}
             </article>

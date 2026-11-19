@@ -76,7 +76,7 @@ export async function generateMetadata({
 
   const ogImage = {
     url: SITE.heroImageUrl,
-    alt: `${SITE.attractionFullName} in ${SITE.cityName}`,
+    alt: messages.hero.imageAlt,
   };
 
   return {

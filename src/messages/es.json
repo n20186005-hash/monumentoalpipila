@@ -846,6 +846,7 @@
     "officialPortalLabel": "el portal oficial de la Secretaría de Turismo de México (Gob.mx)"
   },
   "footer": {
+    "oneDayTrip": "Guanajuato en un día",
     "thingsToDo": "Cosas que hacer en Guanajuato",
     "guideFunicular": "Guía del teleférico de Guanajuato",
     "guideSunset": "Atardecer y noche en el Pípila",
@@ -1036,6 +1037,7 @@
     ]
   },
   "nearby": {
+    "viewGuide": "Ver guía del lugar",
     "title": "Monumentos y atracciones alrededor de El Pípila",
     "intro": "Al visitar **Monumento Al Pipila**, los visitantes pueden explorar fácilmente los monumentos históricos y puntos de interés cercanos, incluidos **Alhóndiga de Granaditas** y **Jardín de la Unión**, a pocos minutos caminando cuesta abajo del mirador.",
     "hint": "Empieza en la plaza del monumento y baja hacia el centro histórico de Guanajuato para descubrir estos lugares:",

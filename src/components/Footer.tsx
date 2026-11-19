@@ -42,7 +42,7 @@ export default function Footer() {
             <a href={`${prefix}/attractions/teatro-juarez`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">Teatro Juárez</a>
             <a href={`${prefix}/attractions/alhondiga-de-granaditas`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">Alhóndiga de Granaditas</a>
             <a href={`${prefix}/guanajuato-one-day-itinerary`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">
-              {locale === 'es' ? 'Guanajuato en un día' : locale === 'zh' ? '瓜纳华托一日游' : 'One day in Guanajuato'}
+              {t('oneDayTrip')}
             </a>
             <a href={`${prefix}/things-to-do-in-guanajuato`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">
               {t('thingsToDo')}

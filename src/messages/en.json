@@ -846,6 +846,7 @@
     "officialPortalLabel": "the Mexico Secretariat of Tourism official portal (Gob.mx)"
   },
   "footer": {
+    "oneDayTrip": "One day in Guanajuato",
     "thingsToDo": "Things to Do in Guanajuato",
     "guideFunicular": "Guanajuato Funicular Guide",
     "guideSunset": "El Pípila Sunset & Night",
@@ -1036,6 +1037,7 @@
     ]
   },
   "nearby": {
+    "viewGuide": "Explore this attraction",
     "title": "Landmarks & Attractions Around El Pípila",
     "intro": "When visiting **Monumento Al Pipila**, visitors can easily explore surrounding historical landmarks and points of interest, including **Alhóndiga de Granaditas** and **Jardín de la Unión**, all within a short walk downhill from the viewpoint.",
     "hint": "Start from the monument plaza and walk down into Guanajuato's historic centre to discover these places:",
