@@ -32,7 +32,7 @@ export const SITE = {
 
   // ── Google 数据 ─────────────────────────────────────
   rating: '4.7',
-  reviewCount: '39,159',
+  reviewCount: '39,320',
   mapsShareUrl: 'https://maps.app.goo.gl/tijtga6Z8omokNxv9',
   mapsEmbedSrc:
     'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6372.3087180421535!2d-101.2544089!3d21.014496400000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x842b740fa5ab4dcd%3A0xc433e9189f29aa1!2sMonumento%20Al%20Pipila!5e1!3m2!1sen!2s!4v1788749767887!5m2!1sen!2s',
