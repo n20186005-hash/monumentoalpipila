@@ -31,6 +31,25 @@ const ui = {
   zh: ['基本信息', '所在地', '开放时间', '门票', '交通方式', '历史与建筑特色', '管理主体', '推荐步行路线', '拍照机位', '住宿建议', '游客评价', '常见问答', '查看机构资料', 'Google 地图导航', '查看实时评分及评价', '周边专题', '返回皮皮拉'],
 } as const;
 
+const aboutDetails = {
+  'teatro-juarez': {
+    en: 'The theatre opened in 1903 and is part of Guanajuato’s state cultural network. The Instituto Estatal de la Cultura del Estado de Guanajuato is identified by Mexico’s cultural venue directory. Its monumental entrance, stone colonnade and sculptural roofline reflect the ceremonial architecture of the Porfirian era. Today it remains an active performance venue, so the programme and access conditions vary by event.',
+    es: 'Inaugurado en 1903, el recinto forma parte de la red cultural estatal. El Sistema de Información Cultural identifica al Instituto Estatal de la Cultura del Estado de Guanajuato como institución responsable. Su columnata de cantera y las esculturas de la cubierta representan la arquitectura ceremonial del Porfiriato. Hoy continúa funcionando como teatro, con programación y acceso que varían según el evento.',
+    zh: '华雷斯剧院于 1903 年开放，属于瓜纳华托州的文化场馆体系。墨西哥文化信息系统将瓜纳华托州文化机构列为相关管理主体。剧院正面石柱、屋顶雕像与大型入口体现了波菲里奥时期的礼仪性建筑风格。如今仍举办演出，内部开放方式依节目与场馆安排变化。',
+  },
+  'alhondiga-de-granaditas': {
+    en: 'The former grain store now houses the Museo Regional de Guanajuato, administered within the Instituto Nacional de Antropología e Historia (INAH) museum system. Its thick stone walls preserve the setting of the 28 September 1810 battle. The institution presents regional archaeological, historical and artistic heritage, connecting the building’s colonial commercial purpose with its later role in the independence narrative.',
+    es: 'La antigua alhóndiga alberga hoy el Museo Regional de Guanajuato, integrado en el sistema museístico del Instituto Nacional de Antropología e Historia (INAH). Sus muros de piedra conservan el escenario de la batalla del 28 de septiembre de 1810. El museo difunde patrimonio arqueológico, histórico y artístico regional, relacionando su función original de almacén con la memoria de la Independencia.',
+    zh: '旧粮仓现为瓜纳华托地区博物馆，纳入墨西哥国家人类学与历史研究所（INAH）的博物馆体系。厚实石墙保留了 1810 年 9 月 28 日战事发生的建筑环境。馆内呈现地区考古、历史与艺术遗产，帮助游客理解建筑从公共粮仓到独立战争纪念地的转变。',
+  },
+} as const;
+
+const visitingNotes = {
+  en: { title: 'Before you go', text: 'Wear comfortable shoes on the uneven stone streets and steps. Keep entrances clear, respect performances or museum rules, and check current notices for accessibility and temporary closures.' },
+  es: { title: 'Antes de visitar', text: 'Usa calzado cómodo para calles y escaleras de piedra. No bloquees los accesos, respeta las normas de funciones o exposiciones y consulta avisos de accesibilidad y cierres temporales.' },
+  zh: { title: '游览须知', text: '老城石板路与台阶不平，建议穿防滑舒适的鞋。不要挡住场馆入口，遵守演出或展馆规则，并留意无障碍设施及临时关闭公告。' },
+} as const;
+
 export function generateStaticParams() { return Object.keys(attractions).map(slug => ({ slug })); }
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string; slug: string }> }): Promise<Metadata> {
@@ -59,11 +78,17 @@ export default async function AttractionPage({ params }: { params: Promise<{ loc
     <p className="leading-relaxed mb-7" style={body}>{c.intro}</p>
     <div className="flex flex-wrap gap-3 mb-8"><a href={place.map} target="_blank" rel="noopener noreferrer" className="rounded-full px-5 py-2 text-sm font-semibold" style={{ background: 'var(--accent)', color: 'white' }}>{t[13]} ↗</a><a href={place.map} target="_blank" rel="noopener noreferrer" className="rounded-full px-5 py-2 text-sm font-semibold" style={{ border: '1px solid var(--border-color)', color: 'var(--accent)' }}>{t[14]} ↗</a></div>
     <img src={place.image} alt={place.alt} className="w-full rounded-2xl object-cover max-h-[480px] mb-12" loading="eager" />
+    <section className="rounded-2xl p-6 sm:p-8 mb-12" style={{ background: 'var(--bg-secondary)', border: '1px solid var(--border-color)' }}>
+      <p className="text-xs uppercase font-bold tracking-widest mb-2" style={{ color: 'var(--accent)' }}>{lang === 'es' ? 'Sobre el lugar' : lang === 'zh' ? '关于景点' : 'About this place'}</p>
+      <h2 className="font-display text-2xl font-semibold mb-4" style={heading}>{lang === 'zh' ? `关于${place.name}` : lang === 'es' ? `Acerca de ${place.name}` : `About ${place.name}`}</h2>
+      <p className="leading-relaxed mb-4" style={body}>{c.manager}</p>
+      <p className="leading-relaxed" style={body}>{aboutDetails[slug as keyof typeof aboutDetails][lang]}</p>
+    </section>
     <section className="rounded-2xl p-6 mb-12" style={{ background: 'var(--card-bg)', border: '1px solid var(--border-color)' }}><h2 className="font-display text-xl font-bold mb-5" style={heading}>{t[0]}</h2><dl className="grid sm:grid-cols-2 gap-5" style={body}><div><dt className="font-semibold">{t[1]}</dt><dd>{place.address}</dd></div><div><dt className="font-semibold">{t[2]}</dt><dd>{c.hours}</dd></div><div><dt className="font-semibold">{t[3]}</dt><dd>{c.tickets}</dd></div><div><dt className="font-semibold">{t[4]}</dt><dd>{c.transport}</dd></div></dl></section>
     {section(t[5], `${c.history} ${c.features}`)}
-    {section(t[6], c.manager)}
     <section className="mb-10"><h2 className="font-display text-2xl font-semibold mb-4" style={heading}>{t[7]}</h2><ol className="space-y-3 list-decimal pl-6" style={body}>{c.route.map(x => <li key={x}>{x}</li>)}</ol></section>
     {section(t[8], c.photo)}{section(t[9], c.stay)}
+    {section(visitingNotes[lang].title, visitingNotes[lang].text)}
     <section className="mb-10"><h2 className="font-display text-2xl font-semibold mb-3" style={heading}>{t[10]}</h2><a href={place.map} target="_blank" rel="noopener noreferrer" className="hover:underline" style={{ color: 'var(--accent)' }}>{t[14]} ↗</a></section>
     <section className="mb-10"><h2 className="font-display text-2xl font-semibold mb-4" style={heading}>{t[11]}</h2><dl className="space-y-5" style={body}>{c.faq.map(([q, a]) => <div key={q}><dt className="font-semibold" style={heading}>{q}</dt><dd className="mt-1">{a}</dd></div>)}</dl></section>
     <p className="mb-12"><a href={place.source} target="_blank" rel="noopener noreferrer" style={{ color: 'var(--accent)' }} className="text-sm hover:underline">{t[12]} ↗</a></p>
