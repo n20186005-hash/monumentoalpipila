@@ -50,6 +50,19 @@ const visitingNotes = {
   zh: { title: '游览须知', text: '老城石板路与台阶不平，建议穿防滑舒适的鞋。不要挡住场馆入口，遵守演出或展馆规则，并留意无障碍设施及临时关闭公告。' },
 } as const;
 
+const expanded = {
+  'teatro-juarez': {
+    en: { tips: ['Visit the theatre steps in the morning for architectural details, then return after dark for a different view.', 'Check the event calendar before planning an interior visit; an exterior stop does not require attending a show.', 'Combine the theatre with Jardín de la Unión and the nearby lower funicular station.'], highlights: ['Monumental entrance with tall columns and a broad stone staircase', 'Roofline sculptures, ornamental lighting and an elaborate façade', 'A working cultural venue in the heart of the historic centre'], culture: 'The theatre is not only a historic building: performances and cultural events keep it in everyday use. Its prominent setting beside Jardín de la Unión connects formal performance culture with the city’s informal street life.', experience: 'Approach from the garden, pause at the base of the steps, inspect the façade and return after sunset if the schedule permits. If a performance is available, plan it as a separate booked activity.', parking: 'The centre has restricted and narrow roads. Use a suitable public car park or a permitted drop-off point, then walk to De Sopeña 10.' },
+    es: { tips: ['Visita la escalinata por la mañana para apreciar detalles y vuelve al anochecer para otra perspectiva.', 'Consulta la cartelera antes de planificar una visita interior; puedes ver la fachada sin asistir a una función.', 'Combina el teatro con el Jardín de la Unión y la estación inferior del funicular.'], highlights: ['Entrada monumental con columnas altas y amplia escalinata de cantera', 'Esculturas en la cubierta, farolas y fachada ornamental', 'Recinto cultural activo junto al centro histórico'], culture: 'No es solamente un edificio antiguo: las funciones y actividades culturales mantienen vivo su papel público. Su ubicación frente al Jardín de la Unión conecta el espectáculo con la vida cotidiana de la plaza.', experience: 'Acércate desde el jardín, observa las columnas desde la base de las escaleras y regresa por la noche si tu horario lo permite. Reserva la función por separado si deseas asistir.', parking: 'Las calles del centro son estrechas y algunas tienen acceso restringido. Utiliza un estacionamiento autorizado o punto de descenso y camina a De Sopeña 10.' },
+    zh: { tips: ['上午适合观察台阶和石刻细节，晚上亮灯后可再拍一次不同氛围。', '打算入内参观请先查节目安排；仅欣赏外立面不必购买演出票。', '建议与联合花园及附近的缆车下站串联。'], highlights: ['高大石柱与宽阔石阶组成的纪念性入口', '屋顶雕像、古典灯柱与装饰丰富的外立面', '位于历史城区、至今持续举办文化活动的剧院'], culture: '这座剧院不仅是历史建筑，也通过演出与文化活动继续参与城市生活。它与联合花园相邻，呈现正式舞台文化与广场日常活动之间的联系。', experience: '从联合花园走向台阶，先欣赏石柱和屋顶雕像；时间允许可在亮灯后再次观察。若想看演出，应另外核对档期与预订。', parking: '历史城区道路较窄，部分路段限制车辆进入。建议使用允许停车的场所或指定下车点，再步行至 De Sopeña 10。' },
+  },
+  'alhondiga-de-granaditas': {
+    en: { tips: ['Start with the exterior and forecourt to understand the scale of the former grain store.', 'Allow additional time if you plan to see the museum collection; opening days can differ from outdoor access.', 'Pair the museum with an El Pípila history walk rather than treating the two places as the same site.'], highlights: ['Long stone walls and small windows reflecting its original storage purpose', 'The broad entrance approach and forecourt used for civic gatherings', 'Museum exhibits interpreting Guanajuato’s regional history and the independence period'], culture: 'The building links food storage, colonial urban administration and the violence of the independence struggle. Today its museum role turns that history into public education through exhibitions and collections.', experience: 'Begin at the exterior walls, read the architecture from the plaza, then enter the museum if it is open. Afterwards, follow the historic centre streets toward Plaza de la Paz to connect the wider independence story.', parking: 'The museum stands in a busy central district. Use a suitable central car park and walk to Mendizábal 6; a dedicated map location is preferable to guessing a route through the tunnels.' },
+    es: { tips: ['Empieza por el exterior y la explanada para comprender la escala de la antigua alhóndiga.', 'Reserva tiempo adicional si visitarás las salas del museo; el horario interior es distinto del acceso a la plaza.', 'Relaciona el museo con la historia de El Pípila sin confundir ambos lugares.'], highlights: ['Largos muros de piedra y ventanas pequeñas de su función de almacén', 'Acceso monumental y explanada utilizada para actos cívicos', 'Salas del museo dedicadas a la historia regional y la Independencia'], culture: 'El edificio conecta el almacenamiento de alimentos, la administración urbana virreinal y los acontecimientos de la Independencia. Su función museística actual transforma esa memoria en educación pública.', experience: 'Comienza observando los muros desde la plaza, entra al museo si está abierto y después sigue las calles hacia Plaza de la Paz para completar la ruta histórica.', parking: 'El museo está en una zona céntrica concurrida. Utiliza un estacionamiento autorizado y camina a Mendizábal 6; evita improvisar el recorrido por los túneles.' },
+    zh: { tips: ['先从广场观察粮仓的整体尺度与厚实外墙，再决定是否入馆。', '博物馆室内参观需要单独预留时间，开放日与室外广场不同。', '可与皮皮拉历史路线串联，但两者是不同的地点。'], highlights: ['体现储粮功能的厚重石墙与小窗', '宽阔的入口及可用于公共活动的前广场', '介绍地区历史与独立战争的博物馆展陈'], culture: '这座建筑将殖民时期的粮食储存、城市管理与独立战争中的冲突联系起来。如今作为博物馆，通过展览和藏品承担公共历史教育功能。', experience: '在前广场观察外墙与入口，若开放则安排入馆参观；之后沿历史城区街道前往和平广场，继续理解整座城市的独立战争故事。', parking: '博物馆位于繁忙市中心，建议在合规停车场停车后步行至 Mendizábal 6，避免凭直觉穿行复杂的市区隧道。' },
+  },
+} as const;
+
 export function generateStaticParams() { return Object.keys(attractions).map(slug => ({ slug })); }
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string; slug: string }> }): Promise<Metadata> {
@@ -68,6 +81,7 @@ export default async function AttractionPage({ params }: { params: Promise<{ loc
   const place = attractions[slug as keyof typeof attractions];
   if (!place) return null;
   const c = place[lang], t = ui[lang];
+  const extra = expanded[slug as keyof typeof expanded][lang];
   const heading = { color: 'var(--text-primary)' }, body = { color: 'var(--text-secondary)' };
   const section = (title: string, content: string) => <section className="mb-10"><h2 className="font-display text-2xl font-semibold mb-3" style={heading}>{title}</h2><p className="leading-relaxed" style={body}>{content}</p></section>;
   const siblings = Object.entries(attractions).filter(([key]) => key !== slug);
@@ -75,6 +89,9 @@ export default async function AttractionPage({ params }: { params: Promise<{ loc
     <a href={`/${lang}`} className="text-sm hover:underline" style={{ color: 'var(--accent)' }}>← {t[16]}</a>
     <p className="uppercase tracking-widest text-xs mt-9 mb-3" style={{ color: 'var(--text-muted)' }}>{c.tag}</p>
     <h1 className="font-display text-3xl sm:text-4xl font-bold mb-5" style={heading}>{c.title}</h1>
+    <div className="flex flex-wrap gap-3 mb-5 text-sm" style={{ color: 'var(--text-secondary)' }}>
+      <span>{place.name}</span><span>·</span><span>Guanajuato, México</span><span>·</span><span>{lang === 'es' ? 'Consultar horario y reseñas en Maps' : lang === 'zh' ? '开放与评分请见地图实时信息' : 'Check hours and ratings on Maps'}</span>
+    </div>
     <p className="leading-relaxed mb-7" style={body}>{c.intro}</p>
     <div className="flex flex-wrap gap-3 mb-8"><a href={place.map} target="_blank" rel="noopener noreferrer" className="rounded-full px-5 py-2 text-sm font-semibold" style={{ background: 'var(--accent)', color: 'white' }}>{t[13]} ↗</a><a href={place.map} target="_blank" rel="noopener noreferrer" className="rounded-full px-5 py-2 text-sm font-semibold" style={{ border: '1px solid var(--border-color)', color: 'var(--accent)' }}>{t[14]} ↗</a></div>
     <img src={place.image} alt={place.alt} className="w-full rounded-2xl object-cover max-h-[480px] mb-12" loading="eager" />
@@ -84,11 +101,28 @@ export default async function AttractionPage({ params }: { params: Promise<{ loc
       <p className="leading-relaxed mb-4" style={body}>{c.manager}</p>
       <p className="leading-relaxed" style={body}>{aboutDetails[slug as keyof typeof aboutDetails][lang]}</p>
     </section>
+    <section className="mb-12">
+      <h2 className="font-display text-2xl font-semibold mb-4" style={heading}>{lang === 'es' ? 'Consejos para la visita' : lang === 'zh' ? '游览建议' : 'Visit tips'}</h2>
+      <ul className="list-disc pl-6 space-y-3 leading-relaxed" style={body}>{extra.tips.map(tip => <li key={tip}>{tip}</li>)}</ul>
+    </section>
+    <section className="mb-12">
+      <h2 className="font-display text-2xl font-semibold mb-4" style={heading}>{lang === 'es' ? 'Lo más destacado' : lang === 'zh' ? '景区特色' : 'Highlights'}</h2>
+      <div className="grid sm:grid-cols-3 gap-4">{extra.highlights.map((highlight, index) => <div key={highlight} className="rounded-xl p-5" style={{ background: 'var(--card-bg)', border: '1px solid var(--border-color)' }}><span className="font-bold text-xl" style={{ color: 'var(--accent)' }}>{index + 1}</span><p className="mt-3 text-sm leading-relaxed" style={body}>{highlight}</p></div>)}</div>
+    </section>
     <section className="rounded-2xl p-6 mb-12" style={{ background: 'var(--card-bg)', border: '1px solid var(--border-color)' }}><h2 className="font-display text-xl font-bold mb-5" style={heading}>{t[0]}</h2><dl className="grid sm:grid-cols-2 gap-5" style={body}><div><dt className="font-semibold">{t[1]}</dt><dd>{place.address}</dd></div><div><dt className="font-semibold">{t[2]}</dt><dd>{c.hours}</dd></div><div><dt className="font-semibold">{t[3]}</dt><dd>{c.tickets}</dd></div><div><dt className="font-semibold">{t[4]}</dt><dd>{c.transport}</dd></div></dl></section>
-    {section(t[5], `${c.history} ${c.features}`)}
+    <section className="mb-12">
+      <h2 className="font-display text-2xl font-semibold mb-5" style={heading}>{lang === 'es' ? 'Descubre su historia, cultura y experiencia' : lang === 'zh' ? '发现魅力：历史、建筑与文化体验' : 'Discover its history, culture and experience'}</h2>
+      <div className="space-y-5" style={body}>
+        <div><h3 className="font-semibold text-lg mb-2" style={heading}>{lang === 'es' ? 'Historia' : lang === 'zh' ? '历史背景' : 'History'}</h3><p className="leading-relaxed">{c.history}</p></div>
+        <div><h3 className="font-semibold text-lg mb-2" style={heading}>{lang === 'es' ? 'Arquitectura' : lang === 'zh' ? '建筑观察重点' : 'Architecture'}</h3><p className="leading-relaxed">{c.features}</p></div>
+        <div><h3 className="font-semibold text-lg mb-2" style={heading}>{lang === 'es' ? 'Significado cultural' : lang === 'zh' ? '文化意义' : 'Cultural significance'}</h3><p className="leading-relaxed">{extra.culture}</p></div>
+        <div><h3 className="font-semibold text-lg mb-2" style={heading}>{lang === 'es' ? 'Experiencia principal' : lang === 'zh' ? '核心体验' : 'Core experience'}</h3><p className="leading-relaxed">{extra.experience}</p></div>
+      </div>
+    </section>
     <section className="mb-10"><h2 className="font-display text-2xl font-semibold mb-4" style={heading}>{t[7]}</h2><ol className="space-y-3 list-decimal pl-6" style={body}>{c.route.map(x => <li key={x}>{x}</li>)}</ol></section>
     {section(t[8], c.photo)}{section(t[9], c.stay)}
     {section(visitingNotes[lang].title, visitingNotes[lang].text)}
+    {section(lang === 'es' ? 'Guía de transporte y estacionamiento' : lang === 'zh' ? '交通指南与停车' : 'Transport and parking guide', `${c.transport} ${extra.parking}`)}
     <section className="mb-10"><h2 className="font-display text-2xl font-semibold mb-3" style={heading}>{t[10]}</h2><a href={place.map} target="_blank" rel="noopener noreferrer" className="hover:underline" style={{ color: 'var(--accent)' }}>{t[14]} ↗</a></section>
     <section className="mb-10"><h2 className="font-display text-2xl font-semibold mb-4" style={heading}>{t[11]}</h2><dl className="space-y-5" style={body}>{c.faq.map(([q, a]) => <div key={q}><dt className="font-semibold" style={heading}>{q}</dt><dd className="mt-1">{a}</dd></div>)}</dl></section>
     <p className="mb-12"><a href={place.source} target="_blank" rel="noopener noreferrer" style={{ color: 'var(--accent)' }} className="text-sm hover:underline">{t[12]} ↗</a></p>
