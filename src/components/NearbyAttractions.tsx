@@ -1,4 +1,4 @@
-import { useTranslations, useMessages } from 'next-intl';
+import { useTranslations, useMessages, useLocale } from 'next-intl';
 
 type Place = { name: string; desc: string };
 
@@ -13,6 +13,7 @@ function renderRich(text: string): string {
  */
 export default function NearbyAttractions() {
   const t = useTranslations('nearby');
+  const locale = useLocale();
   const messages = useMessages() as any;
   const places = (messages?.nearby?.places ?? []) as Place[];
 
@@ -67,6 +68,15 @@ export default function NearbyAttractions() {
               >
                 {place.desc}
               </p>
+              {(place.name === 'Teatro Juárez' || place.name === 'Alhóndiga de Granaditas') && (
+                <a
+                  href={`/${locale}/attractions/${place.name === 'Teatro Juárez' ? 'teatro-juarez' : 'alhondiga-de-granaditas'}`}
+                  className="mt-2 text-sm font-semibold hover:underline"
+                  style={{ color: 'var(--accent)' }}
+                >
+                  {locale === 'zh' ? '查看景点专页' : locale === 'es' ? 'Ver guía del lugar' : 'Explore this attraction'} →
+                </a>
+              )}
             </article>
           ))}
         </div>

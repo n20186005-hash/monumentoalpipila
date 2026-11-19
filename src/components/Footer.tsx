@@ -39,6 +39,8 @@ export default function Footer() {
             </div>
           </div>
           <div className="flex flex-wrap gap-4 text-sm mt-4 sm:mt-0">
+            <a href={`${prefix}/attractions/teatro-juarez`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">Teatro Juárez</a>
+            <a href={`${prefix}/attractions/alhondiga-de-granaditas`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">Alhóndiga de Granaditas</a>
             <a href={`${prefix}/guanajuato-one-day-itinerary`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">
               {locale === 'es' ? 'Guanajuato en un día' : locale === 'zh' ? '瓜纳华托一日游' : 'One day in Guanajuato'}
             </a>
