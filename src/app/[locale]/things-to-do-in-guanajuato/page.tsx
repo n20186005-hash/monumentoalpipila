@@ -116,6 +116,9 @@ function ThingsToDoContent() {
           <h2 className="font-display text-lg font-semibold mb-2" style={headingStyle}>
             {content?.calloutTitle}
           </h2>
+          <a href={`/${locale}/guanajuato-one-day-itinerary`} className="block mb-4 text-sm font-semibold hover:underline" style={{ color: 'var(--accent)' }}>
+            {locale === 'es' ? 'Ruta de un día por Guanajuato' : locale === 'zh' ? '瓜纳华托一日游路线' : 'One-day Guanajuato walking itinerary'} →
+          </a>
           <p className="leading-relaxed text-sm mb-4" style={bodyStyle}>
             {content?.calloutText}
           </p>
