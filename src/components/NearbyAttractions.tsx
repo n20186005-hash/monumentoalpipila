@@ -1,4 +1,5 @@
 import { useTranslations, useMessages, useLocale } from 'next-intl';
+import { placeCards } from '@/data/culturalPlaces';
 import { nearbyGuides, type GuideLanguage } from '@/data/nearbyGuides';
 
 type Place = { name: string; desc: string };
@@ -50,6 +51,7 @@ export default function NearbyAttractions() {
   const cards = [
     ...places.map(place => ({ ...place, slug: knownSlugs[place.name] })),
     ...Object.entries(nearbyGuides).filter(([slug]) => !existingSlugs.has(slug)).map(([slug, guide]) => ({ name: lang === 'zh' ? (zhNames[slug] ?? guide.name) : guide.name, desc: guide.copy[lang].intro, slug })),
+    ...placeCards(lang),
   ];
 
   return (

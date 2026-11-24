@@ -1,0 +1,762 @@
+{
+  "ex-convento-dieguino": {
+    "name": "Museo de Sitio Ex Convento Dieguino",
+    "address": "Jardín de la Unión, junto al Teatro Juárez, Centro, Guanajuato",
+    "map": "https://www.google.com/maps?q=21.015349111317000,-101.253211981450000",
+    "photo": "/places/ex-convento-dieguino.webp",
+    "source": "https://sic.cultura.gob.mx/ficha.php?table=museo&table_id=1414",
+    "year": 2020,
+    "fee": null,
+    "copy": {
+      "en": {
+        "title": "Dieguino Convent Site Museum",
+        "body": "Beneath the level of today's theatre district, the surviving rooms show how much the level of the streets has changed. Only part of the convent was recovered. Its entrance hall, sacristy and cloister make the former layout easier to read than the modern street plan.",
+        "route": "Start in Jardín de la Unión, pass the San Diego church and look for the separate museum entrance beside Teatro Juárez. Once inside, trace the transition from entrance passage to cloister before returning to the garden.",
+        "question": "Can I see the entire convent?",
+        "answer": "Only a portion survives. Look for changes in masonry where a room or passage ends and let the site plan supply the missing spaces.",
+        "operator": "Municipal Directorate of Culture and Education",
+        "hours": "Mon–Sun 10:00–18:00"
+      },
+      "es": {
+        "title": "Museo de Sitio Ex Convento Dieguino",
+        "body": "Bajo el nivel actual de la zona del teatro se aprecia cuánto cambió la altura de las calles. El rescate abarcó solo parte del convento. El zaguán, la sacristía y el claustro permiten reconstruir su distribución mejor que un plano de las calles actuales.",
+        "route": "Desde el Jardín de la Unión pasa junto a San Diego y busca la entrada propia del museo al lado del Teatro Juárez. Recorre el paso del zaguán al claustro y vuelve al jardín.",
+        "question": "¿Se conserva todo el convento?",
+        "answer": "Solo queda una parte. Observa dónde se interrumpen los muros y consulta el plano para situar las estancias desaparecidas.",
+        "operator": "Dirección General de Cultura y Educación municipal",
+        "hours": "lun–dom 10:00–18:00"
+      },
+      "zh": {
+        "title": "迭吉诺旧修道院遗址博物馆",
+        "body": "遗址低于今天剧院区的街面。站在入口比较两个高度，再看门厅、圣器室与回廊的位置，就能理解旧修道院如何组织人流。发掘仅揭露了建筑群的一部分。",
+        "route": "从联合花园经过圣迭戈教堂，在华雷斯剧院旁寻找博物馆自己的入口。入内先走门厅，再沿回廊辨认房间的边界，最后原路回到花园。",
+        "question": "还能看见整座修道院吗？",
+        "answer": "仅有部分遗存。观察墙体在哪里中断，对照现场平面图理解已消失的空间。",
+        "operator": "瓜纳华托市文化教育总局",
+        "hours": "周一–周日 10:00–18:00"
+      }
+    }
+  },
+  "museo-de-cera": {
+    "name": "Museo de Cera de Guanajuato",
+    "address": "Calle 28 de Septiembre 82, Centro, CP 36000, Guanajuato, México",
+    "map": "https://www.google.com/maps?q=21.019207969275000,-101.257813721950000",
+    "photo": "/places/museo-de-cera.webp",
+    "source": "https://sic.cultura.gob.mx/ficha.php?table=museo&table_id=1417",
+    "year": 2023,
+    "fee": 40,
+    "copy": {
+      "en": {
+        "title": "Guanajuato Wax Museum",
+        "body": "Ernestina Hernández Guzmán and sculptor Víctor Hugo Yáñez Piña developed the museum around the craft of lifelike figures. Its small themed rooms move from local history and artists to film and horror. Skin texture, eyes and the way hair is set explain the illusion at close range.",
+        "route": "From the Alhóndiga go to Calle 28 de Septiembre and follow the numbers to 82. Inside, compare two figures in the painting and cinema sections before deciding whether to enter the horror room.",
+        "question": "Does the visit include frightening scenes?",
+        "answer": "Yes. Families can ask at reception how to bypass the horror section and concentrate on artists and local traditions.",
+        "operator": "Government of Guanajuato State",
+        "hours": "Mon–Sun 10:00–18:00"
+      },
+      "es": {
+        "title": "Museo de Cera de Guanajuato",
+        "body": "Ernestina Hernández Guzmán y el escultor Víctor Hugo Yáñez Piña concibieron el museo en torno al trabajo de figuras realistas. Las salas pequeñas pasan de la historia local y la pintura al cine y el terror. Mira de cerca la textura de la piel, los ojos y la implantación del pelo.",
+        "route": "Desde la Alhóndiga busca la calle 28 de Septiembre y sigue la numeración hasta el 82. Compara una figura de la sala de pintura con otra de cine antes de decidir si entras a la de terror.",
+        "question": "¿Hay escenas que puedan asustar?",
+        "answer": "Sí. En recepción puedes preguntar cómo evitar el apartado de terror y centrar la visita en artistas y tradiciones locales.",
+        "operator": "Gobierno del Estado de Guanajuato",
+        "hours": "lun–dom 10:00–18:00"
+      },
+      "zh": {
+        "title": "瓜纳华托蜡像馆",
+        "body": "埃内斯蒂娜·埃尔南德斯与雕塑家维克托·乌戈·亚涅斯共同筹建了这座蜡像馆。小展室从地方史、画家延伸到电影与惊悚题材。近看皮肤纹理、眼部材质和植发，就能发现逼真肖像的制作方法。",
+        "route": "从格拉纳迪塔斯粮仓走到九月二十八日街，按门牌找到82号。在绘画室与电影室各选一尊人物比较表情，然后决定是否参观惊悚展室。",
+        "question": "有可能吓到孩子的场景吗？",
+        "answer": "馆内设有惊悚主题展室。可以先向接待员询问绕行方式，集中参观艺术家与当地生活题材。",
+        "operator": "瓜纳华托州政府",
+        "hours": "周一–周日 10:00–18:00"
+      }
+    }
+  },
+  "primer-deposito": {
+    "name": "Museo de Arte Contemporáneo Primer Depósito",
+    "address": "Positos 25, Centro, CP 36000, Guanajuato, México",
+    "map": "https://www.google.com/maps?q=21.017955087129000,-101.254621893140000",
+    "photo": "/places/primer-deposito.webp",
+    "source": "https://sic.cultura.gob.mx/ficha.php?table=museo&table_id=1801",
+    "year": 2026,
+    "fee": 20,
+    "copy": {
+      "en": {
+        "title": "Primer Depósito Contemporary Art Museum",
+        "body": "Bronze is a good starting point for this private collection. Look for work by artists such as Leonora Carrington and José Luis Cuevas, then compare the negative space around a sculpture with the composed surface of a painting. The museum opened in 2012.",
+        "route": "Start at the Diego Rivera house on Positos 47 and follow the same street to number 25. Circle a sculpture where the gallery allows, then follow Positos to the Museo del Pueblo at number 7.",
+        "question": "Is it another Diego Rivera house museum?",
+        "answer": "The collection focuses on modern and contemporary art. Its independent entrance is on the same street as Rivera's birthplace.",
+        "operator": "Independent museum administration",
+        "hours": "Tue–Sun 10:00–17:20"
+      },
+      "es": {
+        "title": "Museo Primer Depósito",
+        "body": "El bronce ofrece una entrada a esta colección privada. Busca obras de autores como Leonora Carrington o José Luis Cuevas y compara el vacío que rodea una escultura con el espacio delimitado por una pintura. El recinto abrió en 2012.",
+        "route": "Desde la casa de Diego Rivera en Positos 47 sigue la misma calle hasta el número 25. Rodea una escultura donde lo permita la sala y continúa por Positos al Museo del Pueblo, en el 7.",
+        "question": "¿Es otra sede de la casa de Diego Rivera?",
+        "answer": "La colección está dedicada al arte moderno y contemporáneo. Tiene entrada propia en la misma calle que la casa natal del pintor.",
+        "operator": "Administración privada del museo",
+        "hours": "mar–dom 10:00–17:20"
+      },
+      "zh": {
+        "title": "第一仓当代艺术博物馆",
+        "body": "这间私人博物馆于2012年开放。可从青铜雕塑看起，寻找莱昂诺拉·卡林顿或何塞·路易斯·奎瓦斯等艺术家的作品。绕行时留意肢体之间的空隙，再比较画作如何在平面上安排空间。",
+        "route": "从波西托斯街47号的里维拉故居沿街走到25号。入馆后从不同角度观察一件雕塑，出馆沿同一条街可继续前往7号的人民博物馆。",
+        "question": "它也是里维拉故居的展区吗？",
+        "answer": "这里独立展示现当代艺术，与故居在同一条街，有自己的入口。",
+        "operator": "私人博物馆管理方",
+        "hours": "周二–周日 10:00–17:20"
+      }
+    }
+  },
+  "pinacoteca-de-la-compania": {
+    "name": "Pinacoteca del Templo de La Compañía",
+    "address": "Plazuela de la Compañía 1, Centro, CP 36000, Guanajuato, México",
+    "map": "https://www.google.com/maps?q=21.017203819938000,-101.252538710830000",
+    "photo": "/places/pinacoteca-de-la-compania.webp",
+    "source": "https://sic.cultura.gob.mx/ficha.php?table=museo&table_id=244",
+    "year": 2023,
+    "fee": 10,
+    "copy": {
+      "en": {
+        "title": "La Compañía Painting Gallery",
+        "body": "A carved door to the left of the main altar links the church to its former sacristy. In this room, paintings from the seventeenth through nineteenth centuries share space with devotional objects. The gallery belongs to the church complex but has its own collection and access arrangements.",
+        "route": "Walk from the university steps to Plazuela de la Compañía 1. Ask the attendant about gallery access before approaching the sanctuary. Compare the painted canvases with the model of the church dome, then return to the square.",
+        "question": "Can I enter during services?",
+        "answer": "Access to the gallery and church may differ. Ask the Oratory staff before passing through the door near the altar.",
+        "operator": "Congregation of the Oratory of Saint Philip Neri",
+        "hours": "Mon–Sat 10:00–17:00"
+      },
+      "es": {
+        "title": "Pinacoteca de La Compañía",
+        "body": "Una puerta tallada a la izquierda del altar mayor comunica el templo con su antigua sacristía. La sala reúne lienzos de los siglos XVII al XIX y objetos devocionales. Pertenece al conjunto religioso, pero su colección y sus condiciones de acceso son propias.",
+        "route": "Desde las escalinatas universitarias llega a Plazuela de la Compañía 1. Pregunta por el acceso antes de acercarte al presbiterio. Compara los lienzos con la maqueta de la cúpula y vuelve a la plazuela.",
+        "question": "¿Se entra durante el culto?",
+        "answer": "El acceso al templo y a la pinacoteca puede variar. Pregunta al personal del Oratorio antes de cruzar la puerta junto al altar.",
+        "operator": "Congregación del Oratorio de San Felipe Neri",
+        "hours": "lun–sáb 10:00–17:00"
+      },
+      "zh": {
+        "title": "耶稣会教堂绘画陈列馆",
+        "body": "主祭坛左侧的雕花门通往旧圣器室。室内陈列十七至十九世纪的绘画与礼仪器物。它坐落在教堂建筑群内，拥有独立馆藏，参观安排也与礼拜空间有所区别。",
+        "route": "从大学大阶梯步行至耶稣会小广场1号，先向值守人员询问画廊入口。入内对比油画与教堂穹顶模型，离开时原路回到广场。",
+        "question": "礼拜期间可以直接进画廊吗？",
+        "answer": "教堂和画廊可能分开开放，经过祭坛旁的门之前，请向圣斐理伯堂的工作人员询问。",
+        "operator": "圣斐理伯祈祷会",
+        "hours": "周一–周六 10:00–17:00"
+      }
+    }
+  },
+  "museo-universidad-guanajuato": {
+    "name": "Museo de la Universidad de Guanajuato",
+    "address": "Cantarranas/Hidalgo  13, Centro, CP 36000, Guanajuato, México",
+    "map": "https://www.google.com/maps?q=21.016134157799000,-101.251964718100000",
+    "photo": "/places/museo-universidad-guanajuato.webp",
+    "source": "https://sic.cultura.gob.mx/ficha.php?table=museo&table_id=2028",
+    "year": 2024,
+    "fee": 30,
+    "copy": {
+      "en": {
+        "title": "University of Guanajuato Museum",
+        "body": "Opened in 2019, this museum uses the university's own collections to connect colonial education with later scientific teaching. Mining was one of the school's early scientific vocations. Portraits, instruments and a reconstructed nineteenth-century study show what learning looked like at different dates.",
+        "route": "Begin at Teatro Principal on Cantarranas. Follow the street to Hidalgo 13 and enter the university museum. Look for the scientific cabinets before the mining displays and finish with the period study.",
+        "question": "Is this at the main university staircase?",
+        "answer": "The museum entrance is in the Cantarranas area at Hidalgo 13. The university's main facade is a separate stop.",
+        "operator": "University of Guanajuato",
+        "hours": "Mon–Fri 10:00–18:00"
+      },
+      "es": {
+        "title": "Museo de la Universidad de Guanajuato",
+        "body": "Abierto en 2019, el museo usa las colecciones universitarias para relacionar la enseñanza colonial con la formación científica posterior. La minería fue una de las primeras vocaciones científicas de la institución. Retratos, instrumentos y un estudio del siglo XIX muestran cómo cambiaba el aprendizaje.",
+        "route": "Comienza en el Teatro Principal de Cantarranas. Sigue hasta Hidalgo 13 y entra al museo. Busca los gabinetes científicos antes de las piezas mineras y termina en la ambientación del estudio.",
+        "question": "¿Se entra por la escalinata principal de la universidad?",
+        "answer": "La entrada al museo está en la zona de Cantarranas, en Hidalgo 13. La fachada universitaria se visita por separado.",
+        "operator": "Universidad de Guanajuato",
+        "hours": "lun–vie 10:00–18:00"
+      },
+      "zh": {
+        "title": "瓜纳华托大学博物馆",
+        "body": "博物馆于2019年开放，利用大学自己的藏品连接殖民时期教育和后来的科学教学。采矿是早期科学训练的重要方向。肖像、科学仪器以及复原的十九世纪书房，展现了不同时代的学习环境。",
+        "route": "从坎塔拉纳斯街的主剧院出发，沿街前往伊达尔戈街13号。入馆先寻找科学陈列柜，再看矿业展品，最后进入时代书房。",
+        "question": "从著名的大学大阶梯进馆吗？",
+        "answer": "馆门在坎塔拉纳斯一带的伊达尔戈街13号。主楼大阶梯可以另作一站。",
+        "operator": "瓜纳华托大学",
+        "hours": "周一–周五 10:00–18:00"
+      }
+    }
+  },
+  "museo-iconografico-quijote": {
+    "name": "Museo Iconográfico del Quijote",
+    "address": "Manuel Doblado 1, Centro, CP 36000, Guanajuato, México",
+    "map": "https://www.google.com/maps?q=21.014521610923000,-101.252227574590000",
+    "photo": "/places/museo-iconografico-quijote.webp",
+    "source": "https://sic.cultura.gob.mx/ficha.php?table=museo&table_id=628",
+    "year": 2026,
+    "fee": 35,
+    "copy": {
+      "en": {
+        "title": "Don Quixote Iconographic Museum",
+        "body": "Collector Eulalio Ferrer established this museum in 1987. Instead of telling the novel chapter by chapter, its collection shows how different artists imagined the same figures. Trace a single character from a print to a sculpture and notice which details make the figure recognizable.",
+        "route": "From Jardín de la Unión take Sopeña toward the San Francisco church, then continue to Manuel Doblado 1. Look for the Dulcinea rooms and the Cervantine chapel before returning along the pedestrian street.",
+        "question": "Do I need to have read Cervantes?",
+        "answer": "You can start with a silhouette or a recurring attribute. Comparing two images of the same character makes the collection accessible without knowing the plot.",
+        "operator": "Government of Guanajuato State",
+        "hours": "Tue–Sat 09:30–19:00, Sun 12:00–19:00"
+      },
+      "es": {
+        "title": "Museo Iconográfico del Quijote",
+        "body": "El coleccionista Eulalio Ferrer creó el museo en 1987. La colección permite seguir a un personaje por las interpretaciones de artistas distintos, en lugar de reproducir los capítulos de la novela. Compara un grabado y una escultura para ver qué rasgos permiten reconocer a la figura.",
+        "route": "Desde el Jardín de la Unión toma Sopeña hacia el templo de San Francisco y sigue hasta Manuel Doblado 1. Busca las salas de Dulcinea y la Capilla Cervantina antes de regresar por la calle peatonal.",
+        "question": "¿Conviene haber leído a Cervantes?",
+        "answer": "Puedes comenzar por una silueta o un atributo que se repite. Comparar dos imágenes del mismo personaje da una buena entrada sin conocer la trama.",
+        "operator": "Gobierno del Estado de Guanajuato",
+        "hours": "mar–sáb 09:30–19:00, dom 12:00–19:00"
+      },
+      "zh": {
+        "title": "堂吉诃德图像博物馆",
+        "body": "收藏家欧拉利奥·费雷尔于1987年创办此馆。馆藏并不依小说章节编排，而是呈现不同艺术家如何描绘同一人物。尝试从版画走到雕塑，找出人物即使更换媒材依然容易辨认的特征。",
+        "route": "从联合花园沿索佩尼亚街朝圣方济各教堂走，继续到曼努埃尔·多夫拉多街1号。馆内寻找杜尔西内娅展室和塞万提斯小堂，结束后沿步行街返回。",
+        "question": "没读过小说也适合参观吗？",
+        "answer": "可以选一个反复出现的轮廓或道具，比较两件描绘同一人物的作品，不需要了解全部情节。",
+        "operator": "瓜纳华托州政府",
+        "hours": "周二–周六 09:30–19:00, 周日 12:00–19:00"
+      }
+    }
+  },
+  "casa-de-las-leyendas": {
+    "name": "Museo Casa de las Leyendas de Guanajuato",
+    "address": "Cda. de la Cruz 117 y Km. 7 de la Carr. Panorámica tramo Presa Escuela Normal, Col. Cerro de los Leones, CP 36090, Guanajuato, México",
+    "map": "https://www.google.com/maps?q=21.007201060647000,-101.246502846530000",
+    "photo": "/places/casa-de-las-leyendas.webp",
+    "source": "https://sic.cultura.gob.mx/ficha.php?table=museo&table_id=228",
+    "year": 2026,
+    "fee": 50,
+    "copy": {
+      "en": {
+        "title": "House of Guanajuato Legends",
+        "body": "Mechanical figures and stage effects turn local stories into miniature scenes. The mine and cemetery displays show how the city's occupations and beliefs entered its oral tradition. Compare the recreated Callejón del Beso with the very small historic alley downtown.",
+        "route": "Begin at the marked entrance on Cerrada de la Cruz 117 on Cerro de los Leones. Follow the rooms from one reconstructed setting to the next and use the same entrance for your return pickup. The Panorámica approach has road traffic.",
+        "question": "Are the scenes historic remains?",
+        "answer": "They are theatrical reconstructions. Look for movement, scenery and sound to see how each legend is staged.",
+        "operator": "Independent museum administration",
+        "hours": "Mon–Sun 10:00–18:00"
+      },
+      "es": {
+        "title": "Casa de las Leyendas de Guanajuato",
+        "body": "Figuras articuladas y efectos escénicos convierten relatos locales en pequeñas escenas. La mina y el panteón muestran cómo los oficios y las creencias entraron en la tradición oral. Compara el Callejón del Beso recreado con el angosto pasaje real del centro.",
+        "route": "Empieza en el acceso señalado de Cerrada de la Cruz 117, en Cerro de los Leones. Recorre las salas de un escenario al siguiente y regresa al mismo punto para el traslado. La Panorámica tiene tráfico.",
+        "question": "¿Son vestigios históricos las escenas?",
+        "answer": "Son recreaciones teatrales. Observa el movimiento, la escenografía y el sonido que dan forma a cada leyenda.",
+        "operator": "Administración privada del museo",
+        "hours": "lun–dom 10:00–18:00"
+      },
+      "zh": {
+        "title": "瓜纳华托传说之家",
+        "body": "活动人偶与舞台效果把地方传说变成小型场景。矿井和墓园布景展示城里的职业与信仰如何进入口述故事。参观接吻巷布景时，可以回想市中心真实小巷的尺度。",
+        "route": "从狮子山街区十字巷117号有标识的入口开始，逐室穿过各个故事场景，结束后回原入口乘车。附近全景公路有车辆通行。",
+        "question": "布景是历史遗址吗？",
+        "answer": "展览使用舞台复原，适合观察机械动作、声音与背景如何共同讲述传说。",
+        "operator": "私人博物馆管理方",
+        "hours": "周一–周日 10:00–18:00"
+      }
+    }
+  },
+  "museo-del-pueblo": {
+    "name": "Museo del Pueblo de Guanajuato",
+    "address": "Positos 7, Zona Centro, CP 36000, Guanajuato, México",
+    "map": "https://www.google.com/maps?q=21.017201031343000,-101.253832505790000",
+    "photo": "/places/museo-del-pueblo.webp",
+    "source": "https://sic.cultura.gob.mx/ficha.php?table=museo&table_id=630",
+    "year": 2026,
+    "fee": 25,
+    "copy": {
+      "en": {
+        "title": "Museum of the People of Guanajuato",
+        "body": "A seventeenth-century house once associated with the mining nobility became a museum in 1979. Olga Costa and José Chávez Morado helped shape the display. Small toys in the Teresa Pomar collection reward a close look at how corn husks, bone and clay can suggest similar forms.",
+        "route": "Start near the university steps and turn into Positos. At number 7, compare the scale of the miniature crafts with the painted portraits, then follow the same street to the Diego Rivera house at 47.",
+        "question": "What should I look for in a small object?",
+        "answer": "Pick out the join between two materials and see how a maker fashioned an arm, wheel or face with very little room.",
+        "operator": "Guanajuato State Secretariat of Culture",
+        "hours": "Tue–Sat 10:00–19:00, Sun 10:00–15:00"
+      },
+      "es": {
+        "title": "Museo del Pueblo de Guanajuato",
+        "body": "Una casa del siglo XVII vinculada a la nobleza minera se convirtió en museo en 1979. Olga Costa y José Chávez Morado participaron en su concepción. Los pequeños juguetes de la colección Teresa Pomar invitan a comparar cómo hoja de maíz, hueso y barro resuelven formas parecidas.",
+        "route": "Desde las escalinatas universitarias entra en Positos. En el número 7 compara la escala de las miniaturas con los retratos y luego sigue por la misma calle hasta la casa de Diego Rivera en el 47.",
+        "question": "¿En qué me fijo al mirar una miniatura?",
+        "answer": "Busca la unión entre dos materiales y observa cómo el artesano resolvió un brazo, una rueda o un rostro en tan poco espacio.",
+        "operator": "Secretaría de Cultura de Guanajuato",
+        "hours": "mar–sáb 10:00–19:00, dom 10:00–15:00"
+      },
+      "zh": {
+        "title": "瓜纳华托人民博物馆",
+        "body": "一座与矿业贵族有关的十七世纪宅邸于1979年改作博物馆。奥尔加·科斯塔与何塞·查韦斯·莫拉多参与展陈设计。特雷莎·波马尔收藏的微型玩具，特别适合比较玉米叶、骨与陶土如何塑出相似形态。",
+        "route": "从大学阶梯转入波西托斯街，在7号比较微型工艺品与人物肖像的尺度，再沿同街走到47号参观里维拉故居。",
+        "question": "微型玩具要怎么看？",
+        "answer": "寻找两种材料相接的位置，留意工匠如何在很小的空间里制作手臂、车轮或面孔。",
+        "operator": "瓜纳华托州文化厅",
+        "hours": "周二–周六 10:00–19:00, 周日 10:00–15:00"
+      }
+    }
+  },
+  "museo-de-las-momias": {
+    "name": "Museo de las Momias de Guanajuato",
+    "address": "Explanada del Panteón Municipal s/n, Centro, CP 36000, Guanajuato, México",
+    "map": "https://www.google.com/maps?q=21.019899186356000,-101.266200702180000",
+    "photo": "/places/museo-de-las-momias.webp",
+    "source": "https://sic.cultura.gob.mx/ficha.php?table=museo&table_id=571",
+    "year": 2025,
+    "fee": 150,
+    "copy": {
+      "en": {
+        "title": "Guanajuato Mummies Museum",
+        "body": "The museum beside Santa Paula cemetery brings together naturally mummified bodies recovered from its burials. The 1865 exhumation of the physician Remigio Leroy is a landmark in the collection's history. The labels provide a more respectful introduction than the legends that circulate about the dead.",
+        "route": "Begin on the esplanade of the municipal cemetery. Follow signs to the museum ticket office, read the introduction before entering the display rooms and return to the esplanade. The burial ground has a separate function and entrance.",
+        "question": "Is this suitable for a sensitive visitor?",
+        "answer": "Real human remains are visible. Decide before entering the galleries and check with staff about an early exit.",
+        "operator": "Guanajuato municipal government",
+        "hours": "Mon–Sun 09:00–18:00"
+      },
+      "es": {
+        "title": "Museo de las Momias de Guanajuato",
+        "body": "Junto al panteón de Santa Paula, el museo reúne cuerpos momificados de forma natural que proceden de sus sepulturas. La exhumación del médico Remigio Leroy en 1865 marca un hito de la colección. Las cédulas ayudan a conocer estas vidas con más respeto que las leyendas sobre los difuntos.",
+        "route": "Comienza en la explanada del Panteón Municipal. Sigue los letreros hacia la taquilla, lee la introducción antes de recorrer las salas y regresa a la explanada. El cementerio tiene función y acceso propios.",
+        "question": "¿Conviene la visita a una persona sensible?",
+        "answer": "Se exhiben restos humanos reales. Decide antes de entrar a las salas y consulta al personal sobre la salida anticipada.",
+        "operator": "Ayuntamiento de Guanajuato",
+        "hours": "lun–dom 09:00–18:00"
+      },
+      "zh": {
+        "title": "瓜纳华托木乃伊博物馆",
+        "body": "圣保拉墓园旁的馆舍展示从当地墓葬中发现的自然木乃伊。1865年出土的医生雷米希奥·勒鲁瓦是馆藏历史的重要节点。以说明牌了解逝者与墓园的关系，比从坊间传说入手更能尊重当事人。",
+        "route": "从市立墓园前广场循标志找到博物馆售票处，先读导览说明，再进入陈列室，结束后返回前广场。墓园另有入口与日常用途。",
+        "question": "怕看人体遗骸的人适合进去吗？",
+        "answer": "展览确实陈列真实遗骸。入场前先做决定，也可向工作人员询问提前离场的路线。",
+        "operator": "瓜纳华托市政府",
+        "hours": "周一–周日 09:00–18:00"
+      }
+    }
+  },
+  "san-gabriel-de-barrera": {
+    "name": "Casa Museo Ex-Hacienda San Gabriel de Barrera",
+    "address": "Carr. Guanajuato-Marfil Km 2.5, Centro, CP 36050",
+    "map": "https://www.google.com/maps?q=21.009344970952000,-101.273407433410000",
+    "photo": "/places/san-gabriel-de-barrera.webp",
+    "source": "https://sic.cultura.gob.mx/ficha.php?table=museo&table_id=243",
+    "year": 2025,
+    "fee": 65,
+    "copy": {
+      "en": {
+        "title": "San Gabriel de Barrera Hacienda Museum",
+        "body": "This former ore-processing estate makes the city's silver economy tangible outside the mines themselves. The state acquired the property in 1975 and opened the museum in 1979. Look for the change from working grounds to domestic rooms and from house to planted gardens.",
+        "route": "Arrange transport to the museum gate at kilometre 2.5 on the Marfil road. Walk from reception through the house, continue into the garden paths and retrace the signed route to the gate. Use the road as a vehicle approach.",
+        "question": "Why visit if I have already toured a mine?",
+        "answer": "The estate represents a different stage of silver production and shows domestic and garden spaces alongside the industrial history.",
+        "operator": "Government of Guanajuato State",
+        "hours": "Mon–Sun 09:00–18:00"
+      },
+      "es": {
+        "title": "Museo Ex Hacienda San Gabriel de Barrera",
+        "body": "Esta antigua hacienda de beneficio muestra la economía de la plata fuera de las minas. El estado adquirió la propiedad en 1975 y abrió el museo en 1979. Observa la transición entre los terrenos de trabajo, las habitaciones domésticas y los jardines cultivados.",
+        "route": "Llega en transporte a la puerta del kilómetro 2.5 de la carretera a Marfil. Camina desde recepción por la casa y los senderos del jardín, y vuelve al acceso por la ruta señalada. Reserva la carretera para el traslado en vehículo.",
+        "question": "¿Qué aporta después de una visita a una mina?",
+        "answer": "La hacienda representa otra etapa de la producción de plata y reúne ámbitos domésticos y jardines ligados a esa historia industrial.",
+        "operator": "Gobierno del Estado de Guanajuato",
+        "hours": "lun–dom 09:00–18:00"
+      },
+      "zh": {
+        "title": "圣加夫列尔·德巴雷拉庄园博物馆",
+        "body": "这座昔日的矿石加工庄园让人看到矿井之外的白银经济。州政府于1975年购入庄园，1979年开放博物馆。观察生产用地怎样过渡到生活房间，又如何连接精心栽植的花园。",
+        "route": "乘车至通往马尔菲尔的公路2.5公里处馆门。步行从接待区穿过宅邸，沿花园小径游览，再循指示回到大门。公路段适合乘车。",
+        "question": "参观过矿井还有必要来吗？",
+        "answer": "矿井讲开采，庄园呈现后续加工，也能看到矿业家庭的生活空间与花园。",
+        "operator": "瓜纳华托州政府",
+        "hours": "周一–周日 09:00–18:00"
+      }
+    }
+  },
+  "mineralogia-villasenor": {
+    "name": "Museo de Mineralogía Eduardo Villaseñor Söhle",
+    "address": "Ex-Hacienda de San Matías s/n, Col. San Javier, CP 36025, Guanajuato, México",
+    "map": "https://www.google.com/maps?q=21.026936709968000,-101.261178374330000",
+    "photo": "/places/mineralogia-villasenor.webp",
+    "source": "https://sic.cultura.gob.mx/ficha.php?table=museo&table_id=231",
+    "year": 2024,
+    "fee": null,
+    "copy": {
+      "en": {
+        "title": "Eduardo Villaseñor Söhle Mineralogy Museum",
+        "body": "The university's mineral collection began taking shape in 1798 as mining instruction developed. Samples assembled by engineer Ponciano Aguilar later joined it. Start with crystal shape and surface lustre, then read locality labels to distinguish specimens that look alike but came from different deposits.",
+        "route": "Go to the university's mining faculty at the former San Matías hacienda in San Javier. Walk from the campus entrance to the museum reception, compare specimens side by side, then return to the same gate for transport.",
+        "question": "Is it an underground tour?",
+        "answer": "This is a teaching collection in the faculty building. The specimens can be examined without descending into a mine.",
+        "operator": "Mining faculty, University of Guanajuato",
+        "hours": "Tue–Fri 10:15–17:45, Sat 10:15–15:45, Sun 10:00–13:45"
+      },
+      "es": {
+        "title": "Museo de Mineralogía Eduardo Villaseñor Söhle",
+        "body": "La colección universitaria empezó a formarse en 1798 junto con la enseñanza de la minería. Más tarde incorporó ejemplares reunidos por el ingeniero Ponciano Aguilar. Observa primero el hábito cristalino y el brillo y luego lee la procedencia para distinguir muestras parecidas de yacimientos diferentes.",
+        "route": "Llega a la facultad minera en la antigua hacienda de San Matías, en San Javier. Desde la entrada del campus camina a la recepción del museo, compara ejemplares vecinos y regresa al mismo acceso para el traslado.",
+        "question": "¿Se baja a una mina?",
+        "answer": "Es una colección docente en la facultad. Los minerales se pueden estudiar sin recorrido subterráneo.",
+        "operator": "Facultad de Minas, Universidad de Guanajuato",
+        "hours": "mar–vie 10:15–17:45, sáb 10:15–15:45, dom 10:00–13:45"
+      },
+      "zh": {
+        "title": "比利亚塞尼奥尔·索勒矿物博物馆",
+        "body": "大学矿物收藏随矿业教学发展，自1798年起逐渐形成，后来纳入工程师庞西亚诺·阿吉拉尔的标本。先比较晶体形状与光泽，再读产地标签，就能辨出外观相似的标本可能来自不同矿床。",
+        "route": "前往圣哈维尔区旧圣马蒂亚斯庄园的大学矿业学院，从校园入口步行至博物馆接待处。选择相邻矿物作比较，离开时回同一校门接车。",
+        "question": "参观需要下矿井吗？",
+        "answer": "标本陈列在学院建筑内，是供教学观察的收藏，全程无需进入地下矿道。",
+        "operator": "瓜纳华托大学矿业学院",
+        "hours": "周二–周五 10:15–17:45, 周六 10:15–15:45, 周日 10:00–13:45"
+      }
+    }
+  },
+  "historia-natural-alfredo-duges": {
+    "name": "Museo de Historia Natural Alfredo Dugés",
+    "address": "Lascurain de Retana 5, Centro, CP 36000, Guanajuato, México",
+    "map": "https://www.google.com/maps?q=21.017344170314000,-101.253325939180000",
+    "photo": "/places/historia-natural-alfredo-duges.webp",
+    "source": "https://sic.cultura.gob.mx/ficha.php?table=museo&table_id=259",
+    "year": 2024,
+    "fee": 0,
+    "copy": {
+      "en": {
+        "title": "Alfredo Dugés Natural History Museum",
+        "body": "The former university printing rooms now hold a natural-history collection. Its cabinet-style display shows how scientists once grouped specimens, while later galleries approach the same material through habitats, evolution and extinction. Compare the arrangement of a skeleton with the living outline it once supported.",
+        "route": "From the foot of the main university steps locate the ground-floor museum entrance at Lascuráin de Retana 5. Start in the historic cabinet, move to marine life and finish with Guanajuato's own fauna before returning to the street.",
+        "question": "Should I climb the great staircase first?",
+        "answer": "The galleries occupy the ground floor. Ask for the museum entrance before taking the stairs toward the upper university rooms.",
+        "operator": "University of Guanajuato",
+        "hours": "Tue–Fri 10:00–18:00"
+      },
+      "es": {
+        "title": "Museo de Historia Natural Alfredo Dugés",
+        "body": "La antigua imprenta universitaria da cabida hoy a una colección de historia natural. El gabinete recuerda cómo se ordenaban los ejemplares; otras salas los relacionan con hábitats, evolución y extinción. Compara la disposición de un esqueleto con la silueta del animal que sostenía.",
+        "route": "Desde el pie de la escalinata universitaria busca la entrada de planta baja en Lascuráin de Retana 5. Empieza en el gabinete, pasa por la vida marina y termina con la fauna guanajuatense antes de volver a la calle.",
+        "question": "¿Debo subir primero toda la escalinata?",
+        "answer": "Las salas ocupan la planta baja. Pregunta por el acceso al museo antes de subir hacia las dependencias universitarias.",
+        "operator": "Universidad de Guanajuato",
+        "hours": "mar–vie 10:00–18:00"
+      },
+      "zh": {
+        "title": "阿尔弗雷多·迪热自然史博物馆",
+        "body": "大学昔日的印刷室如今安放自然史收藏。旧式标本柜呈现早期科学家分类的方式，后续展厅则从栖息地、演化与灭绝重新组织材料。比较骨架结构与动物生前轮廓，会比只看标本名称收获更多。",
+        "route": "从大学大阶梯脚下寻找拉斯库拉因·德雷塔纳街5号的底层入口。先看历史标本柜，再看海洋展厅，最后以瓜纳华托本地动物展结束并返回街面。",
+        "question": "需要先爬完整座大阶梯吗？",
+        "answer": "展厅位于底层。向校方询问博物馆入口后再决定是否登阶参观大学其他空间。",
+        "operator": "瓜纳华托大学",
+        "hours": "周二–周五 10:00–18:00"
+      }
+    }
+  },
+  "casa-olga-costa-chavez-morado": {
+    "name": "Museo Casa de Arte Olga Costa-José Chávez Morado",
+    "address": "Pastita 158 Torre del Arco, Pastita, CP 36090, Guanajuato, México",
+    "map": "https://www.google.com/maps?q=21.010446120054000,-101.240889038890000",
+    "photo": "/places/casa-olga-costa-chavez-morado.webp",
+    "source": "https://sic.cultura.gob.mx/ficha.php?table=museo&table_id=629",
+    "year": 2025,
+    "fee": 25,
+    "copy": {
+      "en": {
+        "title": "Olga Costa and José Chávez Morado House Museum",
+        "body": "A tower once drew stream water for the Hacienda de Guadalupe's silver works. In 1966 the artists Olga Costa and José Chávez Morado bought the property, adapted the tower and made a home and studio here. The industrial fabric and garden explain the plan of a house that grew around a waterwheel.",
+        "route": "From Calle Pastita follow the numbers to 158 and look for Torre del Arco. Walk from the former waterworks into the domestic spaces, then return to the garden to see how the rooms relate to the tower.",
+        "question": "Did the artists simply exhibit here?",
+        "answer": "They lived and worked on the property for more than thirty years. Their donation of the house and collections preceded its opening as a museum in 1993.",
+        "operator": "Guanajuato State Secretariat of Culture",
+        "hours": "Thu–Sat 09:30–17:00, Sun 09:30–16:00"
+      },
+      "es": {
+        "title": "Casa de Arte Olga Costa–José Chávez Morado",
+        "body": "Una torre de noria captaba agua del arroyo para el beneficio de la plata en la Hacienda de Guadalupe. En 1966 Olga Costa y José Chávez Morado compraron el predio, adaptaron la torre e instalaron su casa y estudio. La antigua estructura industrial y el jardín explican la singular planta de la vivienda.",
+        "route": "Sigue la calle Pastita hasta el 158 y busca la Torre del Arco. Recorre la antigua instalación hidráulica y los espacios domésticos, y vuelve al jardín para entender su relación con la torre.",
+        "question": "¿Los artistas solo exponían aquí?",
+        "answer": "Vivieron y trabajaron aquí más de treinta años. Donaron la casa y sus colecciones antes de la apertura del museo en 1993.",
+        "operator": "Secretaría de Cultura de Guanajuato",
+        "hours": "jue–sáb 09:30–17:00, dom 09:30–16:00"
+      },
+      "zh": {
+        "title": "科斯塔与查韦斯·莫拉多艺术故居",
+        "body": "这座水车塔原本从溪中取水，为加工银矿的瓜达卢佩庄园服务。1966年，两位艺术家买下地块，改建塔楼为住宅与画室。水力设施和花园共同决定了宅邸特殊的空间布局。",
+        "route": "沿帕斯蒂塔街走到158号寻找拱塔。从旧水力设施走入生活空间，再回到花园看各个房间与塔楼的位置关系。",
+        "question": "两位艺术家只在这里办过展览吗？",
+        "answer": "他们在此生活与创作三十余年，并捐出住宅和收藏。博物馆于1993年开放。",
+        "operator": "瓜纳华托州文化厅",
+        "hours": "周四–周六 09:30–17:00, 周日 09:30–16:00"
+      }
+    }
+  },
+  "casa-de-tia-aura": {
+    "name": "Museo Casa de Tía Aura",
+    "address": "Paseo de la Presa 62, Centro, CP 36090, Guanajuato, México",
+    "map": "https://www.google.com/maps?q=21.004625827090000,-101.247290968790000",
+    "photo": "/places/casa-de-tia-aura.webp",
+    "source": "https://sic.cultura.gob.mx/ficha.php?table=museo&table_id=1418",
+    "year": 2025,
+    "fee": 50,
+    "copy": {
+      "en": {
+        "title": "House of Tía Aura",
+        "body": "In the Presa neighbourhood an old house provides the setting for a guided performance of a local ghost story. The narrative places Aura's arrival from Cádiz in the nineteenth century. Treat that detail as part of the legend. Multiple rooms and changes of floor turn the house itself into part of the performance.",
+        "route": "Start at number 62 on Paseo de la Presa. Join the guided entry and follow the rooms in the order given by the host. After returning to the street, stay on Paseo de la Presa for the walk toward the reservoir.",
+        "question": "Can younger children skip the frightening effects?",
+        "answer": "Ask the house staff to describe the tour before buying a ticket. The visit is staged as a haunted-house experience on two levels.",
+        "operator": "Casa de Tía Aura visitor office",
+        "hours": "Mon–Sun 11:00–18:00"
+      },
+      "es": {
+        "title": "Casa de Tía Aura",
+        "body": "En el barrio de la Presa, una casona sirve de escenario para un relato guiado de aparecidos. La narración sitúa en el siglo XIX la llegada de Aura desde Cádiz; ese detalle pertenece a la leyenda. Los cambios de habitación y de planta convierten la casa en parte del espectáculo.",
+        "route": "Empieza en Paseo de la Presa 62. Incorpórate al recorrido guiado y sigue las salas en el orden indicado. Al salir, continúa por el mismo paseo en dirección a la presa.",
+        "question": "¿Se pueden evitar los sustos con niños pequeños?",
+        "answer": "Antes de comprar el boleto pide al personal una descripción. La experiencia está concebida como casa de espantos en dos plantas.",
+        "operator": "Atención a visitantes de Casa de Tía Aura",
+        "hours": "lun–dom 11:00–18:00"
+      },
+      "zh": {
+        "title": "奥拉姑妈之家",
+        "body": "水库街区的一座旧宅成为地方鬼故事的导览舞台。讲述中提到奥拉在十九世纪从加的斯来到此地，这属于传说情节。房间转换和楼层变化也是表演手法，房屋本身就是叙事的一部分。",
+        "route": "从水库大道62号参加导览，依讲解员安排逐室前进。回到街上后，可沿同一条大道朝水库方向散步。",
+        "question": "带幼童可以避开惊吓效果吗？",
+        "answer": "购票前先向接待员了解内容。这里按两层鬼屋体验设计，应根据孩子的接受度决定是否参加。",
+        "operator": "奥拉姑妈之家游客接待处",
+        "hours": "周一–周日 11:00–18:00"
+      }
+    }
+  },
+  "museo-conde-rul": {
+    "name": "Museo Conde Rul",
+    "address": "Plaza de la Paz 75, Centro, CP 36000, Guanajuato, México",
+    "map": "https://www.google.com/maps?q=21.017196537329000,-101.254327343950000",
+    "photo": "/places/museo-conde-rul.webp",
+    "source": "https://sic.cultura.gob.mx/ficha.php?table=museo&table_id=2010",
+    "year": 2026,
+    "fee": 25,
+    "copy": {
+      "en": {
+        "title": "Conde Rul Museum",
+        "body": "The former residence of the counts of Rul and Valenciana shows how mining wealth transformed the centre around 1800. Its restrained neoclassical composition is attributed to Francisco Eduardo Tresguerras. Stand across the square to read the facade as a whole before crossing to see the stonework close up.",
+        "route": "Start at the basilica on Plaza de la Paz and follow the square to number 75. Compare the proportions from the opposite pavement, then enter for the current exhibition. The adjoining Palacio de los Poderes has separate galleries.",
+        "question": "Am I visiting furnished period rooms?",
+        "answer": "The former mansion opened as an exhibition museum in 2018. Look at the building and check the current programme for the art on display.",
+        "operator": "Guanajuato State Secretariat of Culture",
+        "hours": "Tue–Sat 10:00–18:30, Sun 10:00–14:30"
+      },
+      "es": {
+        "title": "Museo Conde Rul",
+        "body": "La residencia de los condes de Rul y Valenciana muestra cómo la riqueza minera cambió el centro hacia 1800. Su composición neoclásica, de líneas sobrias, se atribuye a Francisco Eduardo Tresguerras. Mira desde el otro lado de la plaza antes de cruzar para apreciar la talla de cerca.",
+        "route": "Desde la basílica recorre la Plaza de la Paz hasta el número 75. Compara las proporciones desde la acera opuesta y entra a la muestra del momento. El cercano Palacio de los Poderes tiene salas propias.",
+        "question": "¿Se visitan habitaciones amuebladas de época?",
+        "answer": "La casona abrió como museo de exposiciones en 2018. Observa la arquitectura y consulta la cartelera para saber qué obras se exhiben.",
+        "operator": "Secretaría de Cultura de Guanajuato",
+        "hours": "mar–sáb 10:00–18:30, dom 10:00–14:30"
+      },
+      "zh": {
+        "title": "鲁尔伯爵博物馆",
+        "body": "鲁尔与瓦伦西亚纳伯爵家族的旧居，显示约1800年前后矿业财富怎样改变市中心街景。克制的新古典主义立面通常归于建筑师特雷斯格拉斯。先从广场对侧看整体比例，再近看石材与雕工。",
+        "route": "从和平广场圣殿沿广场走到75号，在对侧人行道观察立面，再入馆参观当期展览。附近的权力宫博物馆有独立展厅。",
+        "question": "里面是原样布置的伯爵卧室吗？",
+        "answer": "宅邸于2018年作为展览博物馆开放。可把建筑本身列为看点，具体展品参照当期展讯。",
+        "operator": "瓜纳华托州文化厅",
+        "hours": "周二–周六 10:00–18:30, 周日 10:00–14:30"
+      }
+    }
+  },
+  "palacio-de-los-poderes": {
+    "name": "Museo  Palacio de los Poderes",
+    "address": "Av. Benito Juárez 75, Centro, CP 36000, Guanajuato, México",
+    "map": "https://www.google.com/maps?q=21.017214548774000,-101.254642987620000",
+    "photo": "/places/palacio-de-los-poderes.webp",
+    "source": "https://sic.cultura.gob.mx/ficha.php?table=museo&table_id=2118",
+    "year": 2026,
+    "fee": 25,
+    "copy": {
+      "en": {
+        "title": "Palace of the Powers Museum",
+        "body": "This site held the eighteenth-century palace of the marquess of San Clemente. The earlier building came down in 1897 and Cecilio Luis Long directed work on a new seat for state institutions. Read the facade as a statement of public authority, then compare its scale with the nearby aristocratic homes.",
+        "route": "From Plaza de la Paz follow Avenida Benito Juárez to number 75. Identify the museum sign before entering, visit the former government spaces and walk back toward the square for the Conde Rul facade.",
+        "question": "Does the state legislature still meet in these galleries?",
+        "answer": "The old seat now houses a museum. The current congress building and its legislative-history museum are in Marfil.",
+        "operator": "Guanajuato State Secretariat of Culture",
+        "hours": "Tue–Sat 10:00–19:00, Sun 09:00–16:00"
+      },
+      "es": {
+        "title": "Museo Palacio de los Poderes",
+        "body": "Aquí estuvo el palacio dieciochesco del marqués de San Clemente. El edificio anterior se demolió en 1897 y Cecilio Luis Long dirigió las obras de la nueva sede de los poderes estatales. Lee la fachada como imagen de autoridad pública y compara su escala con las residencias nobiliarias vecinas.",
+        "route": "Desde Plaza de la Paz toma la avenida Benito Juárez hasta el 75. Identifica el letrero del museo, recorre los antiguos ámbitos de gobierno y vuelve hacia la plaza para comparar la fachada del Conde Rul.",
+        "question": "¿Sesiona todavía el Congreso en estas salas?",
+        "answer": "La antigua sede funciona como museo. El Congreso actual y su museo de cultura legislativa están en Marfil.",
+        "operator": "Secretaría de Cultura de Guanajuato",
+        "hours": "mar–sáb 10:00–19:00, dom 09:00–16:00"
+      },
+      "zh": {
+        "title": "权力宫博物馆",
+        "body": "这里曾是十八世纪圣克莱门特侯爵府。旧建筑于1897年拆除，随后由塞西利奥·路易斯·朗主持建设州权力机构的新驻地。从街对面看立面的庄重尺度，再与附近贵族住宅比较，会发现政务建筑如何表达公共权威。",
+        "route": "从和平广场沿贝尼托·华雷斯大道走到75号，认准馆牌后参观旧政务空间，返回广场途中可对比鲁尔伯爵宅邸的立面。",
+        "question": "州议会现在还在这些展厅里开会吗？",
+        "answer": "旧址已改设博物馆。现议会以及另一处立法文化博物馆都在马尔菲尔。",
+        "operator": "瓜纳华托州文化厅",
+        "hours": "周二–周六 10:00–19:00, 周日 09:00–16:00"
+      }
+    }
+  },
+  "museo-cultura-legislativa": {
+    "name": "Museo de la Cultura Legislativa",
+    "address": "Paseo del Congreso 60, Col. Marfil, CP 36250, Guanajuato, México",
+    "map": "https://www.google.com/maps?q=20.997050216951000,-101.278906202720000",
+    "photo": "/places/museo-cultura-legislativa.webp",
+    "source": "https://sic.cultura.gob.mx/ficha.php?table=museo&table_id=2023",
+    "year": 2023,
+    "fee": null,
+    "copy": {
+      "en": {
+        "title": "Legislative Culture Museum",
+        "body": "Inside the present state congress, a documentary collection follows the development of Guanajuato's legislature. The permanent exhibition spans 1822 to 1917. A replica of the canopy from the old chamber puts the documents in context by showing how authority was staged in the assembly room.",
+        "route": "Go to Paseo del Congreso 60 in Marfil and approach the public reception on foot. Ask for museum admission before proceeding through the working complex. Compare the canopy with the historical documents and return via reception.",
+        "question": "Is this the former congress palace downtown?",
+        "answer": "This collection is inside the current congress building in Marfil. The old chamber belonged to the downtown government complex.",
+        "operator": "Congress of Guanajuato State",
+        "hours": "Mon–Fri 09:00–17:00"
+      },
+      "es": {
+        "title": "Museo de la Cultura Legislativa",
+        "body": "Dentro del Congreso estatal actual, la colección documental sigue la formación del poder legislativo guanajuatense. La exposición permanente recorre de 1822 a 1917. Una réplica del dosel del antiguo salón de plenos permite relacionar los documentos con la puesta en escena de la autoridad en la cámara.",
+        "route": "Llega a Paseo del Congreso 60, en Marfil, y camina hasta recepción. Pregunta por el ingreso al museo antes de avanzar por el complejo en funcionamiento. Compara el dosel con los documentos y vuelve por recepción.",
+        "question": "¿Es el antiguo palacio legislativo del centro?",
+        "answer": "Esta colección está en el Congreso actual de Marfil. La antigua cámara formaba parte del conjunto de gobierno del centro histórico.",
+        "operator": "Congreso del Estado de Guanajuato",
+        "hours": "lun–vie 09:00–17:00"
+      },
+      "zh": {
+        "title": "立法文化博物馆",
+        "body": "博物馆位于现州议会内部，以文献展示瓜纳华托立法机构的发展。常设展梳理1822至1917年，旧议事厅华盖的复制品则让人理解，文件背后的政治权威如何通过议场布置表现出来。",
+        "route": "到马尔菲尔议会大道60号，从公共接待处步行入内。这里仍是办公建筑，先询问博物馆通行安排，再比较华盖与历史文献，结束后循接待处离开。",
+        "question": "这就是市中心的旧议会宫吗？",
+        "answer": "本馆在马尔菲尔现议会大楼里，旧议事厅则属于历史中心的旧政务建筑群。",
+        "operator": "瓜纳华托州议会",
+        "hours": "周一–周五 09:00–17:00"
+      }
+    }
+  },
+  "casa-gene-byron": {
+    "name": "Casa Museo Gene Byron",
+    "address": "Ex Hacienda de Santa Ana, Real de Marfil s/n, Col. Marfil, CP 36251, Guanajuato, México",
+    "map": "https://www.google.com/maps?q=21.002655518241000,-101.283658621830000",
+    "photo": "/places/casa-gene-byron.webp",
+    "source": "https://sic.cultura.gob.mx/ficha.php?table=museo&table_id=1054",
+    "year": 2025,
+    "fee": 30,
+    "copy": {
+      "en": {
+        "title": "Gene Byron House Museum",
+        "body": "An eighteenth-century ore-processing estate in Marfil became the home of artist Gene Byron and her husband Virgilio after restoration in the late 1950s. Paintings share domestic space with her lamps, furniture and crafted objects. Look at how a lamp changes the surfaces around it as well as at its design.",
+        "route": "Start at the entrance to the former Santa Ana hacienda in Real de Marfil. Walk from the domestic rooms to the garden and back to the reception area. Arrange the return journey in Marfil rather than setting off along the main road.",
+        "question": "Is the attraction mainly a painting gallery?",
+        "answer": "Household furnishings and lamps are central to the experience. Their placement gives a sense of the couple's daily life.",
+        "operator": "Arte, A.C. (Monterrey)",
+        "hours": "Tue–Sat 09:00–16:00"
+      },
+      "es": {
+        "title": "Casa Museo Gene Byron",
+        "body": "Una hacienda de beneficio del siglo XVIII en Marfil se convirtió en hogar de Gene Byron y su esposo Virgilio tras la restauración de finales de los cincuenta. Las pinturas comparten espacio doméstico con lámparas, muebles y piezas de diseño. Fíjate en cómo una lámpara transforma lo que la rodea.",
+        "route": "Comienza en el acceso de la antigua hacienda de Santa Ana en Real de Marfil. Recorre las habitaciones, pasa al jardín y vuelve a recepción. Organiza el regreso en Marfil para evitar caminar por la carretera principal.",
+        "question": "¿Predomina una galería de pintura?",
+        "answer": "Los muebles y las lámparas tienen un papel esencial. Su disposición permite imaginar la vida cotidiana de la pareja.",
+        "operator": "Arte, A.C. (Monterrey)",
+        "hours": "mar–sáb 09:00–16:00"
+      },
+      "zh": {
+        "title": "吉恩·拜伦故居博物馆",
+        "body": "马尔菲尔一座十八世纪矿石加工庄园在二十世纪五十年代末修复后，成为艺术家吉恩·拜伦与丈夫维尔希利奥的家。绘画、灯具与家具在生活空间中相互呼应；观察灯光落在哪些表面，也是在理解她的设计。",
+        "route": "从马尔菲尔旧圣安娜庄园入口出发，穿过居室到花园，再回接待区。返程可在马尔菲尔安排接车，避免沿主干公路长距离步行。",
+        "question": "这里主要是看画吗？",
+        "answer": "家具和灯具同样是核心展品。它们在房间里的位置让人看见夫妻二人的生活方式。",
+        "operator": "蒙特雷 Arte, A.C. 艺术协会",
+        "hours": "周二–周六 09:00–16:00"
+      }
+    }
+  },
+  "teatro-principal": {
+    "name": "Teatro Principal",
+    "address": "Hidalgo s/n esq. Cantarranas, Centro, CP 36000, Guanajuato, Guanajuato",
+    "map": "https://www.google.com/maps?q=21.015996099089000,-101.251879034100000",
+    "photo": "/places/teatro-principal.webp",
+    "source": "https://sic.cultura.gob.mx/ficha.php?table=teatro&table_id=392",
+    "year": 2024,
+    "fee": null,
+    "copy": {
+      "en": {
+        "title": "Teatro Principal",
+        "body": "A comedy theatre opened on this site in 1788. After later use as a cinema, a fire destroyed the building in 1921. The rebuilt theatre opened in 1955 and is run by the university. Its story is easier to read as several lives on one site than as a surviving colonial auditorium.",
+        "route": "From the university museum on Hidalgo follow the street to the corner of Cantarranas. Check the programme at Teatro Principal before entering the auditorium for a performance, then return along Hidalgo to the museum quarter.",
+        "question": "Is this Teatro Juárez?",
+        "answer": "Teatro Principal is the university venue on Cantarranas. The theatre with the monumental columns stands at Jardín de la Unión.",
+        "operator": "University of Guanajuato",
+        "hours": ""
+      },
+      "es": {
+        "title": "Teatro Principal",
+        "body": "Un corral de comedias abrió aquí en 1788. Tras funcionar más tarde como cine, el inmueble fue destruido por un incendio en 1921. Reconstruido, abrió en 1955 y lo administra la universidad. Conviene leer el sitio como una sucesión de edificios y usos escénicos.",
+        "route": "Desde el museo universitario en Hidalgo sigue hasta la esquina de Cantarranas. Revisa la cartelera del Principal antes de entrar a una función y regresa por Hidalgo hacia la zona de museos.",
+        "question": "¿Es el Teatro Juárez?",
+        "answer": "El Principal es el recinto universitario de Cantarranas. El teatro de las grandes columnas está en el Jardín de la Unión.",
+        "operator": "Universidad de Guanajuato",
+        "hours": ""
+      },
+      "zh": {
+        "title": "瓜纳华托主剧院",
+        "body": "1788年这里开设喜剧剧场，后来改放电影，1921年的火灾摧毁了建筑。重建后的剧院于1955年开放，由大学管理。理解它的历史，最好沿着同一地点先后出现的建筑与用途来观察。",
+        "route": "从伊达尔戈街的大学博物馆沿街走到坎塔拉纳斯街角，在主剧院核对演出节目后按票入场。散场可沿伊达尔戈街返回博物馆街区。",
+        "question": "这里是华雷斯剧院吗？",
+        "answer": "主剧院是坎塔拉纳斯街上的大学剧场。联合花园旁有大柱廊的建筑才是华雷斯剧院。",
+        "operator": "瓜纳华托大学",
+        "hours": ""
+      }
+    }
+  },
+  "teatro-cervantes": {
+    "name": "Teatro Cervantes",
+    "address": "Plaza Allende s/n, Centro, CP 36000, Guanajuato, Guanajuato",
+    "map": "https://www.google.com/maps?q=21.013376939675000,-101.250372743910000",
+    "photo": "/places/teatro-cervantes.webp",
+    "source": "https://sic.cultura.gob.mx/ficha.php?table=teatro&table_id=14",
+    "year": 2025,
+    "fee": null,
+    "copy": {
+      "en": {
+        "title": "Teatro Cervantes",
+        "body": "Architect José Luis Martínez Cossío designed this theatre at Plaza Allende. It opened in 1979 with a piano recital by Guadalupe Parrondo. Its programming has included dance, film and theatre. Look at the approach across the plaza before entering, when the audience gathers in the open space.",
+        "route": "Walk along Manuel Doblado from the Don Quixote museum toward Plaza Allende. Cross the plaza to the theatre entrance, check the posted performance details and use the same square as the meeting point after the show.",
+        "question": "Can I visit the auditorium outside a performance?",
+        "answer": "Use the current box-office schedule to plan entry. The plaza provides a view of the exterior even when the auditorium is closed.",
+        "operator": "Guanajuato state cultural authorities",
+        "hours": ""
+      },
+      "es": {
+        "title": "Teatro Cervantes",
+        "body": "José Luis Martínez Cossío diseñó este teatro de Plaza Allende. Abrió en 1979 con un recital de piano de Guadalupe Parrondo y ha acogido danza, cine y teatro. Antes de entrar, observa cómo el público se reúne en el espacio abierto y se acerca al recinto desde la plaza.",
+        "route": "Desde el Museo Iconográfico del Quijote camina por Manuel Doblado hacia Plaza Allende. Cruza la plaza hasta el acceso, revisa los datos de la función y usa la misma plaza como punto de reunión a la salida.",
+        "question": "¿Puedo ver la sala sin asistir a una función?",
+        "answer": "Consulta el acceso en taquilla según la programación vigente. Desde la plaza se aprecia el exterior aunque la sala esté cerrada.",
+        "operator": "Autoridades culturales del estado de Guanajuato",
+        "hours": ""
+      },
+      "zh": {
+        "title": "塞万提斯剧院",
+        "body": "何塞·路易斯·马丁内斯·科西奥设计了阿连德广场上的这座剧院。1979年，钢琴家瓜达卢佩·帕龙多在开幕时演奏。此后这里承接舞蹈、电影与戏剧活动。演出前可以观察观众如何在广场集合并走向剧院。",
+        "route": "从堂吉诃德图像博物馆沿曼努埃尔·多夫拉多街朝阿连德广场步行，横过广场到剧院入口核对演出，散场后可在同一广场会合。",
+        "question": "非演出时段可以看观众厅吗？",
+        "answer": "应向售票处核对当期开放安排。即使观众厅关闭，仍能从广场欣赏剧院外观。",
+        "operator": "瓜纳华托州文化主管部门",
+        "hours": ""
+      }
+    }
+  }
+}
