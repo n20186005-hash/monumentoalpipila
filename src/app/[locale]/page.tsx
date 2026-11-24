@@ -19,7 +19,7 @@ import Gallery from '@/components/Gallery';
 import Reviews from '@/components/Reviews';
 import FaqSection from '@/components/FaqSection';
 import MapEmbed from '@/components/MapEmbed';
-import SourcesSection from '@/components/SourcesSection';
+import GuideDirectory from '@/components/GuideDirectory';
 import Footer from '@/components/Footer';
 import PwaInstaller from '@/components/PwaInstaller';
 
@@ -38,6 +38,7 @@ export default async function HomePage({
         <Hero />
         <Intro />
         <NearbyAttractions />
+        <GuideDirectory />
         <BasicInfo />
         <WeatherSection />
         <SeasonsSection />
@@ -54,7 +55,6 @@ export default async function HomePage({
         <Reviews />
         <FaqSection />
         <MapEmbed />
-        <SourcesSection />
       </main>
       <Footer />
       <PwaInstaller />

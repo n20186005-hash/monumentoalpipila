@@ -9,7 +9,10 @@ type SourceItem = { name: string; url: string };
 export default function SourcesSection() {
   const t = useTranslations('sources');
   const messages = useMessages() as any;
-  const items = (messages?.sources?.items ?? []) as SourceItem[];
+  const footer = useTranslations('footer');
+  const references = messages.sources.items as SourceItem[];
+  const official = Object.values(footer.raw('officialLinks')) as SourceItem[];
+  const items = Array.from(new Map([...official, ...references].map(item => [item.url, item])).values());
 
   return (
     <section
@@ -18,12 +21,12 @@ export default function SourcesSection() {
       style={{ background: 'var(--bg-primary)' }}
     >
       <div className="max-w-5xl mx-auto">
-        <h2
+        <h1
           className="font-display text-3xl sm:text-4xl font-semibold mb-2 text-center"
           style={{ color: 'var(--text-primary)' }}
         >
           {t('title')}
-        </h2>
+        </h1>
         <div
           className="w-12 h-0.5 mb-6 mx-auto rounded-full"
           style={{ background: 'var(--accent)' }}
@@ -68,6 +71,10 @@ export default function SourcesSection() {
             </li>
           ))}
         </ul>
+        <div className="mx-auto mt-10 max-w-4xl border-t border-[var(--border-color)] pt-6">
+          <h2 className="font-display text-xl">{footer('credits')}</h2>
+          <p className="mt-2 text-sm text-[var(--text-secondary)]">{footer('imageRights')}</p>
+        </div>
       </div>
     </section>
   );
